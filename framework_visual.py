@@ -44,9 +44,7 @@ def load_trades_data():
     
     df = pd.read_csv(DATA_FILE)
     
-    # Debug: Print unique team names to verify matching
-    print(f"Available teams: {df['team'].unique()}")
-    print(f"Looking for target team: '{TARGET_TEAM}'")
+    # Debug: Print basic info
     print(f"Target team found: {TARGET_TEAM in df['team'].values}")
     
     # Filter out extreme outliers above 300% portfolio
@@ -56,11 +54,22 @@ def load_trades_data():
     # Create log-transformed axes for balanced quadrants
     # Use log10(x + 1) to handle values close to 0
     df['log_pct_portfolio'] = np.log10(df['pct_portfolio'] + 1)
-    df['log_holding_days'] = np.log10(df['holding_days'] + 1)
+    
+    # Add jitter to spread out same-day (0 day) trades only
+    np.random.seed(42)  # For reproducible results
+    df['holding_days_jittered'] = df['holding_days'].astype(float).copy()
+    
+    # For same-day trades (0 days), add jitter between 0-1 to spread them out
+    same_day_mask = df['holding_days'] == 0
+    jitter_amount = np.random.uniform(0.1, 0.9, size=same_day_mask.sum())
+    df.loc[same_day_mask, 'holding_days_jittered'] = jitter_amount
+    
+    df['log_holding_days'] = np.log10(df['holding_days_jittered'] + 1)
+    
     
     # Calculate log thresholds for quadrant dividers
     log_risk_threshold = np.log10(8.0 + 1)  # 8% portfolio
-    log_hold_threshold = np.log10(8 + 1)    # 8 days
+    log_hold_threshold = np.log10(8 + 1)    # 8 days (using original value, not jittered)
     
     # Create quadrant labels based on actual values (using original pct_portfolio)
     def get_quadrant(row):
@@ -139,7 +148,6 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             trace.marker.line.color = outline_array
             trace.marker.line.width = 1.2  # Bolder outline
             
-            print(f"Trace {i}: Applied individual point styling to {len(team_names)} points")
     
     # Create custom axis labels for log scales
     y_log_min = df['log_pct_portfolio'].min()
@@ -151,8 +159,8 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
     y_tick_values = [np.log10(1), np.log10(2), np.log10(4), log_risk_threshold, np.log10(16), np.log10(50), np.log10(100), np.log10(200)]
     y_tick_labels = ['1%', '2%', '4%', '8%', '16%', '50%', '100%', '200%']
     
-    # Create x-axis tick positions and labels (holding days)
-    x_tick_values = [np.log10(1), np.log10(2), np.log10(4), log_hold_threshold, np.log10(16), np.log10(30), np.log10(60), np.log10(120)]
+    # Create x-axis tick positions and labels (holding days) - using +1 for log transform consistency
+    x_tick_values = [np.log10(1+1), np.log10(2+1), np.log10(4+1), log_hold_threshold, np.log10(16+1), np.log10(30+1), np.log10(60+1), np.log10(120+1)]
     x_tick_labels = ['1', '2', '4', '8', '16', '30', '60', '120']
     
     # Filter ticks to reasonable ranges
