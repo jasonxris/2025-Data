@@ -87,6 +87,9 @@ def load_trades_data():
     # Color mapping based on profit/loss
     df['profit_color'] = df['trade_result'].map({'Positive': 'green', 'Negative': 'red'})
     
+    # Create user-friendly trade result labels
+    df['trade_result_display'] = df['trade_result'].map({'Positive': 'Gain', 'Negative': 'Loss'})
+    
     # Team identification for opacity and outline
     df['is_target_team'] = df['team'] == TARGET_TEAM
     
@@ -120,8 +123,7 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             'total_pl_usd': ':$,.0f',
             'pct_portfolio': ':.2f%',
             'holding_days': True,
-            'trade_result': True,
-            'quadrant': True,
+            'trade_result_display': True,
             'pl_size': False,
             'profit_color': False,
             'is_target_team': False,
@@ -147,6 +149,17 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             trace.marker.opacity = opacity_array
             trace.marker.line.color = outline_array
             trace.marker.line.width = 1.2  # Bolder outline
+            
+            # Update hover template with better labels
+            trace.hovertemplate = (
+                '<b>%{customdata[0]}</b><br>' +
+                'Stock: %{customdata[1]}<br>' +
+                'Total Profit/Loss: %{customdata[2]:$,.0f}<br>' +
+                'Percent of Portfolio: %{customdata[3]:.2f}%<br>' +
+                'Holding Days: %{customdata[4]}<br>' +
+                'Trade Result: %{customdata[5]}<br>' +
+                '<extra></extra>'
+            )
             
     
     # Create custom axis labels for log scales
@@ -189,29 +202,32 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             zeroline=False,
             tickmode='array',
             tickvals=[val for val, _ in valid_y_ticks],
-            ticktext=[label for _, label in valid_y_ticks]
+            ticktext=[label for _, label in valid_y_ticks],
+            range=[y_log_min - 0.3, y_log_max + 0.3]  # Add padding above and below
         ),
         showlegend=False,  # Hide the automatic color legend
         plot_bgcolor='white',
         font=dict(size=12)
     )
     
-    # Calculate midpoints for quadrant labels in log space
+    # Calculate midpoints for quadrant labels - use padding areas for y-positioning
     x_log_mid_short = (x_log_min + log_hold_threshold) / 2  # Midpoint of 0-8 days range
     x_log_mid_long = (log_hold_threshold + x_log_max) / 2   # Midpoint of 8+ days range
-    y_log_mid_low = (y_log_min + log_risk_threshold) / 2   # Midpoint of 0-8% range
-    y_log_mid_high = (log_risk_threshold + y_log_max) / 2  # Midpoint of 8%+ range
     
-    # Add quadrant labels positioned based on log-transformed ranges
+    # Position labels in padding areas above and below data
+    y_label_bottom = y_log_min - 0.15  # Bottom padding area
+    y_label_top = y_log_max + 0.15     # Top padding area
+    
+    # Add quadrant labels positioned in padding areas
     quadrant_labels = [
-        dict(x=x_log_mid_short, y=y_log_mid_low, text='Quick Skims<br><i>(small, fast chops)</i>', showarrow=False, 
-             font=dict(size=12, color='gray'), xanchor='center', yanchor='middle'),
-        dict(x=x_log_mid_long, y=y_log_mid_low, text='Strategic Core<br><i>(small, patient positions)</i>', showarrow=False,
-             font=dict(size=12, color='gray'), xanchor='center', yanchor='middle'),
-        dict(x=x_log_mid_short, y=y_log_mid_high, text='Speculative Flips<br><i>(big, fast punts)</i>', showarrow=False,
-             font=dict(size=12, color='gray'), xanchor='center', yanchor='middle'),
-        dict(x=x_log_mid_long, y=y_log_mid_high, text='High-Conviction Bets<br><i>(large, patient stakes)</i>', showarrow=False,
-             font=dict(size=12, color='gray'), xanchor='center', yanchor='middle')
+        dict(x=x_log_mid_short, y=y_label_bottom, text='Quick Skims', showarrow=False, 
+             font=dict(size=14, color='black'), xanchor='center', yanchor='middle'),
+        dict(x=x_log_mid_long, y=y_label_bottom, text='Strategic Core', showarrow=False,
+             font=dict(size=14, color='black'), xanchor='center', yanchor='middle'),
+        dict(x=x_log_mid_short, y=y_label_top, text='Speculative Flips', showarrow=False,
+             font=dict(size=14, color='black'), xanchor='center', yanchor='middle'),
+        dict(x=x_log_mid_long, y=y_label_top, text='High-Conviction Bets', showarrow=False,
+             font=dict(size=14, color='black'), xanchor='center', yanchor='middle')
     ]
     
     fig.update_layout(annotations=quadrant_labels)
