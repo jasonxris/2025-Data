@@ -44,6 +44,11 @@ def load_trades_data():
     
     df = pd.read_csv(DATA_FILE)
     
+    # Debug: Print unique team names to verify matching
+    print(f"Available teams: {df['team'].unique()}")
+    print(f"Looking for target team: '{TARGET_TEAM}'")
+    print(f"Target team found: {TARGET_TEAM in df['team'].values}")
+    
     # Filter out extreme outliers above 300% portfolio
     df = df[df['pct_portfolio'] <= 300.0].copy()
     print(f"Filtered to {len(df)} trades (removed trades > 300% portfolio)")
@@ -70,10 +75,11 @@ def load_trades_data():
     
     df['quadrant'] = df.apply(get_quadrant, axis=1)
     
-    # Color mapping: highlight target team
-    df['team_color'] = df['team'].apply(
-        lambda x: TARGET_TEAM if x == TARGET_TEAM else 'Other Teams'
-    )
+    # Color mapping based on profit/loss
+    df['profit_color'] = df['trade_result'].map({'Positive': 'green', 'Negative': 'red'})
+    
+    # Team identification for opacity and outline
+    df['is_target_team'] = df['team'] == TARGET_TEAM
     
     # Absolute P/L for bubble sizing with much larger minimum size
     df['abs_pl'] = df['total_pl_usd'].abs()
@@ -88,20 +94,14 @@ def load_trades_data():
 def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
     """Create the 2x2 Framework quadrant visualization"""
     
-    # Custom color palette
-    color_map = {
-        TARGET_TEAM: '#1f77b4',  # Blue for target team
-        'Other Teams': '#d3d3d3'  # Light grey for others
-    }
-    
-    # Create scatter plot using log-transformed axes
+    # Create scatter plot using px.scatter with profit/loss colors
     fig = px.scatter(
         df,
         x='log_holding_days',
         y='log_pct_portfolio',
         size='pl_size',
-        color='team_color',
-        color_discrete_map=color_map,
+        color='profit_color',
+        color_discrete_map={'green': 'green', 'red': 'red'},
         hover_data={
             'team': True,
             'symbol': True,
@@ -111,7 +111,8 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             'trade_result': True,
             'quadrant': True,
             'pl_size': False,
-            'team_color': False,
+            'profit_color': False,
+            'is_target_team': False,
             'log_pct_portfolio': False,
             'log_holding_days': False
         },
@@ -119,6 +120,23 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
         width=800,
         height=600
     )
+    
+    # Apply styling per individual point within each trace
+    for i, trace in enumerate(fig.data):
+        if hasattr(trace, 'customdata') and len(trace.customdata) > 0:
+            # Get team names for this trace
+            team_names = trace.customdata[:, 0]  # Team names are in first column
+            
+            # Create arrays for opacity and outline color based on team
+            opacity_array = [1.0 if team == TARGET_TEAM else 0.3 for team in team_names]
+            outline_array = ['rgba(0,0,0,0.4)' if team == TARGET_TEAM else 'rgba(0,0,0,0)' for team in team_names]
+            
+            # Apply the arrays to this trace
+            trace.marker.opacity = opacity_array
+            trace.marker.line.color = outline_array
+            trace.marker.line.width = 1
+            
+            print(f"Trace {i}: Applied individual point styling to {len(team_names)} points")
     
     # Create custom axis labels for log scales
     y_log_min = df['log_pct_portfolio'].min()
@@ -195,9 +213,9 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
     fig.update_layout(annotations=quadrant_labels)
     
     # Add dividing lines at threshold values
-    fig.add_hline(y=log_risk_threshold, line_dash="dash", line_color="red", opacity=0.7, 
+    fig.add_hline(y=log_risk_threshold, line_dash="dash", line_color="black", opacity=0.7, 
                   annotation_text="8% Portfolio Threshold", annotation_position="right")
-    fig.add_vline(x=log_hold_threshold, line_dash="dash", line_color="red", opacity=0.7,
+    fig.add_vline(x=log_hold_threshold, line_dash="dash", line_color="black", opacity=0.7,
                   annotation_text="8 Day Threshold", annotation_position="top")
     
     return fig
