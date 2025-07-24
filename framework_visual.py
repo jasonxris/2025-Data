@@ -81,6 +81,9 @@ def load_trades_data():
     # Team identification for opacity and outline
     df['is_target_team'] = df['team'] == TARGET_TEAM
     
+    # Sort so target team dots are drawn last (on top)
+    df = df.sort_values('is_target_team', ascending=True)  # False first, True last
+    
     # Absolute P/L for bubble sizing with much larger minimum size
     df['abs_pl'] = df['total_pl_usd'].abs()
     df['pl_size'] = df['abs_pl'] + 30000  # 4x larger minimum size for better visibility
@@ -129,12 +132,12 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             
             # Create arrays for opacity and outline color based on team
             opacity_array = [1.0 if team == TARGET_TEAM else 0.3 for team in team_names]
-            outline_array = ['rgba(0,0,0,0.4)' if team == TARGET_TEAM else 'rgba(0,0,0,0)' for team in team_names]
+            outline_array = ['rgba(0,0,0,0.6)' if team == TARGET_TEAM else 'rgba(0,0,0,0)' for team in team_names]
             
             # Apply the arrays to this trace
             trace.marker.opacity = opacity_array
             trace.marker.line.color = outline_array
-            trace.marker.line.width = 1
+            trace.marker.line.width = 1.2  # Bolder outline
             
             print(f"Trace {i}: Applied individual point styling to {len(team_names)} points")
     
@@ -180,14 +183,7 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             tickvals=[val for val, _ in valid_y_ticks],
             ticktext=[label for _, label in valid_y_ticks]
         ),
-        legend=dict(
-            title='Team',
-            orientation="h",
-            yanchor="bottom",
-            y=1.02,
-            xanchor="right",
-            x=1
-        ),
+        showlegend=False,  # Hide the automatic color legend
         plot_bgcolor='white',
         font=dict(size=12)
     )
@@ -217,6 +213,20 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
                   annotation_text="8% Portfolio Threshold", annotation_position="right")
     fig.add_vline(x=log_hold_threshold, line_dash="dash", line_color="black", opacity=0.7,
                   annotation_text="8 Day Threshold", annotation_position="top")
+    
+    # Add explanatory text annotations for legend in top-right corner
+    fig.add_annotation(
+        x=0.98, y=0.98, xref="paper", yref="paper",
+        text="<b>Color:</b><br>🟢 Green = Gain<br>🔴 Red = Loss<br><br><b>Opacity:</b><br>Bright = Seventh Sense<br>Faded = Other Teams<br><br><b>Size:</b><br>Larger = Higher P/L",
+        showarrow=False,
+        align="left",
+        xanchor="right",
+        yanchor="top",
+        bgcolor="rgba(255,255,255,0.9)",
+        bordercolor="gray",
+        borderwidth=1,
+        font=dict(size=10)
+    )
     
     return fig
 
