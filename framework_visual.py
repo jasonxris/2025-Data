@@ -203,7 +203,7 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             tickmode='array',
             tickvals=[val for val, _ in valid_y_ticks],
             ticktext=[label for _, label in valid_y_ticks],
-            range=[y_log_min - 0.3, y_log_max + 0.3]  # Add padding above and below
+            range=[y_log_min - 0.5, y_log_max + 0.6]  # More padding at top for higher labels
         ),
         showlegend=False,  # Hide the automatic color legend
         plot_bgcolor='white',
@@ -214,11 +214,11 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
     x_log_mid_short = (x_log_min + log_hold_threshold) / 2  # Midpoint of 0-8 days range
     x_log_mid_long = (log_hold_threshold + x_log_max) / 2   # Midpoint of 8+ days range
     
-    # Position labels in padding areas above and below data
-    y_label_bottom = y_log_min - 0.15  # Bottom padding area
-    y_label_top = y_log_max + 0.15     # Top padding area
+    # Position labels in padding areas above and below data with extra space
+    y_label_bottom = y_log_min - 0.2   # Bottom padding area for titles
+    y_label_top = y_log_max + 0.35     # Top padding area for titles (higher up)
     
-    # Add quadrant labels positioned in padding areas
+    # Simple clean quadrant labels only
     quadrant_labels = [
         dict(x=x_log_mid_short, y=y_label_bottom, text='Quick Skims', showarrow=False, 
              font=dict(size=14, color='black'), xanchor='center', yanchor='middle'),
