@@ -34,6 +34,7 @@ TARGET_TEAM = "Seventh Sense Investing"  # Team to highlight in color
 OUTPUT_FILE = Path(__file__).resolve().parent / "output" / "framework_visual.html"
 
 
+
 # -----------------------------------------------------------------
 # Load and prepare data
 # -----------------------------------------------------------------
@@ -47,13 +48,30 @@ def load_trades_data():
     # Debug: Print basic info
     print(f"Target team found: {TARGET_TEAM in df['team'].values}")
     
-    # Filter out extreme outliers above 300% portfolio
-    df = df[df['pct_portfolio'] <= 300.0].copy()
-    print(f"Filtered to {len(df)} trades (removed trades > 300% portfolio)")
+    print(f"Loaded {len(df)} trades from data file")
     
-    # Create log-transformed axes for balanced quadrants
-    # Use log10(x + 1) to handle values close to 0
-    df['log_pct_portfolio'] = np.log10(df['pct_portfolio'] + 1)
+    # Create evenly-spaced scaled y-axis positions to match tick system
+    def even_portfolio_scale(pct):
+        """Scale portfolio percentages to match evenly-spaced tick system"""
+        # Define the percentage breakpoints including 0% and 300%
+        y_percentages = [0, 1, 2, 4, 8, 16, 50, 100, 200, 300]
+        
+        # Find which segment the percentage falls into
+        if pct <= y_percentages[0]:  # At or below 0%
+            return 0.0
+        elif pct >= y_percentages[-1]:  # Above 300%
+            return len(y_percentages) - 1
+        else:
+            # Find the segment and interpolate
+            for i in range(len(y_percentages) - 1):
+                if y_percentages[i] <= pct <= y_percentages[i + 1]:
+                    # Linear interpolation between the two tick positions
+                    ratio = (pct - y_percentages[i]) / (y_percentages[i + 1] - y_percentages[i])
+                    return i + ratio
+        
+        return 0.0  # Fallback
+    
+    df['log_pct_portfolio'] = df['pct_portfolio'].apply(even_portfolio_scale)
     
     # Add jitter to spread out same-day (0 day) trades only
     np.random.seed(42)  # For reproducible results
@@ -68,7 +86,6 @@ def load_trades_data():
     
     
     # Calculate log thresholds for quadrant dividers
-    log_risk_threshold = np.log10(8.0 + 1)  # 8% portfolio
     log_hold_threshold = np.log10(8 + 1)    # 8 days (using original value, not jittered)
     
     # Create quadrant labels based on actual values (using original pct_portfolio)
@@ -98,15 +115,15 @@ def load_trades_data():
     
     # Absolute P/L for bubble sizing with much larger minimum size
     df['abs_pl'] = df['total_pl_usd'].abs()
-    df['pl_size'] = df['abs_pl'] + 30000  # 4x larger minimum size for better visibility
+    df['pl_size'] = df['abs_pl'] + 40000  # 4x larger minimum size for better visibility
     
-    return df, log_risk_threshold, log_hold_threshold
+    return df, log_hold_threshold
 
 
 # -----------------------------------------------------------------
 # Create visualization
 # -----------------------------------------------------------------
-def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
+def create_framework_chart(df, log_hold_threshold):
     """Create the 2x2 Framework quadrant visualization"""
     
     # Create scatter plot using px.scatter with profit/loss colors
@@ -130,7 +147,7 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             'log_pct_portfolio': False,
             'log_holding_days': False
         },
-        title='Trading Framework: Risk Appetite vs Holding Period Analysis (Log Scale)',
+        title='Risk Appetite vs Holding Period Analysis',
         width=800,
         height=600
     )
@@ -162,48 +179,54 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
             )
             
     
-    # Create custom axis labels for log scales
+    # Get axis ranges
     y_log_min = df['log_pct_portfolio'].min()
     y_log_max = df['log_pct_portfolio'].max()
     x_log_min = df['log_holding_days'].min()
     x_log_max = df['log_holding_days'].max()
     
-    # Create y-axis tick positions and labels (portfolio %)
-    y_tick_values = [np.log10(1), np.log10(2), np.log10(4), log_risk_threshold, np.log10(16), np.log10(50), np.log10(100), np.log10(200)]
-    y_tick_labels = ['1%', '2%', '4%', '8%', '16%', '50%', '100%', '200%']
+    # Create evenly spaced y-axis ticks that represent the correct percentage values
+    y_percentages = [0, 1, 2, 4, 8, 16, 50, 100, 200, 300]
+    y_tick_labels = [f'{p}%' for p in y_percentages]
+    
+    # Create evenly spaced positions - use index positions directly
+    y_tick_values = list(range(len(y_percentages)))
+    
+    # Calculate the position of 8% threshold in the evenly spaced system
+    # 8% is at index 4 in the y_percentages list [0, 1, 2, 4, 8, 16, 50, 100, 200, 300]
+    log_risk_threshold = 4
     
     # Create x-axis tick positions and labels (holding days) - using +1 for log transform consistency
     x_tick_values = [np.log10(1+1), np.log10(2+1), np.log10(4+1), log_hold_threshold, np.log10(16+1), np.log10(30+1), np.log10(60+1), np.log10(120+1)]
     x_tick_labels = ['1', '2', '4', '8', '16', '30', '60', '120']
     
-    # Filter ticks to reasonable ranges
-    valid_y_ticks = [(val, label) for val, label in zip(y_tick_values, y_tick_labels) 
-                     if y_log_min <= val <= y_log_max]
+    # Filter x-axis ticks to reasonable ranges
     valid_x_ticks = [(val, label) for val, label in zip(x_tick_values, x_tick_labels) 
                      if x_log_min <= val <= x_log_max]
     
     # Customize layout
     fig.update_layout(
         xaxis=dict(
-            title='Holding Period (Days) - Log Scale',
+            title='Holding Period (Days)',
             showgrid=True,
             gridwidth=1,
             gridcolor='lightgray',
             zeroline=False,
             tickmode='array',
             tickvals=[val for val, _ in valid_x_ticks],
-            ticktext=[label for _, label in valid_x_ticks]
+            ticktext=[label for _, label in valid_x_ticks],
+            range=[x_log_min - 0.1, x_log_max + 0.3]  # Add extra buffer on the right
         ),
         yaxis=dict(
-            title='Risk Level (% of $1M Portfolio) - Log Scale',
+            title='Risk Level (% of $1M Portfolio)',
             showgrid=True,
             gridwidth=1,
             gridcolor='lightgray',
             zeroline=False,
             tickmode='array',
-            tickvals=[val for val, _ in valid_y_ticks],
-            ticktext=[label for _, label in valid_y_ticks],
-            range=[y_log_min - 0.5, y_log_max + 0.6]  # More padding at top for higher labels
+            tickvals=y_tick_values,
+            ticktext=y_tick_labels,
+            range=[-0.5, len(y_percentages) - 1 + 0.6]  # More padding at top for higher labels
         ),
         showlegend=False,  # Hide the automatic color legend
         plot_bgcolor='white',
@@ -215,8 +238,8 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
     x_log_mid_long = (log_hold_threshold + x_log_max) / 2   # Midpoint of 8+ days range
     
     # Position labels in padding areas above and below data with extra space
-    y_label_bottom = y_log_min - 0.2   # Bottom padding area for titles
-    y_label_top = y_log_max + 0.35     # Top padding area for titles (higher up)
+    y_label_bottom = -0.2   # Bottom padding area for titles
+    y_label_top = len(y_percentages) - 1 + 0.35     # Top padding area for titles (higher up)
     
     # Simple clean quadrant labels only
     quadrant_labels = [
@@ -226,7 +249,7 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
              font=dict(size=14, color='black'), xanchor='center', yanchor='middle'),
         dict(x=x_log_mid_short, y=y_label_top, text='Speculative Flips', showarrow=False,
              font=dict(size=14, color='black'), xanchor='center', yanchor='middle'),
-        dict(x=x_log_mid_long, y=y_label_top, text='High-Conviction Bets', showarrow=False,
+        dict(x=x_log_mid_long, y=y_label_top, text='High Conviction', showarrow=False,
              font=dict(size=14, color='black'), xanchor='center', yanchor='middle')
     ]
     
@@ -340,11 +363,11 @@ def main():
     """Generate Framework visualization and summary"""
     try:
         # Load data
-        df, log_risk_threshold, log_hold_threshold = load_trades_data()
+        df, log_hold_threshold = load_trades_data()
         print(f"Loaded {len(df)} trades from {DATA_FILE}")
         
         # Create visualization
-        fig = create_framework_chart(df, log_risk_threshold, log_hold_threshold)
+        fig = create_framework_chart(df, log_hold_threshold)
         
         # Save interactive HTML
         fig.write_html(OUTPUT_FILE)
