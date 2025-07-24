@@ -51,6 +51,10 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 TODAY = datetime.datetime.today()          # used for forced exits
 
+# Thresholds for risk and hold classification
+RISK_THRESHOLD_PCT = 8.0                   # >= 8% of portfolio = High-Risk
+HOLD_THRESHOLD_DAYS = 8                    # >= 8 days = Long-Hold
+
 
 # -----------------------------------------------------------------
 # Helpers
@@ -157,6 +161,8 @@ def process_team(trade_csv: str, holdings_map: dict):
                 profit = (wavg_entry_price - price) * total_qty
 
             pct_ret = profit / (abs(wavg_entry_price) * total_qty) * 100
+            holding_days = (date.date() - entry_date.date()).days
+            pct_portfolio = round((abs(wavg_entry_price * total_qty) / 1000000) * 100, 4)
 
             output_rows.append({
                 "team"        : team,
@@ -164,12 +170,16 @@ def process_team(trade_csv: str, holdings_map: dict):
                 "trade_type"  : "Long" if is_long else "Short",
                 "entry_date"  : entry_date.date(),
                 "exit_date"   : date.date(),
-                "holding_days": (date.date() - entry_date.date()).days,
+                "holding_days": holding_days,
                 "qty"         : total_qty,
                 "entry_price" : round(wavg_entry_price, 4),
                 "exit_price"  : price,
                 "total_pl_usd": round(profit, 2),
                 "pct_return"  : round(pct_ret, 2),
+                "trade_result": "Positive" if profit > 0 else "Negative",
+                "pct_portfolio": pct_portfolio,
+                "risk_level"   : "High-Risk" if pct_portfolio >= RISK_THRESHOLD_PCT else "Low-Risk",
+                "hold_type"    : "Long-Hold" if holding_days >= HOLD_THRESHOLD_DAYS else "Short-Hold",
             })
 
     # ----- force‑close any residual positions ------------------------------
@@ -185,18 +195,25 @@ def process_team(trade_csv: str, holdings_map: dict):
                 profit = ((exit_price - entry_price) if is_long
                           else (entry_price - exit_price)) * qty
                 pct_ret = profit / (abs(entry_price) * qty) * 100
+                holding_days = (today - entry_date.date()).days
+                pct_portfolio = round((abs(entry_price * qty) / 1000000) * 100, 4)
+                
                 output_rows.append({
                     "team"        : team,
                     "symbol"      : sym,
                     "trade_type"  : "Long" if is_long else "Short",
                     "entry_date"  : entry_date.date(),
                     "exit_date"   : today,
-                    "holding_days": (today - entry_date.date()).days,
+                    "holding_days": holding_days,
                     "qty"         : qty,
                     "entry_price" : round(entry_price, 4),
                     "exit_price"  : exit_price,
                     "total_pl_usd": round(profit, 2),
                     "pct_return"  : round(pct_ret, 2),
+                    "trade_result": "Positive" if profit > 0 else "Negative",
+                    "pct_portfolio": pct_portfolio,
+                    "risk_level"   : "High-Risk" if pct_portfolio >= RISK_THRESHOLD_PCT else "Low-Risk",
+                    "hold_type"    : "Long-Hold" if holding_days >= HOLD_THRESHOLD_DAYS else "Short-Hold",
                 })
 
     close_remaining(long_inv,  True)    # long leftovers → forced Sell
