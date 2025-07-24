@@ -226,7 +226,7 @@ def create_framework_chart(df, log_hold_threshold):
             tickmode='array',
             tickvals=y_tick_values,
             ticktext=y_tick_labels,
-            range=[-0.5, len(y_percentages) - 1 + 0.6]  # More padding at top for higher labels
+            range=[-2.0, len(y_percentages) - 1 + 2.0]  # Extra buffer space above and below for manual quadrant stats
         ),
         showlegend=False,  # Hide the automatic color legend
         plot_bgcolor='white',
@@ -237,9 +237,9 @@ def create_framework_chart(df, log_hold_threshold):
     x_log_mid_short = (x_log_min + log_hold_threshold) / 2  # Midpoint of 0-8 days range
     x_log_mid_long = (log_hold_threshold + x_log_max) / 2   # Midpoint of 8+ days range
     
-    # Position labels in padding areas above and below data with extra space
-    y_label_bottom = -0.2   # Bottom padding area for titles
-    y_label_top = len(y_percentages) - 1 + 0.35     # Top padding area for titles (higher up)
+    # Position labels higher up to leave space below them for statistics
+    y_label_bottom = -0.5   # Bottom padding area for titles (leave space below for stats)
+    y_label_top = len(y_percentages) - 1 + 1.7     # Top padding area for titles (leave space below for stats)
     
     # Simple clean quadrant labels only
     quadrant_labels = [
