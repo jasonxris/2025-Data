@@ -252,6 +252,43 @@ def create_framework_chart(df, log_risk_threshold, log_hold_threshold):
         font=dict(size=10)
     )
     
+    # Print quadrant statistics to console
+    print("\n" + "="*80)
+    print("QUADRANT ANALYSIS")
+    print("="*80)
+    
+    def print_quadrant_stats(quadrant_name, quadrant_filter):
+        # All teams data
+        all_data = df[quadrant_filter]
+        all_trades = len(all_data)
+        all_total_pl = all_data['total_pl_usd'].sum()
+        all_win_rate = (all_data['total_pl_usd'] > 0).mean() * 100 if len(all_data) > 0 else 0
+        
+        # Target team data
+        target_data = df[(quadrant_filter) & (df['team'] == TARGET_TEAM)]
+        target_trades = len(target_data)
+        target_total_pl = target_data['total_pl_usd'].sum()
+        target_win_rate = (target_data['total_pl_usd'] > 0).mean() * 100 if len(target_data) > 0 else 0
+        
+        print(f"\n{quadrant_name.upper()}")
+        print("-" * 40)
+        print(f"Your Team ({TARGET_TEAM}):")
+        print(f"  Trades: {target_trades}")
+        print(f"  Total P/L: ${target_total_pl:,.2f}")
+        print(f"  Win Rate: {target_win_rate:.1f}%")
+        print(f"\nAll Teams:")
+        print(f"  Trades: {all_trades}")
+        print(f"  Total P/L: ${all_total_pl:,.2f}")
+        print(f"  Win Rate: {all_win_rate:.1f}%")
+    
+    # Print stats for each quadrant
+    print_quadrant_stats("Quick Skims", (df['pct_portfolio'] < 8.0) & (df['holding_days'] < 8))
+    print_quadrant_stats("Strategic Core", (df['pct_portfolio'] < 8.0) & (df['holding_days'] >= 8))
+    print_quadrant_stats("Speculative Flips", (df['pct_portfolio'] >= 8.0) & (df['holding_days'] < 8))
+    print_quadrant_stats("High-Conviction Bets", (df['pct_portfolio'] >= 8.0) & (df['holding_days'] >= 8))
+    
+    print("\n" + "="*80)
+    
     return fig
 
 
