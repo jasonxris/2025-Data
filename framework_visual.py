@@ -113,6 +113,9 @@ def load_trades_data():
     # Sort so target team dots are drawn last (on top)
     df = df.sort_values('is_target_team', ascending=True)  # False first, True last
     
+    # Add z-order to ensure target team is always on top
+    df['z_order'] = df['is_target_team'].astype(int)  # 0 for other teams, 1 for target team
+    
     # Better bubble sizing with proper scaling
     df['abs_pl'] = df['total_pl_usd'].abs()
     
@@ -184,60 +187,78 @@ def load_trades_data():
 def create_framework_chart(df, log_hold_threshold):
     """Create the 2x2 Framework quadrant visualization"""
     
-    # Create scatter plot using px.scatter with profit/loss colors
-    fig = px.scatter(
-        df,
-        x='even_spaced_holding',
-        y='log_pct_portfolio',
-        size='pl_size',
-        color='profit_color',
-        color_discrete_map={'green': 'green', 'red': 'red'},
-        hover_data={
-            'team': True,
-            'symbol': True,
-            'total_pl_usd': ':$,.0f',
-            'pct_portfolio': ':.2f%',
-            'holding_days': True,
-            'trade_result_display': True,
-            'pl_size': False,
-            'profit_color': False,
-            'is_target_team': False,
-            'log_pct_portfolio': False,
-            'log_holding_days': False
-        },
+    # Create separate dataframes for proper layering
+    df_other = df[~df['is_target_team']]
+    df_target = df[df['is_target_team']]
+    
+    # Create empty figure
+    fig = go.Figure()
+    
+    # Add other teams first (they'll be behind)
+    for result_type in ['red', 'green']:
+        data_subset = df_other[df_other['profit_color'] == result_type]
+        if len(data_subset) > 0:
+            fig.add_trace(go.Scatter(
+                x=data_subset['even_spaced_holding'],
+                y=data_subset['log_pct_portfolio'],
+                mode='markers',
+                marker=dict(
+                    size=data_subset['pl_size'],
+                    color=result_type,
+                    opacity=0.3,
+                    line=dict(color='rgba(0,0,0,0)', width=0),
+                    sizemode='area',
+                    sizeref=2.*max(df['pl_size'])/(25.**2)/1.01
+                ),
+                customdata=data_subset[['team', 'symbol', 'total_pl_usd', 'pct_portfolio', 'holding_days', 'trade_result_display']].values,
+                hovertemplate=(
+                    '<b>%{customdata[0]}</b><br>' +
+                    'Stock: %{customdata[1]}<br>' +
+                    'Total Profit/Loss: %{customdata[2]:$,.0f}<br>' +
+                    'Percent of Portfolio: %{customdata[3]:.2f}%<br>' +
+                    'Holding Days: %{customdata[4]}<br>' +
+                    'Trade Result: %{customdata[5]}<br>' +
+                    '<extra></extra>'
+                ),
+                showlegend=False
+            ))
+    
+    # Add target team on top (they'll be in front)
+    for result_type in ['red', 'green']:
+        data_subset = df_target[df_target['profit_color'] == result_type]
+        if len(data_subset) > 0:
+            fig.add_trace(go.Scatter(
+                x=data_subset['even_spaced_holding'],
+                y=data_subset['log_pct_portfolio'],
+                mode='markers',
+                marker=dict(
+                    size=data_subset['pl_size'],
+                    color=result_type,
+                    opacity=1.0,
+                    line=dict(color='rgba(0,0,0,0.6)', width=1.2),
+                    sizemode='area',
+                    sizeref=2.*max(df['pl_size'])/(38.**2)/1.01
+                ),
+                customdata=data_subset[['team', 'symbol', 'total_pl_usd', 'pct_portfolio', 'holding_days', 'trade_result_display']].values,
+                hovertemplate=(
+                    '<b>%{customdata[0]}</b><br>' +
+                    'Stock: %{customdata[1]}<br>' +
+                    'Total Profit/Loss: %{customdata[2]:$,.0f}<br>' +
+                    'Percent of Portfolio: %{customdata[3]:.2f}%<br>' +
+                    'Holding Days: %{customdata[4]}<br>' +
+                    'Trade Result: %{customdata[5]}<br>' +
+                    '<extra></extra>'
+                ),
+                showlegend=False
+            ))
+    
+    # Update layout
+    fig.update_layout(
         title='Risk Appetite vs Holding Period Analysis',
         width=800,
         height=600
     )
     
-    # Make all dots 1.75x larger by adjusting sizeref
-    fig.update_traces(marker=dict(sizeref=2.*max(df['pl_size'])/(33.**2)/1.01))
-    
-    # Apply styling per individual point within each trace
-    for i, trace in enumerate(fig.data):
-        if hasattr(trace, 'customdata') and len(trace.customdata) > 0:
-            # Get team names for this trace
-            team_names = trace.customdata[:, 0]  # Team names are in first column
-            
-            # Create arrays for opacity and outline color based on team
-            opacity_array = [1.0 if team == TARGET_TEAM else 0.3 for team in team_names]
-            outline_array = ['rgba(0,0,0,0.6)' if team == TARGET_TEAM else 'rgba(0,0,0,0)' for team in team_names]
-            
-            # Apply the arrays to this trace
-            trace.marker.opacity = opacity_array
-            trace.marker.line.color = outline_array
-            trace.marker.line.width = 1.2  # Bolder outline
-            
-            # Update hover template with better labels
-            trace.hovertemplate = (
-                '<b>%{customdata[0]}</b><br>' +
-                'Stock: %{customdata[1]}<br>' +
-                'Total Profit/Loss: %{customdata[2]:$,.0f}<br>' +
-                'Percent of Portfolio: %{customdata[3]:.2f}%<br>' +
-                'Holding Days: %{customdata[4]}<br>' +
-                'Trade Result: %{customdata[5]}<br>' +
-                '<extra></extra>'
-            )
             
     
     # Get axis ranges
