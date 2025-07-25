@@ -232,7 +232,7 @@ def create_framework_chart(df, log_hold_threshold):
                 y=data_subset['log_pct_portfolio'],
                 mode='markers',
                 marker=dict(
-                    size=data_subset['pl_size'],
+                    size=data_subset['pl_size'] * 0.75,  # Reduce Seventh Sense dots by 15%
                     color=result_type,
                     opacity=1.0,
                     line=dict(color='rgba(0,0,0,0.6)', width=1.2),
