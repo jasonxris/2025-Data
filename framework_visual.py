@@ -12,7 +12,7 @@ Quadrants:
 - Strategic Core (Low-Risk, Long-Hold): small, patient positions
 - High-Conviction Bets (High-Risk, Long-Hold): large, patient stakes
 
-X-axis: Holding Period (Short-Hold < 8 days, Long-Hold ≥ 8 days)
+X-axis: Holding Period (Short-Hold < 6 days, Long-Hold ≥ 6 days)
 Y-axis: Risk Level (Low-Risk < 8%, High-Risk ≥ 8% of $1M portfolio)
 Bubble size: Realized P/L ($)
 Color: Highlights "Seventh Sense Investing" vs peers (grey)
@@ -86,15 +86,15 @@ def load_trades_data():
     
     
     # Calculate log thresholds for quadrant dividers
-    log_hold_threshold = np.log10(8 + 1)    # 8 days (using original value, not jittered)
+    log_hold_threshold = np.log10(6 + 1)    # 6 days (using original value, not jittered)
     
     # Create quadrant labels based on actual values (using original pct_portfolio)
     def get_quadrant(row):
-        if row['pct_portfolio'] < 8.0 and row['holding_days'] < 8:
+        if row['pct_portfolio'] < 8.0 and row['holding_days'] < 6:
             return 'Quick Skims<br>(small, fast chops)'
-        elif row['pct_portfolio'] >= 8.0 and row['holding_days'] < 8:
+        elif row['pct_portfolio'] >= 8.0 and row['holding_days'] < 6:
             return 'Speculative Flips<br>(big, fast punts)'
-        elif row['pct_portfolio'] < 8.0 and row['holding_days'] >= 8:
+        elif row['pct_portfolio'] < 8.0 and row['holding_days'] >= 6:
             return 'Strategic Core<br>(small, patient positions)'
         else:  # High-Risk, Long-Hold
             return 'High-Conviction Bets<br>(large, patient stakes)'
@@ -189,6 +189,9 @@ def create_framework_chart(df, log_hold_threshold):
         height=600
     )
     
+    # Make all dots 1.75x larger by adjusting sizeref
+    fig.update_traces(marker=dict(sizeref=2.*max(df['pl_size'])/(33.**2)/1.01))
+    
     # Apply styling per individual point within each trace
     for i, trace in enumerate(fig.data):
         if hasattr(trace, 'customdata') and len(trace.customdata) > 0:
@@ -235,7 +238,7 @@ def create_framework_chart(df, log_hold_threshold):
     
     # Create x-axis tick positions and labels (holding days) - using +1 for log transform consistency
     x_tick_values = [np.log10(1+1), np.log10(2+1), np.log10(4+1), log_hold_threshold, np.log10(16+1), np.log10(30+1), np.log10(60+1), np.log10(120+1)]
-    x_tick_labels = ['1', '2', '4', '8', '16', '30', '60', '120']
+    x_tick_labels = ['1', '2', '4', '6', '16', '30', '60', '120']
     
     # Filter x-axis ticks to reasonable ranges
     valid_x_ticks = [(val, label) for val, label in zip(x_tick_values, x_tick_labels) 
@@ -296,7 +299,7 @@ def create_framework_chart(df, log_hold_threshold):
     fig.add_hline(y=log_risk_threshold, line_dash="dash", line_color="black", opacity=0.7, 
                   annotation_text="8% Portfolio Threshold", annotation_position="right")
     fig.add_vline(x=log_hold_threshold, line_dash="dash", line_color="black", opacity=0.7,
-                  annotation_text="8 Day Threshold", annotation_position="top")
+                  annotation_text="6 Day Threshold", annotation_position="top")
     
     # Add explanatory text annotations for legend in top-right corner
     fig.add_annotation(
@@ -342,10 +345,10 @@ def create_framework_chart(df, log_hold_threshold):
         print(f"  Win Rate: {all_win_rate:.1f}%")
     
     # Print stats for each quadrant
-    print_quadrant_stats("Quick Skims", (df['pct_portfolio'] < 8.0) & (df['holding_days'] < 8))
-    print_quadrant_stats("Strategic Core", (df['pct_portfolio'] < 8.0) & (df['holding_days'] >= 8))
-    print_quadrant_stats("Speculative Flips", (df['pct_portfolio'] >= 8.0) & (df['holding_days'] < 8))
-    print_quadrant_stats("High-Conviction Bets", (df['pct_portfolio'] >= 8.0) & (df['holding_days'] >= 8))
+    print_quadrant_stats("Quick Skims", (df['pct_portfolio'] < 8.0) & (df['holding_days'] < 6))
+    print_quadrant_stats("Strategic Core", (df['pct_portfolio'] < 8.0) & (df['holding_days'] >= 6))
+    print_quadrant_stats("Speculative Flips", (df['pct_portfolio'] >= 8.0) & (df['holding_days'] < 6))
+    print_quadrant_stats("High-Conviction Bets", (df['pct_portfolio'] >= 8.0) & (df['holding_days'] >= 6))
     
     print("\n" + "="*80)
     

@@ -53,7 +53,7 @@ TODAY = datetime.datetime.today()          # used for forced exits
 
 # Thresholds for risk and hold classification
 RISK_THRESHOLD_PCT = 8.0                   # >= 8% of portfolio = High-Risk
-HOLD_THRESHOLD_DAYS = 8                    # >= 8 days = Long-Hold
+HOLD_THRESHOLD_DAYS = 6                    # >= 6 days = Long-Hold
 
 
 # -----------------------------------------------------------------
@@ -163,6 +163,11 @@ def process_team(trade_csv: str, holdings_map: dict):
             pct_ret = profit / (abs(wavg_entry_price) * total_qty) * 100
             holding_days = (date.date() - entry_date.date()).days
             pct_portfolio = round((abs(wavg_entry_price * total_qty) / 1000000) * 100, 4)
+            trade_amount = abs(wavg_entry_price * total_qty)
+            
+            # Skip trades with total amount less than $1000
+            if trade_amount < 1000:
+                continue
 
             output_rows.append({
                 "team"        : team,
@@ -195,8 +200,13 @@ def process_team(trade_csv: str, holdings_map: dict):
                 profit = ((exit_price - entry_price) if is_long
                           else (entry_price - exit_price)) * qty
                 pct_ret = profit / (abs(entry_price) * qty) * 100
-                holding_days = (today - entry_date.date()).days
+                holding_days = (today - entry_date.date()).days + 6
                 pct_portfolio = round((abs(entry_price * qty) / 1000000) * 100, 4)
+                trade_amount = abs(entry_price * qty)
+                
+                # Skip trades with total amount less than $1000
+                if trade_amount < 1000:
+                    continue
                 
                 output_rows.append({
                     "team"        : team,

@@ -34,14 +34,14 @@ Wolverines With a Dartboard,WLDS,Short,2025-05-15,2025-05-15,0,130000,1.9569,1.9
 Wolverines With a Dartboard,LUNR,Long,2025-05-15,2025-05-16,1,582,11.78,12.33,320.1,4.67,Positive,0.6856,Low-Risk,Short-Hold
 Wolverines With a Dartboard,LCID,Long,2025-05-15,2025-05-16,1,3016,2.72,2.82,301.6,3.68,Positive,0.8204,Low-Risk,Short-Hold
 Wolverines With a Dartboard,INZY,Short,2025-05-16,2025-05-16,0,20000,3.94,3.95,-200.0,-0.25,Negative,7.88,Low-Risk,Short-Hold
-Wolverines With a Dartboard,SMR,Short,2025-05-13,2025-05-19,6,7516,20.64,23.2,-19240.96,-12.4,Negative,15.513,High-Risk,Short-Hold
+Wolverines With a Dartboard,SMR,Short,2025-05-13,2025-05-19,6,7516,20.64,23.2,-19240.96,-12.4,Negative,15.513,High-Risk,Long-Hold
 Wolverines With a Dartboard,HOOD,Long,2025-05-15,2025-05-19,4,184,60.17,62.72,469.2,4.24,Positive,1.1071,Low-Risk,Short-Hold
 Wolverines With a Dartboard,BA,Long,2025-05-14,2025-05-19,5,269,205.71,203.78,-519.17,-0.94,Negative,5.5336,Low-Risk,Short-Hold
 Wolverines With a Dartboard,ADBE,Long,2025-05-15,2025-05-19,4,27,399.35,418.04,504.63,4.68,Positive,1.0782,Low-Risk,Short-Hold
-Wolverines With a Dartboard,UAMY,Long,2025-05-12,2025-05-19,7,10000,2.71,2.74,300.0,1.11,Positive,2.71,Low-Risk,Short-Hold
+Wolverines With a Dartboard,UAMY,Long,2025-05-12,2025-05-19,7,10000,2.71,2.74,300.0,1.11,Positive,2.71,Low-Risk,Long-Hold
 Wolverines With a Dartboard,ABBV,Long,2025-05-15,2025-05-19,4,52,177.01,185.21,426.4,4.63,Positive,0.9205,Low-Risk,Short-Hold
 Wolverines With a Dartboard,GLOB,Long,2025-05-19,2025-05-19,0,99,101.63,104.89,322.74,3.21,Positive,1.0061,Low-Risk,Short-Hold
-Wolverines With a Dartboard,NSRGY,Long,2025-05-12,2025-05-19,7,143,102.59,104.81,317.46,2.16,Positive,1.467,Low-Risk,Short-Hold
+Wolverines With a Dartboard,NSRGY,Long,2025-05-12,2025-05-19,7,143,102.59,104.81,317.46,2.16,Positive,1.467,Low-Risk,Long-Hold
 Wolverines With a Dartboard,NWTN,Short,2025-05-19,2025-05-20,1,70000,2.4314,2.34,6400.0,3.76,Positive,17.02,High-Risk,Short-Hold
 Wolverines With a Dartboard,PTIX,Short,2025-05-19,2025-05-20,1,4000,9.24,6.56,10720.0,29.0,Positive,3.696,Low-Risk,Short-Hold
 Wolverines With a Dartboard,NVTS,Short,2025-05-22,2025-05-22,0,30986,4.43,4.33,3098.6,2.26,Positive,13.7268,High-Risk,Short-Hold
@@ -49,7 +49,7 @@ Wolverines With a Dartboard,TIL,Long,2025-05-22,2025-05-22,0,5000,23.07,23.58,25
 Wolverines With a Dartboard,NVTS,Short,2025-05-22,2025-05-22,0,19014,4.43,4.1,6274.62,7.45,Positive,8.4232,High-Risk,Short-Hold
 Wolverines With a Dartboard,RGLD,Long,2025-05-12,2025-05-23,11,172,176.0,180.85,834.2,2.76,Positive,3.0272,Low-Risk,Long-Hold
 Wolverines With a Dartboard,TIL,Short,2025-05-22,2025-05-23,1,13500,23.57,20.52,41175.0,12.94,Positive,31.8195,High-Risk,Short-Hold
-Wolverines With a Dartboard,RPAY,Short,2025-05-16,2025-05-23,7,125000,4.142,4.24,-12250.0,-2.37,Negative,51.775,High-Risk,Short-Hold
+Wolverines With a Dartboard,RPAY,Short,2025-05-16,2025-05-23,7,125000,4.142,4.24,-12250.0,-2.37,Negative,51.775,High-Risk,Long-Hold
 Wolverines With a Dartboard,TSLA,Long,2025-05-19,2025-05-27,8,500,339.74,352.42,6340.0,3.73,Positive,16.987,High-Risk,Long-Hold
 Wolverines With a Dartboard,SBET,Short,2025-05-27,2025-05-27,0,5000,32.11,36.95,-24200.0,-15.07,Negative,16.055,High-Risk,Short-Hold
 Wolverines With a Dartboard,WRD,Short,2025-05-27,2025-05-27,0,10000,10.74,10.39,3500.0,3.26,Positive,10.74,High-Risk,Short-Hold
@@ -58,7 +58,7 @@ Wolverines With a Dartboard,HOLO,Short,2025-05-28,2025-05-29,1,20000,7.28,6.76,1
 Wolverines With a Dartboard,NVDA,Long,2025-05-16,2025-05-29,13,999,134.9,138.81,3906.09,2.9,Positive,13.4765,High-Risk,Long-Hold
 Wolverines With a Dartboard,ACHR,Short,2025-05-13,2025-05-29,16,8012,10.53,10.5,240.36,0.28,Positive,8.4366,High-Risk,Long-Hold
 Wolverines With a Dartboard,ARDX,Short,2025-05-16,2025-05-30,14,100000,3.815,3.71,10500.0,2.75,Positive,38.15,High-Risk,Long-Hold
-Wolverines With a Dartboard,MTN,Short,2025-05-29,2025-06-04,6,100,162.13,155.37,676.0,4.17,Positive,1.6213,Low-Risk,Short-Hold
+Wolverines With a Dartboard,MTN,Short,2025-05-29,2025-06-04,6,100,162.13,155.37,676.0,4.17,Positive,1.6213,Low-Risk,Long-Hold
 Wolverines With a Dartboard,MODV,Short,2025-06-05,2025-06-05,0,100000,4.14,4.05,9000.0,2.17,Positive,41.4,High-Risk,Short-Hold
 Wolverines With a Dartboard,MODV,Short,2025-06-05,2025-06-05,0,261048,4.0372,3.9,35808.72,3.4,Positive,105.3896,High-Risk,Short-Hold
 Wolverines With a Dartboard,AVGO,Long,2025-05-15,2025-06-05,21,39,230.12,263.04,1283.88,14.31,Positive,0.8975,Low-Risk,Long-Hold
@@ -74,76 +74,193 @@ Wolverines With a Dartboard,XOM,Long,2025-06-25,2025-07-10,15,1000,109.15,113.71
 Wolverines With a Dartboard,AMC,Long,2025-06-13,2025-07-14,31,5000,3.18,3.31,650.0,4.09,Positive,1.59,Low-Risk,Long-Hold
 Wolverines With a Dartboard,HSY,Long,2025-05-12,2025-07-14,63,93,170.56,165.24,-494.76,-3.12,Negative,1.5862,Low-Risk,Long-Hold
 Wolverines With a Dartboard,SXTC,Short,2025-06-06,2025-07-24,48,800000,1.8925,1.69,162000.0,10.7,Positive,151.4,High-Risk,Long-Hold
-Wolverines With a Dartboard,WMT,Long,2025-05-12,2025-07-24,73,30,97.71,96.5,-36.3,-1.24,Negative,0.2931,Low-Risk,Long-Hold
-Wolverines With a Dartboard,BRK.B,Long,2025-05-12,2025-07-24,73,30,520.3,483.97,-1089.9,-6.98,Negative,1.5609,Low-Risk,Long-Hold
-Wolverines With a Dartboard,KO,Long,2025-05-12,2025-07-24,73,200,70.33,69.24,-218.0,-1.55,Negative,1.4066,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GM,Long,2025-05-12,2025-07-24,73,369,49.53,52.67,1158.66,6.34,Positive,1.8277,Low-Risk,Long-Hold
-Wolverines With a Dartboard,NVDA,Long,2025-05-16,2025-07-24,69,1,134.9,173.47,38.57,28.59,Positive,0.0135,Low-Risk,Long-Hold
-Wolverines With a Dartboard,COST,Long,2025-05-12,2025-07-24,73,30,1009.79,937.45,-2170.2,-7.16,Negative,3.0294,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GNW,Long,2025-05-12,2025-07-24,73,2059,7.23,7.36,267.67,1.8,Positive,1.4887,Low-Risk,Long-Hold
-Wolverines With a Dartboard,DUOL,Long,2025-05-12,2025-07-24,73,39,533.26,359.99,-6757.53,-32.49,Negative,2.0797,Low-Risk,Long-Hold
-Wolverines With a Dartboard,LYFT,Long,2025-05-12,2025-07-24,73,2389,17.07,14.49,-6163.62,-15.11,Negative,4.078,Low-Risk,Long-Hold
-Wolverines With a Dartboard,EXFY,Long,2025-05-12,2025-07-24,73,8435,2.45,2.26,-1602.65,-7.76,Negative,2.0666,Low-Risk,Long-Hold
-Wolverines With a Dartboard,RGLD,Long,2025-05-12,2025-07-24,73,1,176.0,156.2,-19.8,-11.25,Negative,0.0176,Low-Risk,Long-Hold
-Wolverines With a Dartboard,PG,Long,2025-05-27,2025-07-24,58,100,167.17,158.5,-867.0,-5.19,Negative,1.6717,Low-Risk,Long-Hold
-Wolverines With a Dartboard,NSRGY,Long,2025-05-12,2025-07-24,73,1,102.59,93.52,-9.07,-8.84,Negative,0.0103,Low-Risk,Long-Hold
-Wolverines With a Dartboard,BMWKY,Long,2025-05-12,2025-07-24,73,690,31.03,33.95,2014.8,9.41,Positive,2.1411,Low-Risk,Long-Hold
-Wolverines With a Dartboard,BA,Long,2025-05-14,2025-07-24,71,1,205.71,233.82,28.11,13.66,Positive,0.0206,Low-Risk,Long-Hold
-Wolverines With a Dartboard,HLT,Long,2025-05-15,2025-07-24,70,42,252.03,268.29,682.92,6.45,Positive,1.0585,Low-Risk,Long-Hold
-Wolverines With a Dartboard,ELF,Long,2025-05-15,2025-07-24,70,1,75.5,118.29,42.79,56.68,Positive,0.0076,Low-Risk,Long-Hold
-Wolverines With a Dartboard,ELF,Long,2025-05-29,2025-07-24,56,200,113.43,118.29,972.0,4.28,Positive,2.2686,Low-Risk,Long-Hold
-Wolverines With a Dartboard,NKE,Long,2025-05-15,2025-07-24,70,1,60.64,75.69,15.05,24.82,Positive,0.0061,Low-Risk,Long-Hold
-Wolverines With a Dartboard,LULU,Long,2025-05-15,2025-07-24,70,1,313.86,219.64,-94.22,-30.02,Negative,0.0314,Low-Risk,Long-Hold
-Wolverines With a Dartboard,JPM,Long,2025-05-15,2025-07-24,70,21,266.97,298.59,664.02,11.84,Positive,0.5606,Low-Risk,Long-Hold
-Wolverines With a Dartboard,ADBE,Long,2025-05-15,2025-07-24,70,1,399.35,373.29,-26.06,-6.53,Negative,0.0399,Low-Risk,Long-Hold
-Wolverines With a Dartboard,COIN,Long,2025-05-15,2025-07-24,70,1,256.5,396.43,139.93,54.55,Positive,0.0256,Low-Risk,Long-Hold
-Wolverines With a Dartboard,META,Long,2025-05-15,2025-07-24,70,5,654.3,715.84,307.7,9.41,Positive,0.3271,Low-Risk,Long-Hold
-Wolverines With a Dartboard,AXON,Long,2025-05-15,2025-07-24,70,1,726.09,709.8,-16.29,-2.24,Negative,0.0726,Low-Risk,Long-Hold
-Wolverines With a Dartboard,MA,Long,2025-05-15,2025-07-24,70,10,574.13,565.86,-82.7,-1.44,Negative,0.5741,Low-Risk,Long-Hold
-Wolverines With a Dartboard,LCID,Long,2025-05-15,2025-07-24,70,1,2.72,2.96,0.24,8.82,Positive,0.0003,Low-Risk,Long-Hold
-Wolverines With a Dartboard,WBD,Long,2025-05-15,2025-07-24,70,1,9.11,13.43,4.32,47.42,Positive,0.0009,Low-Risk,Long-Hold
-Wolverines With a Dartboard,HOOD,Long,2025-05-15,2025-07-24,70,1,60.17,101.87,41.7,69.3,Positive,0.006,Low-Risk,Long-Hold
-Wolverines With a Dartboard,PLTR,Long,2025-05-15,2025-07-24,70,55,128.43,154.72,1445.95,20.47,Positive,0.7064,Low-Risk,Long-Hold
-Wolverines With a Dartboard,DKS,Long,2025-05-15,2025-07-24,70,48,182.78,212.77,1439.52,16.41,Positive,0.8773,Low-Risk,Long-Hold
-Wolverines With a Dartboard,AMZN,Long,2025-05-15,2025-07-24,70,118,206.45,232.21,3039.68,12.48,Positive,2.4361,Low-Risk,Long-Hold
-Wolverines With a Dartboard,SHOP,Long,2025-05-15,2025-07-24,70,53,109.93,121.74,625.93,10.74,Positive,0.5826,Low-Risk,Long-Hold
-Wolverines With a Dartboard,CSCO,Long,2025-05-15,2025-07-24,70,1,63.07,68.12,5.05,8.01,Positive,0.0063,Low-Risk,Long-Hold
-Wolverines With a Dartboard,LUNR,Long,2025-05-15,2025-07-24,70,1,11.78,12.71,0.93,7.89,Positive,0.0012,Low-Risk,Long-Hold
-Wolverines With a Dartboard,ABBV,Long,2025-05-15,2025-07-24,70,1,177.01,191.28,14.27,8.06,Positive,0.0177,Low-Risk,Long-Hold
-Wolverines With a Dartboard,TSLA,Long,2025-06-25,2025-07-24,29,500,326.05,305.41,-10320.0,-6.33,Negative,16.3025,High-Risk,Long-Hold
-Wolverines With a Dartboard,TSLA,Long,2025-07-08,2025-07-24,16,100,301.99,305.41,342.0,1.13,Positive,3.0199,Low-Risk,Long-Hold
-Wolverines With a Dartboard,TSLA,Long,2025-07-24,2025-07-24,0,5,301.56,305.41,19.25,1.28,Positive,0.1508,Low-Risk,Short-Hold
-Wolverines With a Dartboard,AAPL,Long,2025-05-19,2025-07-24,66,350,206.88,214.81,2775.5,3.83,Positive,7.2408,Low-Risk,Long-Hold
-Wolverines With a Dartboard,TVTX,Long,2025-05-19,2025-07-24,66,500,16.6,15.8,-400.0,-4.82,Negative,0.83,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GLOB,Long,2025-05-19,2025-07-24,66,1,101.63,87.94,-13.69,-13.47,Negative,0.0102,Low-Risk,Long-Hold
-Wolverines With a Dartboard,BSX,Long,2025-05-23,2025-07-24,62,100,104.73,105.89,116.0,1.11,Positive,1.0473,Low-Risk,Long-Hold
-Wolverines With a Dartboard,PYPL,Long,2025-05-23,2025-07-24,62,100,70.06,78.26,820.0,11.7,Positive,0.7006,Low-Risk,Long-Hold
-Wolverines With a Dartboard,MMM,Long,2025-05-27,2025-07-24,58,500,148.7,150.39,845.0,1.14,Positive,7.435,Low-Risk,Long-Hold
-Wolverines With a Dartboard,JNJ,Long,2025-05-27,2025-07-24,58,150,152.64,169.41,2515.5,10.99,Positive,2.2896,Low-Risk,Long-Hold
-Wolverines With a Dartboard,DIS,Long,2025-05-29,2025-07-24,56,100,111.55,122.15,1060.0,9.5,Positive,1.1155,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GOOG,Long,2025-05-29,2025-07-24,56,100,173.31,194.11,2080.0,12.0,Positive,1.7331,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GOOG,Long,2025-07-24,2025-07-24,0,5,194.12,194.11,-0.05,-0.01,Negative,0.0971,Low-Risk,Short-Hold
-Wolverines With a Dartboard,ANF,Long,2025-05-29,2025-07-24,56,900,82.99,94.43,10296.0,13.78,Positive,7.4691,Low-Risk,Long-Hold
-Wolverines With a Dartboard,SMMT,Long,2025-06-04,2025-07-24,50,503,20.29,27.55,3651.78,35.78,Positive,1.0206,Low-Risk,Long-Hold
-Wolverines With a Dartboard,HALO,Long,2025-06-04,2025-07-24,50,189,53.84,58.78,933.66,9.18,Positive,1.0176,Low-Risk,Long-Hold
-Wolverines With a Dartboard,AMD,Long,2025-06-04,2025-07-24,50,622,118.91,162.11,26870.4,36.33,Positive,7.3962,Low-Risk,Long-Hold
-Wolverines With a Dartboard,SSII,Long,2025-06-04,2025-07-24,50,2438,5.6,7.17,3827.66,28.04,Positive,1.3653,Low-Risk,Long-Hold
-Wolverines With a Dartboard,AOSL,Long,2025-06-04,2025-07-24,50,407,23.55,27.43,1579.16,16.48,Positive,0.9585,Low-Risk,Long-Hold
-Wolverines With a Dartboard,CRVS,Long,2025-06-11,2025-07-24,43,12155,4.5,4.76,3160.3,5.78,Positive,5.4698,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GT,Long,2025-06-13,2025-07-24,41,5000,11.04,11.38,1700.0,3.08,Positive,5.52,Low-Risk,Long-Hold
-Wolverines With a Dartboard,GRAB,Long,2025-06-13,2025-07-24,41,2000,4.61,5.3,1380.0,14.97,Positive,0.922,Low-Risk,Long-Hold
-Wolverines With a Dartboard,MU,Long,2025-06-26,2025-07-24,28,500,124.11,112.04,-6035.0,-9.73,Negative,6.2055,Low-Risk,Long-Hold
-Wolverines With a Dartboard,FDX,Long,2025-06-26,2025-07-24,28,100,221.56,237.61,1605.0,7.24,Positive,2.2156,Low-Risk,Long-Hold
-Wolverines With a Dartboard,SNOW,Long,2025-06-26,2025-07-24,28,200,221.05,213.71,-1468.0,-3.32,Negative,4.421,Low-Risk,Long-Hold
-Wolverines With a Dartboard,BAC,Long,2025-07-08,2025-07-24,16,1000,47.16,48.84,1680.0,3.56,Positive,4.716,Low-Risk,Long-Hold
-Wolverines With a Dartboard,KMI,Long,2025-07-08,2025-07-24,16,500,27.82,27.09,-365.0,-2.62,Negative,1.391,Low-Risk,Long-Hold
-Wolverines With a Dartboard,LMT,Long,2025-07-08,2025-07-24,16,100,463.11,425.01,-3810.0,-8.23,Negative,4.6311,Low-Risk,Long-Hold
-Wolverines With a Dartboard,DELL,Short,2025-05-12,2025-07-24,73,839,101.28,128.88,-23156.4,-27.25,Negative,8.4974,High-Risk,Long-Hold
-Wolverines With a Dartboard,UNH,Short,2025-07-24,2025-07-24,0,5,280.0,281.41,-7.05,-0.5,Negative,0.14,Low-Risk,Short-Hold
-Wolverines With a Dartboard,LIDR,Short,2025-07-24,2025-07-24,0,107089,2.86,2.94,-8567.12,-2.8,Negative,30.6275,High-Risk,Short-Hold
+Wolverines With a Dartboard,WMT,Long,2025-05-12,2025-07-24,79,30,97.71,96.5,-36.3,-1.24,Negative,0.2931,Low-Risk,Long-Hold
+Wolverines With a Dartboard,BRK.B,Long,2025-05-12,2025-07-24,79,30,520.3,483.97,-1089.9,-6.98,Negative,1.5609,Low-Risk,Long-Hold
+Wolverines With a Dartboard,KO,Long,2025-05-12,2025-07-24,79,200,70.33,69.24,-218.0,-1.55,Negative,1.4066,Low-Risk,Long-Hold
+Wolverines With a Dartboard,GM,Long,2025-05-12,2025-07-24,79,369,49.53,52.67,1158.66,6.34,Positive,1.8277,Low-Risk,Long-Hold
+Wolverines With a Dartboard,COST,Long,2025-05-12,2025-07-24,79,30,1009.79,937.45,-2170.2,-7.16,Negative,3.0294,Low-Risk,Long-Hold
+Wolverines With a Dartboard,GNW,Long,2025-05-12,2025-07-24,79,2059,7.23,7.36,267.67,1.8,Positive,1.4887,Low-Risk,Long-Hold
+Wolverines With a Dartboard,DUOL,Long,2025-05-12,2025-07-24,79,39,533.26,359.99,-6757.53,-32.49,Negative,2.0797,Low-Risk,Long-Hold
+Wolverines With a Dartboard,LYFT,Long,2025-05-12,2025-07-24,79,2389,17.07,14.49,-6163.62,-15.11,Negative,4.078,Low-Risk,Long-Hold
+Wolverines With a Dartboard,EXFY,Long,2025-05-12,2025-07-24,79,8435,2.45,2.26,-1602.65,-7.76,Negative,2.0666,Low-Risk,Long-Hold
+Wolverines With a Dartboard,PG,Long,2025-05-27,2025-07-24,64,100,167.17,158.5,-867.0,-5.19,Negative,1.6717,Low-Risk,Long-Hold
+Wolverines With a Dartboard,BMWKY,Long,2025-05-12,2025-07-24,79,690,31.03,33.95,2014.8,9.41,Positive,2.1411,Low-Risk,Long-Hold
+Wolverines With a Dartboard,HLT,Long,2025-05-15,2025-07-24,76,42,252.03,268.29,682.92,6.45,Positive,1.0585,Low-Risk,Long-Hold
+Wolverines With a Dartboard,ELF,Long,2025-05-29,2025-07-24,62,200,113.43,118.29,972.0,4.28,Positive,2.2686,Low-Risk,Long-Hold
+Wolverines With a Dartboard,JPM,Long,2025-05-15,2025-07-24,76,21,266.97,298.59,664.02,11.84,Positive,0.5606,Low-Risk,Long-Hold
+Wolverines With a Dartboard,META,Long,2025-05-15,2025-07-24,76,5,654.3,715.84,307.7,9.41,Positive,0.3271,Low-Risk,Long-Hold
+Wolverines With a Dartboard,MA,Long,2025-05-15,2025-07-24,76,10,574.13,565.86,-82.7,-1.44,Negative,0.5741,Low-Risk,Long-Hold
+Wolverines With a Dartboard,PLTR,Long,2025-05-15,2025-07-24,76,55,128.43,154.72,1445.95,20.47,Positive,0.7064,Low-Risk,Long-Hold
+Wolverines With a Dartboard,DKS,Long,2025-05-15,2025-07-24,76,48,182.78,212.77,1439.52,16.41,Positive,0.8773,Low-Risk,Long-Hold
+Wolverines With a Dartboard,AMZN,Long,2025-05-15,2025-07-24,76,118,206.45,232.21,3039.68,12.48,Positive,2.4361,Low-Risk,Long-Hold
+Wolverines With a Dartboard,SHOP,Long,2025-05-15,2025-07-24,76,53,109.93,121.74,625.93,10.74,Positive,0.5826,Low-Risk,Long-Hold
+Wolverines With a Dartboard,TSLA,Long,2025-06-25,2025-07-24,35,500,326.05,305.41,-10320.0,-6.33,Negative,16.3025,High-Risk,Long-Hold
+Wolverines With a Dartboard,TSLA,Long,2025-07-08,2025-07-24,22,100,301.99,305.41,342.0,1.13,Positive,3.0199,Low-Risk,Long-Hold
+Wolverines With a Dartboard,TSLA,Long,2025-07-24,2025-07-24,6,5,301.56,305.41,19.25,1.28,Positive,0.1508,Low-Risk,Long-Hold
+Wolverines With a Dartboard,AAPL,Long,2025-05-19,2025-07-24,72,350,206.88,214.81,2775.5,3.83,Positive,7.2408,Low-Risk,Long-Hold
+Wolverines With a Dartboard,TVTX,Long,2025-05-19,2025-07-24,72,500,16.6,15.8,-400.0,-4.82,Negative,0.83,Low-Risk,Long-Hold
+Wolverines With a Dartboard,BSX,Long,2025-05-23,2025-07-24,68,100,104.73,105.89,116.0,1.11,Positive,1.0473,Low-Risk,Long-Hold
+Wolverines With a Dartboard,PYPL,Long,2025-05-23,2025-07-24,68,100,70.06,78.26,820.0,11.7,Positive,0.7006,Low-Risk,Long-Hold
+Wolverines With a Dartboard,MMM,Long,2025-05-27,2025-07-24,64,500,148.7,150.39,845.0,1.14,Positive,7.435,Low-Risk,Long-Hold
+Wolverines With a Dartboard,JNJ,Long,2025-05-27,2025-07-24,64,150,152.64,169.41,2515.5,10.99,Positive,2.2896,Low-Risk,Long-Hold
+Wolverines With a Dartboard,DIS,Long,2025-05-29,2025-07-24,62,100,111.55,122.15,1060.0,9.5,Positive,1.1155,Low-Risk,Long-Hold
+Wolverines With a Dartboard,GOOG,Long,2025-05-29,2025-07-24,62,100,173.31,194.11,2080.0,12.0,Positive,1.7331,Low-Risk,Long-Hold
+Wolverines With a Dartboard,ANF,Long,2025-05-29,2025-07-24,62,900,82.99,94.43,10296.0,13.78,Positive,7.4691,Low-Risk,Long-Hold
+Wolverines With a Dartboard,SMMT,Long,2025-06-04,2025-07-24,56,503,20.29,27.55,3651.78,35.78,Positive,1.0206,Low-Risk,Long-Hold
+Wolverines With a Dartboard,HALO,Long,2025-06-04,2025-07-24,56,189,53.84,58.78,933.66,9.18,Positive,1.0176,Low-Risk,Long-Hold
+Wolverines With a Dartboard,AMD,Long,2025-06-04,2025-07-24,56,622,118.91,162.11,26870.4,36.33,Positive,7.3962,Low-Risk,Long-Hold
+Wolverines With a Dartboard,SSII,Long,2025-06-04,2025-07-24,56,2438,5.6,7.17,3827.66,28.04,Positive,1.3653,Low-Risk,Long-Hold
+Wolverines With a Dartboard,AOSL,Long,2025-06-04,2025-07-24,56,407,23.55,27.43,1579.16,16.48,Positive,0.9585,Low-Risk,Long-Hold
+Wolverines With a Dartboard,CRVS,Long,2025-06-11,2025-07-24,49,12155,4.5,4.76,3160.3,5.78,Positive,5.4698,Low-Risk,Long-Hold
+Wolverines With a Dartboard,GT,Long,2025-06-13,2025-07-24,47,5000,11.04,11.38,1700.0,3.08,Positive,5.52,Low-Risk,Long-Hold
+Wolverines With a Dartboard,GRAB,Long,2025-06-13,2025-07-24,47,2000,4.61,5.3,1380.0,14.97,Positive,0.922,Low-Risk,Long-Hold
+Wolverines With a Dartboard,MU,Long,2025-06-26,2025-07-24,34,500,124.11,112.04,-6035.0,-9.73,Negative,6.2055,Low-Risk,Long-Hold
+Wolverines With a Dartboard,FDX,Long,2025-06-26,2025-07-24,34,100,221.56,237.61,1605.0,7.24,Positive,2.2156,Low-Risk,Long-Hold
+Wolverines With a Dartboard,SNOW,Long,2025-06-26,2025-07-24,34,200,221.05,213.71,-1468.0,-3.32,Negative,4.421,Low-Risk,Long-Hold
+Wolverines With a Dartboard,BAC,Long,2025-07-08,2025-07-24,22,1000,47.16,48.84,1680.0,3.56,Positive,4.716,Low-Risk,Long-Hold
+Wolverines With a Dartboard,KMI,Long,2025-07-08,2025-07-24,22,500,27.82,27.09,-365.0,-2.62,Negative,1.391,Low-Risk,Long-Hold
+Wolverines With a Dartboard,LMT,Long,2025-07-08,2025-07-24,22,100,463.11,425.01,-3810.0,-8.23,Negative,4.6311,Low-Risk,Long-Hold
+Wolverines With a Dartboard,DELL,Short,2025-05-12,2025-07-24,79,839,101.28,128.88,-23156.4,-27.25,Negative,8.4974,High-Risk,Long-Hold
+Wolverines With a Dartboard,UNH,Short,2025-07-24,2025-07-24,6,5,280.0,281.41,-7.05,-0.5,Negative,0.14,Low-Risk,Long-Hold
+Wolverines With a Dartboard,LIDR,Short,2025-07-24,2025-07-24,6,107089,2.86,2.94,-8567.12,-2.8,Negative,30.6275,High-Risk,Long-Hold
+ABCS FIN,BRK.B,Long,2025-05-13,2025-05-19,6,58,514.98,511.18,-220.4,-0.74,Negative,2.9869,Low-Risk,Long-Hold
+ABCS FIN,HD,Long,2025-05-13,2025-05-19,6,79,380.98,378.73,-177.75,-0.59,Negative,3.0097,Low-Risk,Long-Hold
+ABCS FIN,VZ,Long,2025-05-13,2025-05-19,6,465,43.21,44.02,376.65,1.87,Positive,2.0093,Low-Risk,Long-Hold
+ABCS FIN,AAPL,Long,2025-05-13,2025-05-23,10,166,210.43,195.65,-2453.48,-7.02,Negative,3.4931,Low-Risk,Long-Hold
+ABCS FIN,COP,Long,2025-05-13,2025-05-23,10,270,92.72,85.63,-1914.3,-7.65,Negative,2.5034,Low-Risk,Long-Hold
+ABCS FIN,ASTS,Long,2025-05-13,2025-05-27,14,401,25.7543,24.88,-350.61,-3.39,Negative,1.0327,Low-Risk,Long-Hold
+ABCS FIN,WIX,Long,2025-05-13,2025-05-30,17,139,179.82,150.12,-4128.3,-16.52,Negative,2.4995,Low-Risk,Long-Hold
+ABCS FIN,QBTS,Long,2025-05-19,2025-05-30,11,1600,13.16,15.66,4000.0,19.0,Positive,2.1056,Low-Risk,Long-Hold
+ABCS FIN,BMGL,Long,2025-05-30,2025-06-02,3,2500,1.99,7.84,14625.0,293.97,Positive,0.4975,Low-Risk,Short-Hold
+ABCS FIN,SHY,Long,2025-05-13,2025-06-04,22,299,82.39,82.43,11.96,0.05,Positive,2.4635,Low-Risk,Long-Hold
+ABCS FIN,GGAL,Long,2025-05-13,2025-06-06,24,486,62.06,55.05,-3406.86,-11.3,Negative,3.0161,Low-Risk,Long-Hold
+ABCS FIN,EXOD,Long,2025-05-27,2025-06-06,10,735,35.04,26.34,-6394.5,-24.83,Negative,2.5754,Low-Risk,Long-Hold
+ABCS FIN,ASTS,Short,2025-06-06,2025-06-09,3,350,31.01,35.98,-1739.5,-16.03,Negative,1.0854,Low-Risk,Short-Hold
+ABCS FIN,KSS,Long,2025-06-04,2025-06-13,9,997,8.17,8.49,319.04,3.92,Positive,0.8145,Low-Risk,Long-Hold
+ABCS FIN,LUCY,Long,2025-06-04,2025-06-13,9,4000,3.11,2.53,-2320.0,-18.65,Negative,1.244,Low-Risk,Long-Hold
+ABCS FIN,GME,Long,2025-05-27,2025-06-20,24,303,33.92,23.52,-3151.2,-30.66,Negative,1.0278,Low-Risk,Long-Hold
+ABCS FIN,ACN,Long,2025-05-13,2025-06-30,48,77,321.8,298.06,-1827.98,-7.38,Negative,2.4779,Low-Risk,Long-Hold
+ABCS FIN,MCD,Long,2025-05-13,2025-06-30,48,64,311.34,292.01,-1237.12,-6.21,Negative,1.9926,Low-Risk,Long-Hold
+ABCS FIN,BMGL,Long,2025-05-30,2025-07-01,32,8916,2.7773,1.66,-9962.28,-40.23,Negative,2.4763,Low-Risk,Long-Hold
+ABCS FIN,O,Long,2025-05-13,2025-07-11,59,536,55.88,56.77,477.04,1.59,Positive,2.9952,Low-Risk,Long-Hold
+ABCS FIN,NVO,Long,2025-07-01,2025-07-18,17,431,69.72,65.66,-1749.86,-5.82,Negative,3.0049,Low-Risk,Long-Hold
+ABCS FIN,QCOM,Long,2025-07-11,2025-07-18,7,188,159.17,153.04,-1152.44,-3.85,Negative,2.9924,Low-Risk,Long-Hold
+ABCS FIN,COST,Long,2025-05-12,2025-07-24,79,30,1009.79,933.8,-2279.7,-7.53,Negative,3.0294,Low-Risk,Long-Hold
+ABCS FIN,WMT,Long,2025-05-12,2025-07-24,79,324,97.71,96.6,-359.64,-1.14,Negative,3.1658,Low-Risk,Long-Hold
+ABCS FIN,SO,Long,2025-05-13,2025-07-24,78,284,87.79,95.0,2047.64,8.21,Positive,2.4932,Low-Risk,Long-Hold
+ABCS FIN,JBL,Long,2025-05-13,2025-07-24,78,62,162.3,218.41,3478.82,34.57,Positive,1.0063,Low-Risk,Long-Hold
+ABCS FIN,FLEX,Long,2025-05-13,2025-07-24,78,244,41.11,49.67,2088.64,20.82,Positive,1.0031,Low-Risk,Long-Hold
+ABCS FIN,ASTS,Long,2025-05-23,2025-07-24,68,1656,24.13,60.06,59500.08,148.9,Positive,3.9959,Low-Risk,Long-Hold
+ABCS FIN,GOOGL,Long,2025-05-13,2025-07-24,78,221,158.77,192.17,7381.4,21.04,Positive,3.5088,Low-Risk,Long-Hold
+ABCS FIN,MSFT,Long,2025-05-13,2025-07-24,78,78,447.99,510.88,4905.42,14.04,Positive,3.4943,Low-Risk,Long-Hold
+ABCS FIN,AMD,Long,2025-05-13,2025-07-24,78,185,109.6,162.12,9716.2,47.92,Positive,2.0276,Low-Risk,Long-Hold
+ABCS FIN,ANET,Long,2025-05-13,2025-07-24,78,216,92.26,114.04,4704.48,23.61,Positive,1.9928,Low-Risk,Long-Hold
+ABCS FIN,TMUS,Long,2025-05-13,2025-07-24,78,83,239.26,247.5,683.92,3.44,Positive,1.9859,Low-Risk,Long-Hold
+ABCS FIN,AMZN,Long,2025-05-13,2025-07-24,78,167,211.08,232.23,3532.05,10.02,Positive,3.525,Low-Risk,Long-Hold
+ABCS FIN,KO,Long,2025-05-13,2025-07-24,78,359,69.6,69.1,-179.5,-0.72,Negative,2.4986,Low-Risk,Long-Hold
+ABCS FIN,SBUX,Long,2025-05-13,2025-07-24,78,233,85.87,93.7,1824.39,9.12,Positive,2.0008,Low-Risk,Long-Hold
+ABCS FIN,WBD,Long,2025-05-13,2025-07-24,78,1625,9.25,13.5,6906.25,45.95,Positive,1.5031,Low-Risk,Long-Hold
+ABCS FIN,DUK,Long,2025-05-13,2025-07-24,78,215,115.96,119.75,814.85,3.27,Positive,2.4931,Low-Risk,Long-Hold
+ABCS FIN,CSCO,Long,2025-05-13,2025-07-24,78,324,61.68,68.29,2141.64,10.72,Positive,1.9984,Low-Risk,Long-Hold
+ABCS FIN,CWEN,Long,2025-05-13,2025-07-24,78,700,28.52,31.78,2282.0,11.43,Positive,1.9964,Low-Risk,Long-Hold
+ABCS FIN,USEG,Long,2025-05-13,2025-07-24,78,9345,1.08,1.22,1308.3,12.96,Positive,1.0093,Low-Risk,Long-Hold
+ABCS FIN,KLXE,Long,2025-05-13,2025-07-24,78,5076,2.01,1.97,-203.04,-1.99,Negative,1.0203,Low-Risk,Long-Hold
+ABCS FIN,GLD,Long,2025-05-13,2025-07-24,78,100,298.99,310.3,1131.0,3.78,Positive,2.9899,Low-Risk,Long-Hold
+ABCS FIN,WFC,Long,2025-05-13,2025-07-24,78,267,75.47,83.87,2242.8,11.13,Positive,2.015,Low-Risk,Long-Hold
+ABCS FIN,C,Long,2025-05-13,2025-07-24,78,333,75.13,95.39,6746.58,26.97,Positive,2.5018,Low-Risk,Long-Hold
+ABCS FIN,FBTC,Long,2025-05-13,2025-07-24,78,224,90.59,103.95,2992.64,14.75,Positive,2.0292,Low-Risk,Long-Hold
+ABCS FIN,PAAS,Long,2025-05-13,2025-07-24,78,1095,23.21,29.27,6635.7,26.11,Positive,2.5415,Low-Risk,Long-Hold
+ABCS FIN,SHY,Long,2025-05-13,2025-07-24,78,308,82.39,82.5,33.88,0.13,Positive,2.5376,Low-Risk,Long-Hold
+ABCS FIN,FTNT,Long,2025-05-13,2025-07-24,78,245,101.49,104.77,803.6,3.23,Positive,2.4865,Low-Risk,Long-Hold
+ABCS FIN,ETR,Long,2025-05-13,2025-07-24,78,246,81.26,88.15,1694.94,8.48,Positive,1.999,Low-Risk,Long-Hold
+ABCS FIN,NRT,Long,2025-05-13,2025-07-24,78,2049,4.82,5.14,655.68,6.64,Positive,0.9876,Low-Risk,Long-Hold
+ABCS FIN,ACLS,Long,2025-05-19,2025-07-24,72,340,60.91,72.85,4059.6,19.6,Positive,2.0709,Low-Risk,Long-Hold
+ABCS FIN,BBAI,Long,2025-05-19,2025-07-24,72,5500,3.68,7.8,22660.0,111.96,Positive,2.024,Low-Risk,Long-Hold
+ABCS FIN,GCT,Long,2025-05-19,2025-07-24,72,1101,18.51,24.01,6055.5,29.71,Positive,2.038,Low-Risk,Long-Hold
+ABCS FIN,MTZ,Long,2025-05-27,2025-07-24,64,90,153.56,181.75,2537.1,18.36,Positive,1.382,Low-Risk,Long-Hold
+ABCS FIN,VTIP,Long,2025-06-04,2025-07-24,56,700,50.0,50.03,21.0,0.06,Positive,3.5,Low-Risk,Long-Hold
+ABCS FIN,ASML,Long,2025-06-06,2025-07-24,54,40,757.72,725.08,-1305.6,-4.31,Negative,3.0309,Low-Risk,Long-Hold
+ABCS FIN,TSLA,Long,2025-06-06,2025-07-24,54,67,301.68,305.3,242.54,1.2,Positive,2.0213,Low-Risk,Long-Hold
+ABCS FIN,NVDA,Long,2025-06-20,2025-07-24,40,205,145.44,173.74,5801.5,19.46,Positive,2.9815,Low-Risk,Long-Hold
+ABCS FIN,AVGO,Long,2025-07-11,2025-07-24,19,105,274.47,288.71,1495.2,5.19,Positive,2.8819,Low-Risk,Long-Hold
+ABCS FIN,DOMO,Long,2025-07-18,2025-07-24,12,2100,14.75,16.13,2898.0,9.36,Positive,3.0975,Low-Risk,Long-Hold
+ABCS FIN,AGI,Long,2025-07-18,2025-07-24,12,1200,25.56,25.72,192.0,0.63,Positive,3.0672,Low-Risk,Long-Hold
+DODGECATS 💸,PRVA,Long,2025-05-09,2025-05-27,18,500,25.03,23.15,-940.0,-7.51,Negative,1.2515,Low-Risk,Long-Hold
+DODGECATS 💸,AAPL,Long,2025-05-20,2025-05-27,7,29,207.67,198.3,-271.73,-4.51,Negative,0.6022,Low-Risk,Long-Hold
+DODGECATS 💸,CI,Long,2025-05-20,2025-05-28,8,35,324.23,314.73,-332.5,-2.93,Negative,1.1348,Low-Risk,Long-Hold
+DODGECATS 💸,UNH,Long,2025-05-20,2025-05-28,8,78,320.99,294.07,-2099.76,-8.39,Negative,2.5037,Low-Risk,Long-Hold
+DODGECATS 💸,HD,Long,2025-05-20,2025-05-28,8,30,386.47,368.75,-531.6,-4.59,Negative,1.1594,Low-Risk,Long-Hold
+DODGECATS 💸,XOM,Long,2025-05-09,2025-05-28,19,100,107.15,104.12,-303.0,-2.83,Negative,1.0715,Low-Risk,Long-Hold
+DODGECATS 💸,CHRW,Long,2025-05-20,2025-05-28,8,100,99.7,97.51,-219.0,-2.2,Negative,0.997,Low-Risk,Long-Hold
+DODGECATS 💸,F,Long,2025-05-20,2025-05-28,8,700,10.8,10.32,-336.0,-4.44,Negative,0.756,Low-Risk,Long-Hold
+DODGECATS 💸,PLTR,Long,2025-05-20,2025-05-28,8,100,127.22,124.23,-299.0,-2.35,Negative,1.2722,Low-Risk,Long-Hold
+DODGECATS 💸,QBTS,Long,2025-05-28,2025-06-02,5,2500,17.0,16.24,-1900.0,-4.47,Negative,4.25,Low-Risk,Short-Hold
+DODGECATS 💸,AISP,Short,2025-05-20,2025-06-02,13,2000,5.59,5.15,880.0,7.87,Positive,1.118,Low-Risk,Long-Hold
+DODGECATS 💸,ACI,Long,2025-05-20,2025-06-09,20,1131,21.78,21.47,-350.61,-1.42,Negative,2.4633,Low-Risk,Long-Hold
+DODGECATS 💸,HD,Long,2025-05-20,2025-06-09,20,35,386.47,367.2,-674.45,-4.99,Negative,1.3526,Low-Risk,Long-Hold
+DODGECATS 💸,PRVA,Long,2025-05-09,2025-06-09,31,500,25.03,23.27,-880.0,-7.03,Negative,1.2515,Low-Risk,Long-Hold
+DODGECATS 💸,BRK.B,Long,2025-05-20,2025-06-09,20,48,511.24,493.7,-841.92,-3.43,Negative,2.454,Low-Risk,Long-Hold
+DODGECATS 💸,CHRW,Long,2025-05-20,2025-06-09,20,149,99.7,96.04,-545.34,-3.67,Negative,1.4855,Low-Risk,Long-Hold
+DODGECATS 💸,F,Long,2025-05-20,2025-06-09,20,1600,10.8,10.3,-800.0,-4.63,Negative,1.728,Low-Risk,Long-Hold
+DODGECATS 💸,DELL,Long,2025-05-20,2025-06-11,22,100,113.95,114.43,48.0,0.42,Positive,1.1395,Low-Risk,Long-Hold
+DODGECATS 💸,SVNDY,Long,2025-06-02,2025-06-11,9,100,15.95,15.0,-95.0,-5.96,Negative,0.1595,Low-Risk,Long-Hold
+DODGECATS 💸,OKUR,Long,2025-06-09,2025-07-09,30,90000,2.95,2.56,-35100.0,-13.22,Negative,26.55,High-Risk,Long-Hold
+DODGECATS 💸,CPRX,Long,2025-05-20,2025-07-17,58,1012,24.64,21.18,-3501.52,-14.04,Negative,2.4936,Low-Risk,Long-Hold
+DODGECATS 💸,SEI,Long,2025-06-09,2025-07-17,38,5000,30.3,29.52,-3900.0,-2.57,Negative,15.15,High-Risk,Long-Hold
+DODGECATS 💸,WAVE,Long,2025-07-09,2025-07-17,8,10000,6.78,6.58,-2000.0,-2.95,Negative,6.78,Low-Risk,Long-Hold
+DODGECATS 💸,KO,Long,2025-05-20,2025-07-17,58,346,71.89,69.8,-723.14,-2.91,Negative,2.4874,Low-Risk,Long-Hold
+DODGECATS 💸,TMUS,Long,2025-05-09,2025-07-22,74,150,240.8633,233.64,-1083.5,-3.0,Negative,3.613,Low-Risk,Long-Hold
+DODGECATS 💸,TRV,Long,2025-05-20,2025-07-22,63,91,272.92,265.6,-666.12,-2.68,Negative,2.4836,Low-Risk,Long-Hold
+DODGECATS 💸,CHWY,Long,2025-06-11,2025-07-22,41,200,41.5,37.95,-710.0,-8.55,Negative,0.83,Low-Risk,Long-Hold
+DODGECATS 💸,AXON,Long,2025-06-09,2025-07-22,43,100,795.83,749.01,-4682.0,-5.88,Negative,7.9583,Low-Risk,Long-Hold
+DODGECATS 💸,PLMR,Long,2025-05-20,2025-07-22,63,155,161.0,138.93,-3420.85,-13.71,Negative,2.4955,Low-Risk,Long-Hold
+DODGECATS 💸,CHWY,Long,2025-06-11,2025-07-22,41,59,41.5,38.17,-196.47,-8.02,Negative,0.2449,Low-Risk,Long-Hold
+DODGECATS 💸,CI,Long,2025-05-20,2025-07-22,63,42,324.23,299.89,-1022.28,-7.51,Negative,1.3618,Low-Risk,Long-Hold
+DODGECATS 💸,TMUS,Long,2025-07-17,2025-07-23,6,50,227.61,233.17,278.0,2.44,Positive,1.1381,Low-Risk,Long-Hold
+DODGECATS 💸,IBM,Long,2025-07-09,2025-07-23,14,119,289.44,284.44,-595.0,-1.73,Negative,3.4443,Low-Risk,Long-Hold
+DODGECATS 💸,WBD,Long,2025-07-09,2025-07-23,14,16825,11.58,12.9,22209.0,11.4,Positive,19.4833,High-Risk,Long-Hold
+DODGECATS 💸,RIVN,Long,2025-05-09,2025-07-23,75,1830,13.69,14.21,951.6,3.8,Positive,2.5053,Low-Risk,Long-Hold
+DODGECATS 💸,PAC,Long,2025-05-20,2025-07-23,64,109,225.43,219.39,-658.36,-2.68,Negative,2.4572,Low-Risk,Long-Hold
+DODGECATS 💸,WMT,Long,2025-05-09,2025-07-24,82,2562,96.86,96.6,-666.12,-0.27,Negative,24.8155,High-Risk,Long-Hold
+DODGECATS 💸,XOM,Long,2025-05-09,2025-07-24,82,135,107.15,110.79,491.4,3.4,Positive,1.4465,Low-Risk,Long-Hold
+DODGECATS 💸,DAL,Long,2025-05-09,2025-07-24,82,513,48.83,54.71,3016.44,12.04,Positive,2.505,Low-Risk,Long-Hold
+DODGECATS 💸,GM,Long,2025-05-09,2025-07-24,82,528,47.52,52.34,2544.96,10.14,Positive,2.5091,Low-Risk,Long-Hold
+DODGECATS 💸,PANW,Long,2025-05-09,2025-07-24,82,133,188.74,201.16,1651.86,6.58,Positive,2.5102,Low-Risk,Long-Hold
+DODGECATS 💸,NVO,Long,2025-05-09,2025-07-24,82,384,66.98,70.73,1440.0,5.6,Positive,2.572,Low-Risk,Long-Hold
+DODGECATS 💸,COST,Long,2025-05-09,2025-07-24,82,2483,1004.61,933.8,-175821.23,-7.05,Negative,249.4447,High-Risk,Long-Hold
+DODGECATS 💸,NVDA,Long,2025-05-09,2025-07-24,82,213,117.35,173.74,12011.07,48.05,Positive,2.4996,Low-Risk,Long-Hold
+DODGECATS 💸,NVDA,Long,2025-05-28,2025-07-24,63,314,136.05,173.74,11834.66,27.7,Positive,4.272,Low-Risk,Long-Hold
+DODGECATS 💸,NVDA,Long,2025-06-09,2025-07-24,51,500,143.27,173.74,15235.0,21.27,Positive,7.1635,Low-Risk,Long-Hold
+DODGECATS 💸,UPS,Long,2025-05-09,2025-07-24,82,257,97.1,102.53,1395.51,5.59,Positive,2.4955,Low-Risk,Long-Hold
+DODGECATS 💸,FDX,Long,2025-05-09,2025-07-24,82,114,218.73,236.51,2026.92,8.13,Positive,2.4935,Low-Risk,Long-Hold
+DODGECATS 💸,DIS,Long,2025-05-09,2025-07-24,82,237,105.55,121.95,3886.8,15.54,Positive,2.5015,Low-Risk,Long-Hold
+DODGECATS 💸,DINO,Long,2025-05-09,2025-07-24,82,735,34.64,43.87,6784.05,26.65,Positive,2.546,Low-Risk,Long-Hold
+DODGECATS 💸,RTX,Long,2025-05-09,2025-07-24,82,194,128.81,155.22,5123.54,20.5,Positive,2.4989,Low-Risk,Long-Hold
+DODGECATS 💸,HOOD,Long,2025-05-20,2025-07-24,71,300,63.99,101.93,11382.0,59.29,Positive,1.9197,Low-Risk,Long-Hold
+DODGECATS 💸,HOOD,Long,2025-06-09,2025-07-24,51,150,72.06,101.93,4480.5,41.45,Positive,1.0809,Low-Risk,Long-Hold
+DODGECATS 💸,PFE,Long,2025-05-20,2025-07-24,71,1000,23.2,25.35,2150.0,9.27,Positive,2.32,Low-Risk,Long-Hold
+DODGECATS 💸,OXY,Long,2025-05-20,2025-07-24,71,589,42.34,44.63,1348.81,5.41,Positive,2.4938,Low-Risk,Long-Hold
+DODGECATS 💸,PEP,Long,2025-05-20,2025-07-24,71,189,131.61,144.51,2438.1,9.8,Positive,2.4874,Low-Risk,Long-Hold
+DODGECATS 💸,AVGO,Long,2025-05-20,2025-07-24,71,108,226.57,288.71,6711.12,27.43,Positive,2.447,Low-Risk,Long-Hold
+DODGECATS 💸,PYPL,Long,2025-05-20,2025-07-24,71,345,72.1,77.82,1973.4,7.93,Positive,2.4874,Low-Risk,Long-Hold
+DODGECATS 💸,CRWD,Long,2025-05-20,2025-07-24,71,56,441.89,462.03,1127.84,4.56,Positive,2.4746,Low-Risk,Long-Hold
+DODGECATS 💸,PLTR,Long,2025-05-20,2025-07-24,71,97,127.22,154.86,2681.08,21.73,Positive,1.234,Low-Risk,Long-Hold
+DODGECATS 💸,BMY,Long,2025-05-20,2025-07-24,71,529,47.48,48.94,772.34,3.07,Positive,2.5117,Low-Risk,Long-Hold
+DODGECATS 💸,AMZN,Long,2025-05-20,2025-07-24,71,121,204.63,232.23,3339.6,13.49,Positive,2.476,Low-Risk,Long-Hold
+DODGECATS 💸,AAPL,Long,2025-05-20,2025-07-24,71,90,207.67,213.76,548.1,2.93,Positive,1.869,Low-Risk,Long-Hold
+DODGECATS 💸,AER,Long,2025-05-20,2025-07-24,71,219,113.66,112.01,-361.35,-1.45,Negative,2.4892,Low-Risk,Long-Hold
+DODGECATS 💸,DELL,Long,2025-05-20,2025-07-24,71,118,113.95,128.35,1699.2,12.64,Positive,1.3446,Low-Risk,Long-Hold
+DODGECATS 💸,NRG,Long,2025-05-28,2025-07-24,63,100,157.81,157.97,16.0,0.1,Positive,1.5781,Low-Risk,Long-Hold
+DODGECATS 💸,GLD,Long,2025-06-02,2025-07-24,58,50,309.26,310.3,52.0,0.34,Positive,1.5463,Low-Risk,Long-Hold
+DODGECATS 💸,ARM,Long,2025-06-09,2025-07-24,51,1000,134.85,159.99,25140.0,18.64,Positive,13.485,High-Risk,Long-Hold
+DODGECATS 💸,MRVL,Long,2025-06-11,2025-07-24,49,180,69.55,74.04,808.2,6.46,Positive,1.2519,Low-Risk,Long-Hold
+DODGECATS 💸,RIO,Long,2025-07-09,2025-07-24,21,3300,58.79,63.83,16632.0,8.57,Positive,19.4007,High-Risk,Long-Hold
+DODGECATS 💸,NUE,Long,2025-07-09,2025-07-24,21,186,139.67,141.43,327.36,1.26,Positive,2.5979,Low-Risk,Long-Hold
+DODGECATS 💸,WAVE,Long,2025-07-09,2025-07-24,21,10752,6.78,9.15,25482.24,34.96,Positive,7.2899,Low-Risk,Long-Hold
+DODGECATS 💸,AISP,Short,2025-05-20,2025-07-24,71,2355,5.59,5.71,-282.6,-2.15,Negative,1.3164,Low-Risk,Long-Hold
 Capital Gains,UNH,Long,2025-05-14,2025-05-16,2,250,321.4,279.29,-10527.5,-13.1,Negative,8.035,High-Risk,Short-Hold
 Capital Gains,NKE,Long,2025-05-12,2025-05-16,4,2500,62.34,62.68,850.0,0.55,Positive,15.585,High-Risk,Short-Hold
-Capital Gains,LHX,Long,2025-05-09,2025-05-16,7,500,219.69,228.57,4440.0,4.04,Positive,10.9845,High-Risk,Short-Hold
+Capital Gains,LHX,Long,2025-05-09,2025-05-16,7,500,219.69,228.57,4440.0,4.04,Positive,10.9845,High-Risk,Long-Hold
 Capital Gains,COIN,Long,2025-05-13,2025-06-04,22,500,258.49,256.49,-1000.0,-0.77,Negative,12.9245,High-Risk,Long-Hold
 Capital Gains,SGMT,Long,2025-06-04,2025-06-04,0,18634,4.57,4.05,-9689.68,-11.38,Negative,8.5157,High-Risk,Short-Hold
 Capital Gains,CFRHF,Long,2025-05-19,2025-06-05,17,81,199.07,188.91,-822.96,-5.1,Negative,1.6125,Low-Risk,Long-Hold
@@ -187,7 +304,6 @@ Capital Gains,TNXP,Long,2025-06-13,2025-07-23,40,1045,34.37,44.98,11087.45,30.87
 Capital Gains,TSLA,Long,2025-05-13,2025-07-23,71,160,321.6013,330.87,1483.0,2.88,Positive,5.1456,Low-Risk,Long-Hold
 Capital Gains,UNCY,Long,2025-07-07,2025-07-23,16,26308,4.58,4.49,-2367.72,-1.97,Negative,12.0491,High-Risk,Long-Hold
 Capital Gains,UNH,Long,2025-05-14,2025-07-23,70,137,321.4,287.3,-4671.7,-10.61,Negative,4.4032,Low-Risk,Long-Hold
-Capital Gains,WMT,Long,2025-05-09,2025-07-23,75,1,96.86,95.91,-0.95,-0.98,Negative,0.0097,Low-Risk,Long-Hold
 Capital Gains,ZION,Long,2025-05-14,2025-07-23,70,100,49.62,57.29,767.0,15.46,Positive,0.4962,Low-Risk,Long-Hold
 Capital Gains,MLTX,Long,2025-06-04,2025-07-23,49,200,52.1,54.17,414.0,3.97,Positive,1.042,Low-Risk,Long-Hold
 Capital Gains,RGC,Long,2025-05-13,2025-07-23,71,20,515.11,13.75,-10027.2,-97.33,Negative,1.0302,Low-Risk,Long-Hold
@@ -214,22 +330,22 @@ Capital Gains,HURN,Long,2025-05-28,2025-07-23,56,165,138.68,131.66,-1158.3,-5.06
 Capital Gains,IONQ,Long,2025-05-22,2025-07-23,62,493,42.82,42.47,-172.55,-0.82,Negative,2.111,Low-Risk,Long-Hold
 Capital Gains,KEP,Long,2025-06-25,2025-07-23,28,1000,13.71,13.79,80.0,0.58,Positive,1.371,Low-Risk,Long-Hold
 Capital Gains,KNSA,Long,2025-06-13,2025-07-23,40,1015,27.92,27.69,-233.45,-0.82,Negative,2.8339,Low-Risk,Long-Hold
-Capital Gains,COST,Long,2025-07-17,2025-07-23,6,4,966.645,942.38,-97.06,-2.51,Negative,0.3867,Low-Risk,Short-Hold
+Capital Gains,COST,Long,2025-07-17,2025-07-23,6,4,966.645,942.38,-97.06,-2.51,Negative,0.3867,Low-Risk,Long-Hold
 Capital Gains,LHX,Long,2025-05-09,2025-07-23,75,570,222.9542,264.88,23897.7,18.8,Positive,12.7084,High-Risk,Long-Hold
 Capital Gains,CYBN,Long,2025-07-07,2025-07-23,16,8855,7.83,7.83,0.0,0.0,Positive,6.9335,Low-Risk,Long-Hold
 Capital Gains,CFRHF,Long,2025-05-19,2025-07-23,65,89,197.1689,182.7,-1287.73,-7.34,Negative,1.7548,Low-Risk,Long-Hold
 Capital Gains,NRG,Long,2025-05-13,2025-07-23,71,100,149.73,163.0,1327.0,8.86,Positive,1.4973,Low-Risk,Long-Hold
 Capital Gains,NVDA,Long,2025-05-09,2025-07-23,75,550,122.4673,169.3,25758.0,38.24,Positive,6.7357,Low-Risk,Long-Hold
 Capital Gains,NXTT,Long,2025-05-12,2025-07-23,72,1000,4.01,2.34,-1670.0,-41.65,Negative,0.401,Low-Risk,Long-Hold
-Capital Gains,CURI,Long,2025-07-23,2025-07-24,1,200000,4.62,4.57,-10000.0,-1.08,Negative,92.4,High-Risk,Short-Hold
-Capital Gains,OPEN,Long,2025-07-23,2025-07-24,1,200000,2.23,2.6,74000.0,16.59,Positive,44.6,High-Risk,Short-Hold
-Capital Gains,AMPX,Long,2025-07-23,2025-07-24,1,10000,8.06,7.84,-2200.0,-2.73,Negative,8.06,High-Risk,Short-Hold
-Capital Gains,WDH,Long,2025-07-23,2025-07-24,1,250000,1.73,2.04,77500.0,17.92,Positive,43.25,High-Risk,Short-Hold
-Capital Gains,VSTM,Long,2025-07-23,2025-07-24,1,20000,5.43,5.39,-800.0,-0.74,Negative,10.86,High-Risk,Short-Hold
+Capital Gains,CURI,Long,2025-07-23,2025-07-24,7,200000,4.62,4.57,-10000.0,-1.08,Negative,92.4,High-Risk,Long-Hold
+Capital Gains,OPEN,Long,2025-07-23,2025-07-24,7,200000,2.23,2.6,74000.0,16.59,Positive,44.6,High-Risk,Long-Hold
+Capital Gains,AMPX,Long,2025-07-23,2025-07-24,7,10000,8.06,7.84,-2200.0,-2.73,Negative,8.06,High-Risk,Long-Hold
+Capital Gains,WDH,Long,2025-07-23,2025-07-24,7,250000,1.73,2.04,77500.0,17.92,Positive,43.25,High-Risk,Long-Hold
+Capital Gains,VSTM,Long,2025-07-23,2025-07-24,7,20000,5.43,5.39,-800.0,-0.74,Negative,10.86,High-Risk,Long-Hold
 Andrew Carter,INZY,Long,2025-05-14,2025-05-15,1,175500,1.06,1.42,63180.0,33.96,Positive,18.603,High-Risk,Short-Hold
 Andrew Carter,XFOR,Long,2025-05-14,2025-05-19,5,30414,3.39,2.89,-15207.0,-14.75,Negative,10.3103,High-Risk,Short-Hold
 Andrew Carter,SYTA,Long,2025-05-19,2025-05-20,1,25115,3.71,6.78,77103.05,82.75,Positive,9.3177,High-Risk,Short-Hold
-Andrew Carter,AI,Short,2025-05-14,2025-05-20,6,296,24.19,23.12,316.72,4.42,Positive,0.716,Low-Risk,Short-Hold
+Andrew Carter,AI,Short,2025-05-14,2025-05-20,6,296,24.19,23.12,316.72,4.42,Positive,0.716,Low-Risk,Long-Hold
 Andrew Carter,VSCO,Long,2025-05-19,2025-06-02,14,12633,22.24,20.84,-17686.2,-6.29,Negative,28.0958,High-Risk,Long-Hold
 Andrew Carter,TNGX,Long,2025-05-20,2025-06-06,17,46674,2.39,4.1,79812.54,71.55,Positive,11.1551,High-Risk,Long-Hold
 Andrew Carter,TNGX,Long,2025-06-06,2025-06-06,0,90090,4.16,4.08,-7207.2,-1.92,Negative,37.4774,High-Risk,Short-Hold
@@ -237,33 +353,465 @@ Andrew Carter,TNGX,Long,2025-06-06,2025-06-10,4,126790,4.2195,4.51,36828.05,6.88
 Andrew Carter,TNGX,Long,2025-06-10,2025-06-10,0,161681,4.52,4.6,12934.48,1.77,Positive,73.0798,High-Risk,Short-Hold
 Andrew Carter,TNGX,Long,2025-06-10,2025-06-11,1,154788,4.4405,4.81,57189.66,8.32,Positive,68.7341,High-Risk,Short-Hold
 Andrew Carter,TNGX,Long,2025-06-11,2025-06-11,0,139735,4.73,4.81,11178.8,1.69,Positive,66.0947,High-Risk,Short-Hold
-Andrew Carter,TNGX,Long,2025-06-11,2025-07-15,34,1,4.84,5.88,1.04,21.49,Positive,0.0005,Low-Risk,Long-Hold
-Andrew Carter,XENE,Long,2025-05-14,2025-07-24,71,7500,29.62,31.06,10800.0,4.86,Positive,22.215,High-Risk,Long-Hold
-Andrew Carter,COST,Long,2025-05-14,2025-07-24,71,1,998.76,935.61,-63.15,-6.32,Negative,0.0999,Low-Risk,Long-Hold
-Andrew Carter,ARM,Long,2025-05-14,2025-07-24,71,1250,128.81,161.2,40487.5,25.15,Positive,16.1013,High-Risk,Long-Hold
-Andrew Carter,PLTR,Long,2025-05-14,2025-07-24,71,1500,129.03,154.95,38880.0,20.09,Positive,19.3545,High-Risk,Long-Hold
-Andrew Carter,RCKT,Long,2025-05-14,2025-07-24,71,25000,6.53,3.2,-83250.0,-51.0,Negative,16.325,High-Risk,Long-Hold
-Andrew Carter,WMT,Long,2025-05-14,2025-07-24,71,1,96.03,96.62,0.59,0.61,Positive,0.0096,Low-Risk,Long-Hold
-Andrew Carter,OKUR,Long,2025-05-14,2025-07-24,71,80000,1.85,2.39,43200.0,29.19,Positive,14.8,High-Risk,Long-Hold
-Andrew Carter,XFOR,Long,2025-05-14,2025-07-24,71,29586,3.39,2.09,-38461.8,-38.35,Negative,10.0297,High-Risk,Long-Hold
-Andrew Carter,SEI,Long,2025-05-14,2025-07-24,71,5000,23.24,32.92,48400.0,41.65,Positive,11.62,High-Risk,Long-Hold
-Andrew Carter,NVDA,Long,2025-05-14,2025-07-24,71,1750,133.17,173.65,70840.0,30.4,Positive,23.3047,High-Risk,Long-Hold
-Andrew Carter,UNH,Long,2025-05-14,2025-07-24,71,750,321.4,281.86,-29655.0,-12.3,Negative,24.105,High-Risk,Long-Hold
-Andrew Carter,CLNN,Long,2025-05-19,2025-07-24,66,46922,2.64,3.78,53491.08,43.18,Positive,12.3874,High-Risk,Long-Hold
-Andrew Carter,CLNN,Long,2025-06-02,2025-07-24,52,26657,4.86,3.78,-28789.56,-22.22,Negative,12.9553,High-Risk,Long-Hold
-Andrew Carter,SYTA,Long,2025-05-19,2025-07-24,66,1515,3.71,3.97,393.9,7.01,Positive,0.5621,Low-Risk,Long-Hold
-Andrew Carter,TNGX,Long,2025-06-11,2025-07-24,43,155746,4.84,6.83,309934.54,41.12,Positive,75.3811,High-Risk,Long-Hold
-Andrew Carter,TNGX,Long,2025-06-11,2025-07-24,43,19337,4.72,6.83,40801.07,44.7,Positive,9.1271,High-Risk,Long-Hold
-Andrew Carter,RYET,Long,2025-07-15,2025-07-24,9,33579,2.12,2.07,-1678.95,-2.36,Negative,7.1187,Low-Risk,Long-Hold
-Andrew Carter,ATNF,Long,2025-07-21,2025-07-24,3,33511,2.82,2.11,-23792.81,-25.18,Negative,9.4501,High-Risk,Short-Hold
+Andrew Carter,XENE,Long,2025-05-14,2025-07-24,77,7500,29.62,31.06,10800.0,4.86,Positive,22.215,High-Risk,Long-Hold
+Andrew Carter,ARM,Long,2025-05-14,2025-07-24,77,1250,128.81,161.2,40487.5,25.15,Positive,16.1013,High-Risk,Long-Hold
+Andrew Carter,PLTR,Long,2025-05-14,2025-07-24,77,1500,129.03,154.95,38880.0,20.09,Positive,19.3545,High-Risk,Long-Hold
+Andrew Carter,RCKT,Long,2025-05-14,2025-07-24,77,25000,6.53,3.2,-83250.0,-51.0,Negative,16.325,High-Risk,Long-Hold
+Andrew Carter,OKUR,Long,2025-05-14,2025-07-24,77,80000,1.85,2.39,43200.0,29.19,Positive,14.8,High-Risk,Long-Hold
+Andrew Carter,XFOR,Long,2025-05-14,2025-07-24,77,29586,3.39,2.09,-38461.8,-38.35,Negative,10.0297,High-Risk,Long-Hold
+Andrew Carter,SEI,Long,2025-05-14,2025-07-24,77,5000,23.24,32.92,48400.0,41.65,Positive,11.62,High-Risk,Long-Hold
+Andrew Carter,NVDA,Long,2025-05-14,2025-07-24,77,1750,133.17,173.65,70840.0,30.4,Positive,23.3047,High-Risk,Long-Hold
+Andrew Carter,UNH,Long,2025-05-14,2025-07-24,77,750,321.4,281.86,-29655.0,-12.3,Negative,24.105,High-Risk,Long-Hold
+Andrew Carter,CLNN,Long,2025-05-19,2025-07-24,72,46922,2.64,3.78,53491.08,43.18,Positive,12.3874,High-Risk,Long-Hold
+Andrew Carter,CLNN,Long,2025-06-02,2025-07-24,58,26657,4.86,3.78,-28789.56,-22.22,Negative,12.9553,High-Risk,Long-Hold
+Andrew Carter,SYTA,Long,2025-05-19,2025-07-24,72,1515,3.71,3.97,393.9,7.01,Positive,0.5621,Low-Risk,Long-Hold
+Andrew Carter,TNGX,Long,2025-06-11,2025-07-24,49,155746,4.84,6.83,309934.54,41.12,Positive,75.3811,High-Risk,Long-Hold
+Andrew Carter,TNGX,Long,2025-06-11,2025-07-24,49,19337,4.72,6.83,40801.07,44.7,Positive,9.1271,High-Risk,Long-Hold
+Andrew Carter,RYET,Long,2025-07-15,2025-07-24,15,33579,2.12,2.07,-1678.95,-2.36,Negative,7.1187,Low-Risk,Long-Hold
+Andrew Carter,ATNF,Long,2025-07-21,2025-07-24,9,33511,2.82,2.11,-23792.81,-25.18,Negative,9.4501,High-Risk,Long-Hold
+Risky Business,COST,Long,2025-05-20,2025-07-08,49,50,1030.01,989.03,-2049.0,-3.98,Negative,5.15,Low-Risk,Long-Hold
+Risky Business,ESLT,Long,2025-06-18,2025-07-08,20,50,454.49,443.6,-544.5,-2.4,Negative,2.2725,Low-Risk,Long-Hold
+Risky Business,SHEL,Long,2025-06-18,2025-07-08,20,300,72.22,69.92,-690.0,-3.18,Negative,2.1666,Low-Risk,Long-Hold
+Risky Business,HD,Long,2025-05-13,2025-07-17,65,125,380.98,356.0,-3122.5,-6.56,Negative,4.7622,Low-Risk,Long-Hold
+Risky Business,COST,Long,2025-05-20,2025-07-18,59,25,1030.01,954.54,-1886.75,-7.33,Negative,2.575,Low-Risk,Long-Hold
+Risky Business,GSK,Long,2025-06-03,2025-07-22,49,1000,40.68,36.37,-4310.0,-10.59,Negative,4.068,Low-Risk,Long-Hold
+Risky Business,UNH,Long,2025-06-03,2025-07-22,49,79,303.79,282.26,-1700.87,-7.09,Negative,2.3999,Low-Risk,Long-Hold
+Risky Business,GLD,Long,2025-05-13,2025-07-24,78,70,298.99,310.3,791.7,3.78,Positive,2.0929,Low-Risk,Long-Hold
+Risky Business,META,Long,2025-05-13,2025-07-24,78,100,645.33,714.8,6947.0,10.77,Positive,6.4533,Low-Risk,Long-Hold
+Risky Business,WMT,Long,2025-05-20,2025-07-24,71,516,98.65,96.6,-1057.8,-2.08,Negative,5.0903,Low-Risk,Long-Hold
+Risky Business,COST,Long,2025-05-20,2025-07-24,71,25,1030.01,933.8,-2405.25,-9.34,Negative,2.575,Low-Risk,Long-Hold
+Risky Business,LLY,Long,2025-05-20,2025-07-24,71,40,757.0,805.43,1937.2,6.4,Positive,3.028,Low-Risk,Long-Hold
+Risky Business,MA,Long,2025-05-20,2025-07-24,71,50,582.42,563.5,-946.0,-3.25,Negative,2.9121,Low-Risk,Long-Hold
+Risky Business,V,Long,2025-05-20,2025-07-24,71,50,367.68,353.97,-685.5,-3.73,Negative,1.8384,Low-Risk,Long-Hold
+Risky Business,HEI,Long,2025-05-20,2025-07-24,71,70,279.58,320.4,2857.4,14.6,Positive,1.9571,Low-Risk,Long-Hold
+Risky Business,TSM,Long,2025-05-20,2025-07-24,71,129,191.8,241.6,6424.2,25.96,Positive,2.4742,Low-Risk,Long-Hold
+Risky Business,GOOGL,Long,2025-05-20,2025-07-24,71,150,166.43,192.17,3861.0,15.47,Positive,2.4965,Low-Risk,Long-Hold
+Risky Business,VUSB,Long,2025-05-20,2025-07-24,71,503,49.7,49.8,50.3,0.2,Positive,2.4999,Low-Risk,Long-Hold
+Risky Business,UPST,Long,2025-05-20,2025-07-24,71,500,47.34,82.7,17680.0,74.69,Positive,2.367,Low-Risk,Long-Hold
+Risky Business,UPST,Long,2025-07-17,2025-07-24,13,300,77.76,82.7,1482.0,6.35,Positive,2.3328,Low-Risk,Long-Hold
+Risky Business,CRWV,Long,2025-05-20,2025-07-24,71,250,89.67,120.0,7582.5,33.82,Positive,2.2418,Low-Risk,Long-Hold
+Risky Business,CRWV,Long,2025-07-17,2025-07-24,13,200,141.01,120.0,-4202.0,-14.9,Negative,2.8202,Low-Risk,Long-Hold
+Risky Business,BUD,Long,2025-05-20,2025-07-24,71,364,68.49,70.09,582.4,2.34,Positive,2.493,Low-Risk,Long-Hold
+Risky Business,NVDA,Long,2025-05-20,2025-07-24,71,150,134.29,173.74,5917.5,29.38,Positive,2.0144,Low-Risk,Long-Hold
+Risky Business,MRNA,Long,2025-05-20,2025-07-24,71,947,26.81,34.01,6818.4,26.86,Positive,2.5389,Low-Risk,Long-Hold
+Risky Business,AMZN,Long,2025-05-20,2025-07-24,71,100,204.63,232.23,2760.0,13.49,Positive,2.0463,Low-Risk,Long-Hold
+Risky Business,BA,Long,2025-05-20,2025-07-24,71,100,205.0,231.27,2627.0,12.81,Positive,2.05,Low-Risk,Long-Hold
+Risky Business,BA,Long,2025-06-13,2025-07-24,47,500,200.68,231.27,15295.0,15.24,Positive,10.034,High-Risk,Long-Hold
+Risky Business,ORCL,Long,2025-05-20,2025-07-24,71,150,158.42,242.83,12661.5,53.28,Positive,2.3763,Low-Risk,Long-Hold
+Risky Business,LMT,Long,2025-05-20,2025-07-24,71,60,472.0,420.55,-3087.0,-10.9,Negative,2.832,Low-Risk,Long-Hold
+Risky Business,BSX,Long,2025-05-20,2025-07-24,71,234,106.24,106.21,-7.02,-0.03,Negative,2.486,Low-Risk,Long-Hold
+Risky Business,LC,Long,2025-05-20,2025-07-24,71,2000,10.51,13.17,5320.0,25.31,Positive,2.102,Low-Risk,Long-Hold
+Risky Business,NNI,Long,2025-05-20,2025-07-24,71,175,119.1,122.38,574.0,2.75,Positive,2.0842,Low-Risk,Long-Hold
+Risky Business,DG,Long,2025-05-27,2025-07-24,64,150,101.02,107.75,1009.5,6.66,Positive,1.5153,Low-Risk,Long-Hold
+Risky Business,SMR,Long,2025-05-27,2025-07-24,64,500,34.34,51.03,8345.0,48.6,Positive,1.717,Low-Risk,Long-Hold
+Risky Business,OKLO,Long,2025-05-27,2025-07-24,64,450,53.41,74.59,9531.0,39.66,Positive,2.4034,Low-Risk,Long-Hold
+Risky Business,AAPL,Long,2025-06-03,2025-07-24,57,120,201.35,213.76,1489.2,6.16,Positive,2.4162,Low-Risk,Long-Hold
+Risky Business,ASML,Long,2025-06-03,2025-07-24,57,33,732.5,725.08,-244.86,-1.01,Negative,2.4173,Low-Risk,Long-Hold
+Risky Business,BX,Long,2025-06-03,2025-07-24,57,171,138.61,178.11,6754.5,28.5,Positive,2.3702,Low-Risk,Long-Hold
+Risky Business,C,Long,2025-06-03,2025-07-24,57,328,75.65,95.39,6474.72,26.09,Positive,2.4813,Low-Risk,Long-Hold
+Risky Business,CVX,Long,2025-06-03,2025-07-24,57,180,137.43,155.83,3312.0,13.39,Positive,2.4737,Low-Risk,Long-Hold
+Risky Business,CVX,Long,2025-06-18,2025-07-24,42,400,149.13,155.83,2680.0,4.49,Positive,5.9652,Low-Risk,Long-Hold
+Risky Business,GE,Long,2025-06-03,2025-07-24,57,106,247.44,268.01,2180.42,8.31,Positive,2.6229,Low-Risk,Long-Hold
+Risky Business,IQV,Long,2025-06-03,2025-07-24,57,174,138.58,200.82,10829.76,44.91,Positive,2.4113,Low-Risk,Long-Hold
+Risky Business,JNJ,Long,2025-06-03,2025-07-24,57,164,154.75,169.56,2428.84,9.57,Positive,2.5379,Low-Risk,Long-Hold
+Risky Business,JPM,Long,2025-06-03,2025-07-24,57,94,263.57,296.55,3100.12,12.51,Positive,2.4776,Low-Risk,Long-Hold
+Risky Business,MSFT,Long,2025-06-03,2025-07-24,57,54,461.47,510.88,2668.14,10.71,Positive,2.4919,Low-Risk,Long-Hold
+Risky Business,MSFT,Long,2025-07-22,2025-07-24,8,838,510.95,510.88,-58.66,-0.01,Negative,42.8176,High-Risk,Long-Hold
+Risky Business,PANW,Long,2025-06-03,2025-07-24,57,200,195.0,201.16,1232.0,3.16,Positive,3.9,Low-Risk,Long-Hold
+Risky Business,KO,Long,2025-06-03,2025-07-24,57,347,71.77,69.1,-926.49,-3.72,Negative,2.4904,Low-Risk,Long-Hold
+Risky Business,ZS,Long,2025-06-03,2025-07-24,57,50,292.72,284.3,-421.0,-2.88,Negative,1.4636,Low-Risk,Long-Hold
+Risky Business,XOM,Long,2025-06-03,2025-07-24,57,250,102.8,110.79,1997.5,7.77,Positive,2.57,Low-Risk,Long-Hold
+Risky Business,CRWD,Long,2025-06-03,2025-07-24,57,100,480.54,462.03,-1851.0,-3.85,Negative,4.8054,Low-Risk,Long-Hold
+Risky Business,PFE,Long,2025-06-03,2025-07-24,57,1500,23.38,25.35,2955.0,8.43,Positive,3.507,Low-Risk,Long-Hold
+Risky Business,SNOW,Long,2025-06-03,2025-07-24,57,137,210.59,215.02,606.91,2.1,Positive,2.8851,Low-Risk,Long-Hold
+Risky Business,PEP,Long,2025-06-03,2025-07-24,57,190,130.63,144.51,2637.2,10.63,Positive,2.482,Low-Risk,Long-Hold
+Risky Business,NOC,Long,2025-06-03,2025-07-24,57,53,483.74,568.48,4491.22,17.52,Positive,2.5638,Low-Risk,Long-Hold
+Risky Business,WFG,Long,2025-06-03,2025-07-24,57,239,73.84,70.95,-690.71,-3.91,Negative,1.7648,Low-Risk,Long-Hold
+Risky Business,GEO,Long,2025-06-10,2025-07-24,50,720,27.0,24.55,-1764.0,-9.07,Negative,1.944,Low-Risk,Long-Hold
+Risky Business,RBLX,Long,2025-06-10,2025-07-24,50,250,93.18,118.12,6235.0,26.77,Positive,2.3295,Low-Risk,Long-Hold
+Risky Business,DIS,Long,2025-06-10,2025-07-24,50,300,118.93,121.95,906.0,2.54,Positive,3.5679,Low-Risk,Long-Hold
+Risky Business,INTC,Long,2025-06-18,2025-07-24,42,500,20.79,22.63,920.0,8.85,Positive,1.0395,Low-Risk,Long-Hold
+Risky Business,RTX,Long,2025-06-18,2025-07-24,42,100,148.74,155.22,648.0,4.36,Positive,1.4874,Low-Risk,Long-Hold
+Risky Business,TTE,Long,2025-06-18,2025-07-24,42,300,62.16,60.44,-516.0,-2.77,Negative,1.8648,Low-Risk,Long-Hold
+Risky Business,ESLT,Long,2025-06-18,2025-07-24,42,50,454.49,450.29,-210.0,-0.92,Negative,2.2725,Low-Risk,Long-Hold
+Risky Business,LHX,Long,2025-07-17,2025-07-24,13,80,264.2,273.22,721.6,3.41,Positive,2.1136,Low-Risk,Long-Hold
+Risky Business,LDOS,Long,2025-07-17,2025-07-24,13,200,160.82,163.25,486.0,1.51,Positive,3.2164,Low-Risk,Long-Hold
+Asset Assassins,BA,Long,2025-05-14,2025-05-21,7,100,205.86,206.48,62.0,0.3,Positive,2.0586,Low-Risk,Long-Hold
+Asset Assassins,CVNA,Long,2025-05-14,2025-05-22,8,10,297.26,292.49,-47.7,-1.6,Negative,0.2973,Low-Risk,Long-Hold
+Asset Assassins,NKE,Long,2025-05-14,2025-05-28,14,400,61.98,62.8,328.0,1.32,Positive,2.4792,Low-Risk,Long-Hold
+Asset Assassins,UNH,Long,2025-05-14,2025-05-28,14,100,321.4,294.07,-2733.0,-8.5,Negative,3.214,Low-Risk,Long-Hold
+Asset Assassins,PEN,Long,2025-05-14,2025-05-28,14,74,295.0,273.44,-1595.44,-7.31,Negative,2.183,Low-Risk,Long-Hold
+Asset Assassins,BSX,Long,2025-05-22,2025-05-28,6,15,104.36,105.58,18.3,1.17,Positive,0.1565,Low-Risk,Long-Hold
+Asset Assassins,FUBO,Long,2025-05-14,2025-06-02,19,10000,2.97,3.67,7000.0,23.57,Positive,2.97,Low-Risk,Long-Hold
+Asset Assassins,DAL,Long,2025-05-14,2025-06-05,22,100,52.52,48.68,-384.0,-7.31,Negative,0.5252,Low-Risk,Long-Hold
+Asset Assassins,LEN,Long,2025-05-14,2025-06-05,22,150,112.12,110.04,-312.0,-1.86,Negative,1.6818,Low-Risk,Long-Hold
+Asset Assassins,HAL,Long,2025-05-14,2025-06-05,22,1000,21.15,20.0,-1150.0,-5.44,Negative,2.115,Low-Risk,Long-Hold
+Asset Assassins,LULU,Long,2025-05-14,2025-06-16,33,20,310.39,241.5,-1377.8,-22.19,Negative,0.6208,Low-Risk,Long-Hold
+Asset Assassins,JNJ,Long,2025-05-14,2025-06-16,33,500,148.67,156.3,3815.0,5.13,Positive,7.4335,Low-Risk,Long-Hold
+Asset Assassins,ADBE,Long,2025-05-14,2025-07-08,55,250,396.85,378.27,-4645.0,-4.68,Negative,9.9212,High-Risk,Long-Hold
+Asset Assassins,APLD,Long,2025-06-05,2025-07-08,33,1400,12.96,9.82,-4396.0,-24.23,Negative,1.8144,Low-Risk,Long-Hold
+Asset Assassins,DUOL,Long,2025-05-22,2025-07-10,49,10,511.11,390.75,-1203.6,-23.55,Negative,0.5111,Low-Risk,Long-Hold
+Asset Assassins,TM,Long,2025-05-14,2025-07-10,57,50,188.03,169.51,-926.0,-9.85,Negative,0.9402,Low-Risk,Long-Hold
+Asset Assassins,DJT,Long,2025-05-28,2025-07-17,50,1000,23.5,18.98,-4520.0,-19.23,Negative,2.35,Low-Risk,Long-Hold
+Asset Assassins,PLTR,Long,2025-05-14,2025-07-17,64,500,129.03,151.57,11270.0,17.47,Positive,6.4515,Low-Risk,Long-Hold
+Asset Assassins,RBLX,Long,2025-05-14,2025-07-17,64,200,88.952,118.8,5969.6,33.56,Positive,1.779,Low-Risk,Long-Hold
+Asset Assassins,NFLX,Long,2025-07-17,2025-07-24,7,60,1253.0,1178.0,-4500.0,-5.99,Negative,7.518,Low-Risk,Long-Hold
+Asset Assassins,W,Long,2025-05-14,2025-07-24,71,150,38.39,63.0,3691.5,64.11,Positive,0.5758,Low-Risk,Long-Hold
+Asset Assassins,AOSL,Long,2025-06-26,2025-07-24,28,2000,25.45,28.5,6100.0,11.98,Positive,5.09,Low-Risk,Long-Hold
+Asset Assassins,COST,Long,2025-05-13,2025-07-24,78,10,1013.72,933.8,-799.2,-7.88,Negative,1.0137,Low-Risk,Long-Hold
+Asset Assassins,AVGO,Long,2025-05-14,2025-07-24,77,200,230.23,288.71,11696.0,25.4,Positive,4.6046,Low-Risk,Long-Hold
+Asset Assassins,AVGO,Long,2025-05-28,2025-07-24,63,15,236.51,288.71,783.0,22.07,Positive,0.3548,Low-Risk,Long-Hold
+Asset Assassins,AVGO,Long,2025-06-05,2025-07-24,55,150,262.9,288.71,3871.5,9.82,Positive,3.9435,Low-Risk,Long-Hold
+Asset Assassins,AVGO,Long,2025-07-10,2025-07-24,20,45,279.69,288.71,405.9,3.22,Positive,1.2586,Low-Risk,Long-Hold
+Asset Assassins,AVGO,Long,2025-07-24,2025-07-24,6,63,289.71,288.71,-63.0,-0.35,Negative,1.8252,Low-Risk,Long-Hold
+Asset Assassins,TSM,Long,2025-05-14,2025-07-24,77,50,195.28,241.6,2316.0,23.72,Positive,0.9764,Low-Risk,Long-Hold
+Asset Assassins,FUBO,Long,2025-05-28,2025-07-24,63,3000,3.68,3.6,-240.0,-2.17,Negative,1.104,Low-Risk,Long-Hold
+Asset Assassins,MANU,Long,2025-05-14,2025-07-24,77,1000,14.39,17.96,3570.0,24.81,Positive,1.439,Low-Risk,Long-Hold
+Asset Assassins,T,Long,2025-05-14,2025-07-24,77,1000,26.46,27.92,1460.0,5.52,Positive,2.646,Low-Risk,Long-Hold
+Asset Assassins,SCHW,Long,2025-05-14,2025-07-24,77,300,85.79,96.5,3213.0,12.48,Positive,2.5737,Low-Risk,Long-Hold
+Asset Assassins,BAC,Long,2025-05-14,2025-07-24,77,200,44.19,48.39,840.0,9.5,Positive,0.8838,Low-Risk,Long-Hold
+Asset Assassins,AMZN,Long,2025-05-14,2025-07-24,77,200,211.41,232.23,4164.0,9.85,Positive,4.2282,Low-Risk,Long-Hold
+Asset Assassins,MO,Long,2025-05-14,2025-07-24,77,120,56.32,59.61,394.8,5.84,Positive,0.6758,Low-Risk,Long-Hold
+Asset Assassins,RBLX,Long,2025-07-08,2025-07-24,22,320,106.49,118.12,3721.6,10.92,Positive,3.4077,Low-Risk,Long-Hold
+Asset Assassins,JPM,Long,2025-05-14,2025-07-24,77,120,262.29,296.55,4111.2,13.06,Positive,3.1475,Low-Risk,Long-Hold
+Asset Assassins,W,Long,2025-05-14,2025-07-24,77,50,38.39,63.07,1234.0,64.29,Positive,0.192,Low-Risk,Long-Hold
+Asset Assassins,NOW,Long,2025-05-14,2025-07-24,77,100,1038.5,996.18,-4232.0,-4.08,Negative,10.385,High-Risk,Long-Hold
+Asset Assassins,DIS,Long,2025-05-14,2025-07-24,77,20,111.37,121.95,211.6,9.5,Positive,0.2227,Low-Risk,Long-Hold
+Asset Assassins,META,Long,2025-05-14,2025-07-24,77,20,661.21,714.8,1071.8,8.1,Positive,1.3224,Low-Risk,Long-Hold
+Asset Assassins,BRK.B,Long,2025-05-14,2025-07-24,77,20,511.85,480.6,-625.0,-6.11,Negative,1.0237,Low-Risk,Long-Hold
+Asset Assassins,AAPL,Long,2025-05-14,2025-07-24,77,30,212.43,213.76,39.9,0.63,Positive,0.6373,Low-Risk,Long-Hold
+Asset Assassins,XOM,Long,2025-05-14,2025-07-24,77,100,108.76,110.79,203.0,1.87,Positive,1.0876,Low-Risk,Long-Hold
+Asset Assassins,NVDA,Long,2025-05-14,2025-07-24,77,100,133.17,173.74,4057.0,30.46,Positive,1.3317,Low-Risk,Long-Hold
+Asset Assassins,NVDA,Long,2025-06-05,2025-07-24,55,30,142.15,173.74,947.7,22.22,Positive,0.4264,Low-Risk,Long-Hold
+Asset Assassins,NVDA,Long,2025-06-26,2025-07-24,34,1080,155.98,173.74,19180.8,11.39,Positive,16.8458,High-Risk,Long-Hold
+Asset Assassins,NVDA,Long,2025-06-26,2025-07-24,34,1080,155.98,173.74,19180.8,11.39,Positive,16.8458,High-Risk,Long-Hold
+Asset Assassins,NVDA,Long,2025-07-10,2025-07-24,20,100,164.36,173.74,938.0,5.71,Positive,1.6436,Low-Risk,Long-Hold
+Asset Assassins,NVDA,Long,2025-07-17,2025-07-24,13,133,172.06,173.74,223.44,0.98,Positive,2.2884,Low-Risk,Long-Hold
+Asset Assassins,SNOW,Long,2025-05-14,2025-07-24,77,50,181.74,215.02,1664.0,18.31,Positive,0.9087,Low-Risk,Long-Hold
+Asset Assassins,SNOW,Long,2025-06-16,2025-07-24,44,23,210.22,215.02,110.4,2.28,Positive,0.4835,Low-Risk,Long-Hold
+Asset Assassins,KDP,Long,2025-05-14,2025-07-24,77,1000,33.0,33.57,570.0,1.73,Positive,3.3,Low-Risk,Long-Hold
+Asset Assassins,MSFT,Long,2025-05-14,2025-07-24,77,100,448.27,510.88,6261.0,13.97,Positive,4.4827,Low-Risk,Long-Hold
+Asset Assassins,KHC,Long,2025-05-14,2025-07-24,77,85,27.52,28.78,107.1,4.58,Positive,0.2339,Low-Risk,Long-Hold
+Asset Assassins,CVNA,Long,2025-05-14,2025-07-24,77,5,297.26,326.09,144.15,9.7,Positive,0.1486,Low-Risk,Long-Hold
+Asset Assassins,FIVE,Long,2025-05-14,2025-07-24,77,150,102.19,137.04,5227.5,34.1,Positive,1.5329,Low-Risk,Long-Hold
+Asset Assassins,FIVE,Long,2025-05-28,2025-07-24,63,150,117.11,137.04,2989.5,17.02,Positive,1.7566,Low-Risk,Long-Hold
+Asset Assassins,FIVE,Long,2025-06-02,2025-07-24,58,120,116.78,137.04,2431.2,17.35,Positive,1.4014,Low-Risk,Long-Hold
+Asset Assassins,MS,Long,2025-05-14,2025-07-24,77,500,129.7,142.5,6400.0,9.87,Positive,6.485,Low-Risk,Long-Hold
+Asset Assassins,MS,Long,2025-06-26,2025-07-24,34,1205,137.96,142.5,5470.7,3.29,Positive,16.6242,High-Risk,Long-Hold
+Asset Assassins,VZ,Long,2025-05-22,2025-07-24,69,100,43.69,43.08,-61.0,-1.4,Negative,0.4369,Low-Risk,Long-Hold
+Asset Assassins,TSLA,Long,2025-06-02,2025-07-24,58,100,343.64,305.3,-3834.0,-11.16,Negative,3.4364,Low-Risk,Long-Hold
+Asset Assassins,GLW,Long,2025-06-02,2025-07-24,58,300,49.14,55.72,1974.0,13.39,Positive,1.4742,Low-Risk,Long-Hold
+Asset Assassins,SMCI,Long,2025-06-16,2025-07-24,44,200,42.28,52.52,2048.0,24.22,Positive,0.8456,Low-Risk,Long-Hold
+Asset Assassins,SMCI,Long,2025-06-26,2025-07-24,34,3500,47.06,52.52,19110.0,11.6,Positive,16.471,High-Risk,Long-Hold
+Asset Assassins,SMCI,Long,2025-07-24,2025-07-24,6,169,51.82,52.52,118.3,1.35,Positive,0.8758,Low-Risk,Long-Hold
+Asset Assassins,BAH,Long,2025-06-16,2025-07-24,44,800,102.78,115.12,9872.0,12.01,Positive,8.2224,High-Risk,Long-Hold
+Asset Assassins,LLY,Long,2025-06-16,2025-07-24,44,10,821.53,805.43,-161.0,-1.96,Negative,0.8215,Low-Risk,Long-Hold
+Asset Assassins,MCD,Long,2025-06-26,2025-07-24,34,582,285.85,294.48,5022.66,3.02,Positive,16.6365,High-Risk,Long-Hold
+Asset Assassins,AOSL,Long,2025-06-26,2025-07-24,34,4300,25.45,27.48,8729.0,7.98,Positive,10.9435,High-Risk,Long-Hold
+Asset Assassins,VEA,Long,2025-07-17,2025-07-24,13,324,56.5,58.08,511.92,2.8,Positive,1.8306,Low-Risk,Long-Hold
+Asset Assassins,QBTS,Long,2025-07-24,2025-07-24,6,3514,19.64,19.76,421.68,0.61,Positive,6.9015,Low-Risk,Long-Hold
+Christian Frost,SEI,Long,2025-05-15,2025-05-19,4,100,22.9,21.67,-123.0,-5.37,Negative,0.229,Low-Risk,Short-Hold
+Christian Frost,SOUN,Long,2025-05-15,2025-05-19,4,500,11.43,10.65,-390.0,-6.82,Negative,0.5715,Low-Risk,Short-Hold
+Christian Frost,ETOR,Long,2025-05-15,2025-05-20,5,250,65.15,63.3,-462.5,-2.84,Negative,1.6288,Low-Risk,Short-Hold
+Christian Frost,LLY,Long,2025-05-19,2025-05-20,1,50,750.35,749.14,-60.5,-0.16,Negative,3.7518,Low-Risk,Short-Hold
+Christian Frost,SHOP,Long,2025-05-15,2025-05-20,5,300,109.7433,106.2,-1063.0,-3.23,Negative,3.2923,Low-Risk,Short-Hold
+Christian Frost,CAT,Long,2025-05-19,2025-05-20,1,50,349.73,349.48,-12.5,-0.07,Negative,1.7486,Low-Risk,Short-Hold
+Christian Frost,FAF,Long,2025-05-19,2025-05-20,1,100,60.38,60.22,-16.0,-0.26,Negative,0.6038,Low-Risk,Short-Hold
+Christian Frost,UNP,Long,2025-05-19,2025-05-20,1,50,229.15,228.96,-9.5,-0.08,Negative,1.1458,Low-Risk,Short-Hold
+Christian Frost,TMUS,Long,2025-05-19,2025-05-20,1,200,243.0,239.73,-654.0,-1.35,Negative,4.86,Low-Risk,Short-Hold
+Christian Frost,CRM,Long,2025-05-19,2025-05-20,1,50,288.1,287.13,-48.5,-0.34,Negative,1.4405,Low-Risk,Short-Hold
+Christian Frost,BX,Long,2025-05-19,2025-05-20,1,50,143.32,144.44,56.0,0.78,Positive,0.7166,Low-Risk,Short-Hold
+Christian Frost,GIS,Long,2025-05-19,2025-05-20,1,50,55.03,54.94,-4.5,-0.16,Negative,0.2752,Low-Risk,Short-Hold
+Christian Frost,SMCI,Long,2025-05-15,2025-05-20,5,450,44.1189,43.45,-301.0,-1.52,Negative,1.9853,Low-Risk,Short-Hold
+Christian Frost,PLTR,Long,2025-05-15,2025-05-20,5,200,128.43,126.54,-378.0,-1.47,Negative,2.5686,Low-Risk,Short-Hold
+Christian Frost,MAR,Long,2025-05-19,2025-05-20,1,50,269.61,268.2,-70.5,-0.52,Negative,1.348,Low-Risk,Short-Hold
+Christian Frost,SPY,Long,2025-05-19,2025-05-21,2,150,588.12,588.45,49.5,0.06,Positive,8.8218,High-Risk,Short-Hold
+Christian Frost,DIA,Long,2025-05-19,2025-05-21,2,50,423.7,420.58,-156.0,-0.74,Negative,2.1185,Low-Risk,Short-Hold
+Christian Frost,HD,Long,2025-05-19,2025-05-21,2,50,374.64,369.69,-247.5,-1.32,Negative,1.8732,Low-Risk,Short-Hold
+Christian Frost,TSLA,Long,2025-05-15,2025-05-21,6,200,340.35,336.96,-678.0,-1.0,Negative,6.807,Low-Risk,Long-Hold
+Christian Frost,BHP,Long,2025-05-19,2025-05-21,2,50,49.55,49.5,-2.5,-0.1,Negative,0.2477,Low-Risk,Short-Hold
+Christian Frost,EXR,Long,2025-05-19,2025-05-21,2,50,149.92,146.01,-195.5,-2.61,Negative,0.7496,Low-Risk,Short-Hold
+Christian Frost,MA,Long,2025-05-19,2025-05-21,2,100,581.14,568.35,-1279.0,-2.2,Negative,5.8114,Low-Risk,Short-Hold
+Christian Frost,PLTR,Long,2025-05-19,2025-05-21,2,250,125.462,122.4,-765.5,-2.44,Negative,3.1365,Low-Risk,Short-Hold
+Christian Frost,HIMS,Long,2025-05-19,2025-05-22,3,250,62.7,55.67,-1757.5,-11.21,Negative,1.5675,Low-Risk,Short-Hold
+Christian Frost,TXN,Long,2025-05-19,2025-05-22,3,250,185.01,181.97,-760.0,-1.64,Negative,4.6253,Low-Risk,Short-Hold
+Christian Frost,AAPL,Short,2025-05-22,2025-05-27,5,50,200.66,198.65,100.5,1.0,Positive,1.0033,Low-Risk,Short-Hold
+Christian Frost,YUM,Long,2025-05-19,2025-05-27,8,100,147.8,143.2,-460.0,-3.11,Negative,1.478,Low-Risk,Long-Hold
+Christian Frost,NVS,Long,2025-05-20,2025-05-28,8,800,112.0481,112.01,-30.5,-0.03,Negative,8.9638,High-Risk,Long-Hold
+Christian Frost,VZ,Long,2025-05-16,2025-05-28,12,750,44.0,43.11,-667.5,-2.02,Negative,3.3,Low-Risk,Long-Hold
+Christian Frost,RIO,Long,2025-05-19,2025-05-28,9,50,61.32,59.82,-75.0,-2.45,Negative,0.3066,Low-Risk,Long-Hold
+Christian Frost,XENE,Long,2025-05-15,2025-05-28,13,250,29.93,29.04,-222.5,-2.97,Negative,0.7482,Low-Risk,Long-Hold
+Christian Frost,SHEL,Long,2025-05-27,2025-05-28,1,150,66.46,66.18,-42.0,-0.42,Negative,0.9969,Low-Risk,Short-Hold
+Christian Frost,ZION,Long,2025-05-19,2025-05-28,9,300,48.6633,47.39,-382.0,-2.62,Negative,1.4599,Low-Risk,Long-Hold
+Christian Frost,COST,Long,2025-05-19,2025-05-28,9,52,1017.5973,1015.78,-94.5,-0.18,Negative,5.2915,Low-Risk,Long-Hold
+Christian Frost,QBTS,Long,2025-05-20,2025-05-29,9,2000,17.94,16.83,-2220.0,-6.19,Negative,3.588,Low-Risk,Long-Hold
+Christian Frost,UBER,Long,2025-05-20,2025-05-29,9,300,92.555,84.22,-2500.5,-9.01,Negative,2.7767,Low-Risk,Long-Hold
+Christian Frost,QUBT,Long,2025-05-16,2025-05-30,14,1000,12.83,11.42,-1410.0,-10.99,Negative,1.283,Low-Risk,Long-Hold
+Christian Frost,JOBY,Long,2025-05-28,2025-06-03,6,5000,8.85,8.48,-1850.0,-4.18,Negative,4.425,Low-Risk,Long-Hold
+Christian Frost,PONY,Long,2025-05-30,2025-06-03,4,2000,18.61,16.15,-4920.0,-13.22,Negative,3.722,Low-Risk,Short-Hold
+Christian Frost,PONY,Short,2025-06-03,2025-06-06,3,774,16.4,13.85,1973.7,15.55,Positive,1.2694,Low-Risk,Short-Hold
+Christian Frost,VOD,Long,2025-05-27,2025-06-06,10,1005,10.4352,9.94,-497.65,-4.75,Negative,1.0487,Low-Risk,Long-Hold
+Christian Frost,MCD,Long,2025-05-19,2025-06-06,18,50,318.29,308.08,-510.5,-3.21,Negative,1.5915,Low-Risk,Long-Hold
+Christian Frost,CHTR,Long,2025-05-15,2025-06-06,22,5,413.57,395.99,-87.9,-4.25,Negative,0.2068,Low-Risk,Long-Hold
+Christian Frost,RGC,Long,2025-05-19,2025-06-16,28,300,389.9967,48.5,-102449.0,-87.56,Negative,11.6999,High-Risk,Long-Hold
+Christian Frost,HCA,Long,2025-05-19,2025-06-16,28,200,385.25,361.56,-4738.0,-6.15,Negative,7.705,Low-Risk,Long-Hold
+Christian Frost,PG,Long,2025-05-19,2025-06-16,28,50,163.5,160.73,-138.5,-1.69,Negative,0.8175,Low-Risk,Long-Hold
+Christian Frost,ADBE,Long,2025-05-19,2025-06-16,28,100,413.7,393.26,-2044.0,-4.94,Negative,4.137,Low-Risk,Long-Hold
+Christian Frost,BRK.B,Long,2025-05-19,2025-06-17,29,50,513.79,485.77,-1401.0,-5.45,Negative,2.569,Low-Risk,Long-Hold
+Christian Frost,TSLA,Long,2025-05-20,2025-06-17,28,200,351.7,318.6,-6620.0,-9.41,Negative,7.034,Low-Risk,Long-Hold
+Christian Frost,DAL,Long,2025-05-15,2025-06-17,33,250,50.58,47.79,-697.5,-5.52,Negative,1.2645,Low-Risk,Long-Hold
+Christian Frost,PODD,Long,2025-05-20,2025-06-17,28,100,327.8,304.79,-2301.0,-7.02,Negative,3.278,Low-Risk,Long-Hold
+Christian Frost,CEG,Long,2025-06-03,2025-06-17,14,40,342.0,306.07,-1437.2,-10.51,Negative,1.368,Low-Risk,Long-Hold
+Christian Frost,JOBY,Long,2025-05-28,2025-06-23,26,3894,8.85,8.39,-1791.24,-5.2,Negative,3.4462,Low-Risk,Long-Hold
+Christian Frost,RGTI,Long,2025-05-19,2025-06-23,35,1000,11.5,10.75,-750.0,-6.52,Negative,1.15,Low-Risk,Long-Hold
+Christian Frost,AAPL,Short,2025-05-29,2025-06-23,25,100,199.3,201.24,-194.0,-0.97,Negative,1.993,Low-Risk,Long-Hold
+Christian Frost,ABNB,Long,2025-05-19,2025-06-23,35,100,135.5,129.99,-551.0,-4.07,Negative,1.355,Low-Risk,Long-Hold
+Christian Frost,ABBV,Long,2025-05-19,2025-06-23,35,50,184.02,183.04,-49.0,-0.53,Negative,0.9201,Low-Risk,Long-Hold
+Christian Frost,SPY,Long,2025-05-29,2025-06-25,27,200,588.885,606.61,3545.0,3.01,Positive,11.7777,High-Risk,Long-Hold
+Christian Frost,ORCL,Long,2025-05-15,2025-06-25,41,220,161.3973,210.42,10785.0,30.37,Positive,3.5507,Low-Risk,Long-Hold
+Christian Frost,BA,Long,2025-05-19,2025-06-25,37,200,203.0,198.85,-830.0,-2.04,Negative,4.06,Low-Risk,Long-Hold
+Christian Frost,INDA,Long,2025-05-19,2025-06-25,37,200,54.53,54.98,90.0,0.83,Positive,1.0906,Low-Risk,Long-Hold
+Christian Frost,HON,Long,2025-05-19,2025-06-25,37,49,221.61,221.69,3.92,0.04,Positive,1.0859,Low-Risk,Long-Hold
+Christian Frost,RGC,Short,2025-06-23,2025-06-27,4,7324,27.45,17.69,71482.24,35.56,Positive,20.1044,High-Risk,Short-Hold
+Christian Frost,BGL,Long,2025-06-27,2025-06-30,3,400,95.0,38.0,-22800.0,-60.0,Negative,3.8,Low-Risk,Short-Hold
+Christian Frost,GD,Long,2025-05-19,2025-07-02,44,50,280.64,290.54,495.0,3.53,Positive,1.4032,Low-Risk,Long-Hold
+Christian Frost,MFC,Long,2025-05-19,2025-07-02,44,500,31.862,31.59,-136.0,-0.85,Negative,1.5931,Low-Risk,Long-Hold
+Christian Frost,IBM,Long,2025-06-23,2025-07-02,9,225,283.2456,287.03,851.5,1.34,Positive,6.373,Low-Risk,Long-Hold
+Christian Frost,NFLX,Long,2025-05-19,2025-07-02,44,200,1181.983,1274.11,18425.4,7.79,Positive,23.6397,High-Risk,Long-Hold
+Christian Frost,BGL,Short,2025-07-02,2025-07-07,5,1000,99.85,54.65,45200.0,45.27,Positive,9.985,High-Risk,Short-Hold
+Christian Frost,SYTA,Long,2025-07-01,2025-07-07,6,20061,3.26,3.72,9228.06,14.11,Positive,6.5399,Low-Risk,Long-Hold
+Christian Frost,HOOD,Long,2025-05-21,2025-07-07,47,3000,68.235,94.2,77895.0,38.05,Positive,20.4705,High-Risk,Long-Hold
+Christian Frost,BGL,Long,2025-07-07,2025-07-07,0,2500,42.0,48.0,15000.0,14.29,Positive,10.5,High-Risk,Short-Hold
+Christian Frost,BGL,Short,2025-07-07,2025-07-08,1,3000,56.52,50.01,19530.0,11.52,Positive,16.956,High-Risk,Short-Hold
+Christian Frost,RCKT,Long,2025-07-02,2025-07-08,6,60000,2.8217,2.95,7700.0,4.55,Positive,16.93,High-Risk,Long-Hold
+Christian Frost,TSLA,Short,2025-07-08,2025-07-09,1,340,298.21,296.93,435.2,0.43,Positive,10.1391,High-Risk,Short-Hold
+Christian Frost,MU,Long,2025-06-06,2025-07-16,40,300,108.325,115.73,2221.5,6.84,Positive,3.2497,Low-Risk,Long-Hold
+Christian Frost,XLE,Long,2025-06-17,2025-07-16,29,680,88.81,86.59,-1509.6,-2.5,Negative,6.0391,Low-Risk,Long-Hold
+Christian Frost,V,Long,2025-05-19,2025-07-16,58,50,363.02,349.39,-681.5,-3.75,Negative,1.8151,Low-Risk,Long-Hold
+Christian Frost,SEI,Long,2025-07-14,2025-07-16,2,1750,28.85,28.9,87.5,0.17,Positive,5.0488,Low-Risk,Short-Hold
+Christian Frost,COST,Long,2025-05-21,2025-07-16,56,40,1030.94,955.42,-3020.8,-7.33,Negative,4.1238,Low-Risk,Long-Hold
+Christian Frost,DXYZ,Long,2025-06-27,2025-07-17,20,2625,39.1,34.25,-12731.25,-12.4,Negative,10.2637,High-Risk,Long-Hold
+Christian Frost,OXY,Long,2025-06-17,2025-07-21,34,6506,45.915,43.39,-16427.65,-5.5,Negative,29.8723,High-Risk,Long-Hold
+Christian Frost,BGL,Long,2025-07-14,2025-07-21,7,9000,23.27,15.26,-72090.0,-34.42,Negative,20.943,High-Risk,Long-Hold
+Christian Frost,AMD,Long,2025-06-25,2025-07-21,26,750,138.69,157.92,14422.5,13.87,Positive,10.4017,High-Risk,Long-Hold
+Christian Frost,AVGO,Long,2025-05-27,2025-07-21,55,600,238.735,288.58,29907.0,20.88,Positive,14.3241,High-Risk,Long-Hold
+Christian Frost,MP,Long,2025-07-14,2025-07-21,7,1650,47.1264,60.18,21538.5,27.7,Positive,7.7758,Low-Risk,Long-Hold
+Christian Frost,CLSK,Long,2025-07-16,2025-07-21,5,825,12.63,12.59,-33.0,-0.32,Negative,1.042,Low-Risk,Short-Hold
+Christian Frost,TNGX,Long,2025-07-09,2025-07-21,12,20000,6.05,6.65,12000.0,9.92,Positive,12.1,High-Risk,Long-Hold
+Christian Frost,NVDA,Long,2025-06-27,2025-07-21,24,1885,151.9579,172.16,38080.95,13.29,Positive,28.6441,High-Risk,Long-Hold
+Christian Frost,PARA,Long,2025-07-14,2025-07-21,7,3050,12.941,12.98,119.0,0.3,Positive,3.947,Low-Risk,Long-Hold
+Christian Frost,PTIR,Long,2025-07-14,2025-07-21,7,1800,22.94,23.75,1458.0,3.53,Positive,4.1292,Low-Risk,Long-Hold
+Christian Frost,BITX,Long,2025-07-14,2025-07-21,7,2200,66.47,62.86,-7942.0,-5.43,Negative,14.6234,High-Risk,Long-Hold
+Christian Frost,TXN,Long,2025-05-19,2025-07-21,63,250,185.01,215.16,7537.5,16.3,Positive,4.6253,Low-Risk,Long-Hold
+Christian Frost,COIN,Long,2025-06-25,2025-07-21,26,185,351.8649,418.88,12397.8,19.05,Positive,6.5095,Low-Risk,Long-Hold
+Christian Frost,BLK,Long,2025-05-19,2025-07-21,63,20,979.49,1096.57,2341.6,11.95,Positive,1.959,Low-Risk,Long-Hold
+Christian Frost,SXTC,Long,2025-07-14,2025-07-21,7,22000,1.7,1.62,-1760.0,-4.71,Negative,3.74,Low-Risk,Long-Hold
+Christian Frost,OPEN,Short,2025-07-21,2025-07-21,0,145985,2.83,3.28,-65693.25,-15.9,Negative,41.3138,High-Risk,Short-Hold
+Christian Frost,BGL,Short,2025-07-21,2025-07-21,0,28683,15.03,14.76,7744.41,1.8,Positive,43.1105,High-Risk,Short-Hold
+Christian Frost,KURE,Long,2025-05-29,2025-07-21,53,4000,16.7625,18.72,7830.0,11.68,Positive,6.705,Low-Risk,Long-Hold
+Christian Frost,ICG,Long,2025-07-14,2025-07-23,9,73703,3.05,2.85,-14740.6,-6.56,Negative,22.4794,High-Risk,Long-Hold
+Christian Frost,ABVX,Short,2025-07-23,2025-07-23,0,2400,65.67,68.46,-6696.0,-4.25,Negative,15.7608,High-Risk,Short-Hold
+Christian Frost,ANEB,Short,2025-07-23,2025-07-23,0,62135,3.24,3.36,-7456.2,-3.7,Negative,20.1317,High-Risk,Short-Hold
+Christian Frost,RNAZ,Short,2025-07-23,2025-07-23,0,9804,15.28,11.38,38235.6,25.52,Positive,14.9805,High-Risk,Short-Hold
+Christian Frost,OPEN,Short,2025-07-23,2025-07-23,0,64485,2.33,2.29,2579.4,1.72,Positive,15.025,High-Risk,Short-Hold
+Christian Frost,NVDA,Long,2025-07-23,2025-07-24,7,1200,170.22,173.74,4224.0,2.07,Positive,20.4264,High-Risk,Long-Hold
+Christian Frost,NVDA,Long,2025-07-23,2025-07-24,7,300,170.46,173.74,984.0,1.92,Positive,5.1138,Low-Risk,Long-Hold
+Christian Frost,AMD,Long,2025-07-23,2025-07-24,7,945,158.45,162.12,3468.15,2.32,Positive,14.9735,High-Risk,Long-Hold
+Christian Frost,COST,Long,2025-05-21,2025-07-24,70,10,1030.94,933.8,-971.4,-9.42,Negative,1.0309,Low-Risk,Long-Hold
+Christian Frost,META,Long,2025-05-14,2025-07-24,77,10,658.91,714.8,558.9,8.48,Positive,0.6589,Low-Risk,Long-Hold
+Christian Frost,META,Long,2025-05-19,2025-07-24,72,100,628.25,714.8,8655.0,13.78,Positive,6.2825,Low-Risk,Long-Hold
+Christian Frost,META,Long,2025-05-27,2025-07-24,64,6,641.48,714.8,439.92,11.43,Positive,0.3849,Low-Risk,Long-Hold
+Christian Frost,META,Long,2025-06-23,2025-07-24,37,194,695.65,714.8,3715.1,2.75,Positive,13.4956,High-Risk,Long-Hold
+Christian Frost,META,Long,2025-07-23,2025-07-24,7,200,712.76,714.8,408.0,0.29,Positive,14.2552,High-Risk,Long-Hold
+Christian Frost,WMT,Long,2025-05-15,2025-07-24,76,250,94.28,96.6,580.0,2.46,Positive,2.357,Low-Risk,Long-Hold
+Christian Frost,BTC,Long,2025-05-16,2025-07-24,75,500,46.12,52.77,3325.0,14.42,Positive,2.306,Low-Risk,Long-Hold
+Christian Frost,BTC,Long,2025-07-16,2025-07-24,14,500,52.79,52.77,-10.0,-0.04,Negative,2.6395,Low-Risk,Long-Hold
+Christian Frost,BTC,Long,2025-07-23,2025-07-24,7,1000,52.46,52.77,310.0,0.59,Positive,5.246,Low-Risk,Long-Hold
+Christian Frost,MSFT,Long,2025-05-19,2025-07-24,72,50,450.88,510.88,3000.0,13.31,Positive,2.2544,Low-Risk,Long-Hold
+Christian Frost,MSFT,Long,2025-05-20,2025-07-24,71,125,457.3,510.88,6697.5,11.72,Positive,5.7162,Low-Risk,Long-Hold
+Christian Frost,RTX,Long,2025-05-19,2025-07-24,72,50,135.65,155.22,978.5,14.43,Positive,0.6783,Low-Risk,Long-Hold
+Christian Frost,RTX,Long,2025-07-16,2025-07-24,14,50,149.76,155.22,273.0,3.65,Positive,0.7488,Low-Risk,Long-Hold
+Christian Frost,RTX,Long,2025-07-23,2025-07-24,7,100,154.65,155.22,57.0,0.37,Positive,1.5465,Low-Risk,Long-Hold
+Christian Frost,DASH,Long,2025-05-19,2025-07-24,72,50,198.94,243.69,2237.5,22.49,Positive,0.9947,Low-Risk,Long-Hold
+Christian Frost,DASH,Long,2025-06-23,2025-07-24,37,50,229.47,243.69,711.0,6.2,Positive,1.1473,Low-Risk,Long-Hold
+Christian Frost,SPOT,Long,2025-05-19,2025-07-24,72,50,648.64,681.42,1639.0,5.05,Positive,3.2432,Low-Risk,Long-Hold
+Christian Frost,DELL,Long,2025-05-19,2025-07-24,72,150,111.83,128.35,2478.0,14.77,Positive,1.6775,Low-Risk,Long-Hold
+Christian Frost,DELL,Long,2025-05-27,2025-07-24,64,50,114.26,128.35,704.5,12.33,Positive,0.5713,Low-Risk,Long-Hold
+Christian Frost,INTU,Long,2025-05-19,2025-07-24,72,100,666.46,781.21,11475.0,17.22,Positive,6.6646,Low-Risk,Long-Hold
+Christian Frost,INTU,Long,2025-05-29,2025-07-24,62,100,754.04,781.21,2717.0,3.6,Positive,7.5404,Low-Risk,Long-Hold
+Christian Frost,INTU,Long,2025-07-14,2025-07-24,16,200,754.02,781.21,5438.0,3.61,Positive,15.0804,High-Risk,Long-Hold
+Christian Frost,INTU,Long,2025-07-23,2025-07-24,7,75,774.86,781.21,476.25,0.82,Positive,5.8114,Low-Risk,Long-Hold
+Christian Frost,INTU,Long,2025-07-23,2025-07-24,7,130,776.9,781.21,560.3,0.55,Positive,10.0997,High-Risk,Long-Hold
+Christian Frost,WBD,Long,2025-05-19,2025-07-24,72,200,9.03,13.5,894.0,49.5,Positive,0.1806,Low-Risk,Long-Hold
+Christian Frost,WBD,Long,2025-05-27,2025-07-24,64,200,9.63,13.5,774.0,40.19,Positive,0.1926,Low-Risk,Long-Hold
+Christian Frost,WBD,Long,2025-06-06,2025-07-24,54,2000,9.85,13.5,7300.0,37.06,Positive,1.97,Low-Risk,Long-Hold
+Christian Frost,WBD,Long,2025-07-14,2025-07-24,16,2400,12.04,13.5,3504.0,12.13,Positive,2.8896,Low-Risk,Long-Hold
+Christian Frost,WBD,Long,2025-07-23,2025-07-24,7,4800,13.23,13.5,1296.0,2.04,Positive,6.3504,Low-Risk,Long-Hold
+Christian Frost,EADSF,Long,2025-05-19,2025-07-24,72,50,180.5,217.0,1825.0,20.22,Positive,0.9025,Low-Risk,Long-Hold
+Christian Frost,EADSF,Long,2025-07-16,2025-07-24,14,50,213.0,217.0,200.0,1.88,Positive,1.065,Low-Risk,Long-Hold
+Christian Frost,EADSF,Long,2025-07-23,2025-07-24,7,100,216.7,217.0,30.0,0.14,Positive,2.167,Low-Risk,Long-Hold
+Christian Frost,QBTS,Long,2025-07-23,2025-07-24,7,3000,19.54,19.76,660.0,1.13,Positive,5.862,Low-Risk,Long-Hold
+Christian Frost,QBTS,Long,2025-07-23,2025-07-24,7,3000,20.19,19.76,-1290.0,-2.13,Negative,6.057,Low-Risk,Long-Hold
+Christian Frost,JPST,Long,2025-05-22,2025-07-24,69,1550,50.53,50.62,139.5,0.18,Positive,7.8322,Low-Risk,Long-Hold
+Christian Frost,JPST,Long,2025-05-22,2025-07-24,69,277,50.54,50.62,22.16,0.16,Positive,1.4,Low-Risk,Long-Hold
+Christian Frost,JPST,Long,2025-06-16,2025-07-24,44,2000,50.54,50.62,160.0,0.16,Positive,10.108,High-Risk,Long-Hold
+Christian Frost,NET,Long,2025-05-28,2025-07-24,63,100,161.8,191.58,2978.0,18.41,Positive,1.618,Low-Risk,Long-Hold
+Christian Frost,NET,Long,2025-06-06,2025-07-24,54,150,178.65,191.58,1939.5,7.24,Positive,2.6797,Low-Risk,Long-Hold
+Christian Frost,NET,Long,2025-07-14,2025-07-24,16,400,183.88,191.58,3080.0,4.19,Positive,7.3552,Low-Risk,Long-Hold
+Christian Frost,CEG,Long,2025-07-23,2025-07-24,7,250,325.0,321.67,-832.5,-1.02,Negative,8.125,High-Risk,Long-Hold
+Christian Frost,OXY,Long,2025-07-23,2025-07-24,7,5000,44.44,44.63,950.0,0.43,Positive,22.22,High-Risk,Long-Hold
+Christian Frost,OXY,Long,2025-07-23,2025-07-24,7,2500,44.47,44.63,400.0,0.36,Positive,11.1175,High-Risk,Long-Hold
+Christian Frost,ROKU,Long,2025-07-23,2025-07-24,7,1000,90.35,90.05,-300.0,-0.33,Negative,9.035,High-Risk,Long-Hold
+Carly Shepherd,RGTI,Long,2025-05-27,2025-05-28,1,2000,14.97,13.96,-2020.0,-6.75,Negative,2.994,Low-Risk,Short-Hold
+Carly Shepherd,RGC,Short,2025-05-27,2025-05-29,2,50,550.0,707.0,-7850.0,-28.55,Negative,2.75,Low-Risk,Short-Hold
+Carly Shepherd,BYON,Short,2025-05-27,2025-06-16,20,5000,5.82,6.32,-2500.0,-8.59,Negative,2.91,Low-Risk,Long-Hold
+Carly Shepherd,COST,Short,2025-05-29,2025-06-16,18,15,1009.0,990.25,281.25,1.86,Positive,1.5135,Low-Risk,Long-Hold
+Carly Shepherd,RGC,Long,2025-05-29,2025-06-23,25,70,707.0,30.0,-47390.0,-95.76,Negative,4.949,Low-Risk,Long-Hold
+Carly Shepherd,SPYD,Long,2025-05-22,2025-06-24,33,1000,41.99,42.45,460.0,1.1,Positive,4.199,Low-Risk,Long-Hold
+Carly Shepherd,NXTT,Short,2025-05-27,2025-06-24,28,2500,2.17,2.18,-25.0,-0.46,Negative,0.5425,Low-Risk,Long-Hold
+Carly Shepherd,BRK.B,Long,2025-05-28,2025-06-24,27,20,505.06,491.54,-270.4,-2.68,Negative,1.0101,Low-Risk,Long-Hold
+Carly Shepherd,USOI,Long,2025-05-27,2025-06-24,28,250,54.13,53.0,-282.5,-2.09,Negative,1.3532,Low-Risk,Long-Hold
+Carly Shepherd,NPSCY,Long,2025-05-27,2025-06-24,28,500,7.0,6.32,-340.0,-9.71,Negative,0.35,Low-Risk,Long-Hold
+Carly Shepherd,ACDVF,Long,2025-05-27,2025-06-24,28,250,13.66,14.3,160.0,4.69,Positive,0.3415,Low-Risk,Long-Hold
+Carly Shepherd,RGTX,Long,2025-05-27,2025-06-24,28,250,47.54,30.66,-4220.0,-35.51,Negative,1.1885,Low-Risk,Long-Hold
+Carly Shepherd,NSRGF,Long,2025-05-27,2025-06-24,28,100,109.03,102.25,-678.0,-6.22,Negative,1.0903,Low-Risk,Long-Hold
+Carly Shepherd,QBTS,Short,2025-05-27,2025-07-02,36,1000,17.15,15.25,1900.0,11.08,Positive,1.715,Low-Risk,Long-Hold
+Carly Shepherd,OKLO,Long,2025-06-24,2025-07-02,8,650,56.4969,51.98,-2936.0,-7.99,Negative,3.6723,Low-Risk,Long-Hold
+Carly Shepherd,AAPL,Short,2025-05-27,2025-07-03,37,200,198.3,212.15,-2770.0,-6.98,Negative,3.966,Low-Risk,Long-Hold
+Carly Shepherd,COST,Long,2025-05-22,2025-07-03,42,75,1027.73,982.4,-3399.75,-4.41,Negative,7.708,Low-Risk,Long-Hold
+Carly Shepherd,STX,Long,2025-06-02,2025-07-08,36,500,117.01,143.84,13415.0,22.93,Positive,5.8505,Low-Risk,Long-Hold
+Carly Shepherd,QBTS,Long,2025-05-27,2025-07-10,44,2050,19.28,16.38,-5945.0,-15.04,Negative,3.9524,Low-Risk,Long-Hold
+Carly Shepherd,IONQ,Long,2025-05-27,2025-07-11,45,200,46.62,42.46,-832.0,-8.92,Negative,0.9324,Low-Risk,Long-Hold
+Carly Shepherd,DAPP,Long,2025-06-24,2025-07-15,21,3000,15.56,17.85,6870.0,14.72,Positive,4.668,Low-Risk,Long-Hold
+Carly Shepherd,BITX,Long,2025-07-16,2025-07-18,2,500,65.13,63.75,-690.0,-2.12,Negative,3.2565,Low-Risk,Short-Hold
+Carly Shepherd,USAU,Long,2025-05-27,2025-07-18,52,3000,11.49,11.22,-810.0,-2.35,Negative,3.447,Low-Risk,Long-Hold
+Carly Shepherd,OPEN,Short,2025-07-21,2025-07-21,0,20646,3.11,3.98,-17962.02,-27.97,Negative,6.4209,Low-Risk,Short-Hold
+Carly Shepherd,OPEN,Long,2025-07-21,2025-07-22,1,20044,3.759,3.89,2625.72,3.48,Positive,7.5345,Low-Risk,Short-Hold
+Carly Shepherd,CODA,Long,2025-06-24,2025-07-23,29,5000,7.98,8.0,100.0,0.25,Positive,3.99,Low-Risk,Long-Hold
+Carly Shepherd,DDOG,Long,2025-07-03,2025-07-24,21,500,147.56,147.78,110.0,0.15,Positive,7.378,Low-Risk,Long-Hold
+Carly Shepherd,COST,Long,2025-05-22,2025-07-24,69,75,1027.73,933.8,-7044.75,-9.14,Negative,7.708,Low-Risk,Long-Hold
+Carly Shepherd,DIS,Long,2025-05-22,2025-07-24,69,100,109.98,121.95,1197.0,10.88,Positive,1.0998,Low-Risk,Long-Hold
+Carly Shepherd,V,Long,2025-05-22,2025-07-24,69,50,357.6,353.97,-181.5,-1.02,Negative,1.788,Low-Risk,Long-Hold
+Carly Shepherd,WMT,Long,2025-05-22,2025-07-24,69,1000,96.51,96.6,90.0,0.09,Positive,9.651,High-Risk,Long-Hold
+Carly Shepherd,VEA,Long,2025-05-22,2025-07-24,69,500,54.66,58.08,1710.0,6.26,Positive,2.733,Low-Risk,Long-Hold
+Carly Shepherd,ZION,Long,2025-05-22,2025-07-24,69,500,46.43,55.18,4375.0,18.85,Positive,2.3215,Low-Risk,Long-Hold
+Carly Shepherd,F,Long,2025-05-22,2025-07-24,69,1500,10.48,11.26,1170.0,7.44,Positive,1.572,Low-Risk,Long-Hold
+Carly Shepherd,CRSR,Long,2025-05-22,2025-07-24,69,5000,8.22,9.32,5500.0,13.38,Positive,4.11,Low-Risk,Long-Hold
+Carly Shepherd,NVDA,Long,2025-05-22,2025-07-24,69,150,132.18,173.74,6234.0,31.44,Positive,1.9827,Low-Risk,Long-Hold
+Carly Shepherd,NVDA,Long,2025-05-27,2025-07-24,64,300,134.15,173.74,11877.0,29.51,Positive,4.0245,Low-Risk,Long-Hold
+Carly Shepherd,VTI,Long,2025-05-22,2025-07-24,69,150,286.36,312.25,3883.5,9.04,Positive,4.2954,Low-Risk,Long-Hold
+Carly Shepherd,IJT,Long,2025-05-22,2025-07-24,69,500,127.22,135.07,3925.0,6.17,Positive,6.361,Low-Risk,Long-Hold
+Carly Shepherd,SHEL,Long,2025-05-27,2025-07-24,64,400,66.71,72.38,2268.0,8.5,Positive,2.6684,Low-Risk,Long-Hold
+Carly Shepherd,HOOD,Long,2025-05-27,2025-07-24,64,200,65.0,101.93,7386.0,56.82,Positive,1.3,Low-Risk,Long-Hold
+Carly Shepherd,ELF,Long,2025-05-27,2025-07-24,64,50,85.74,119.22,1674.0,39.05,Positive,0.4287,Low-Risk,Long-Hold
+Carly Shepherd,ELF,Long,2025-05-28,2025-07-24,63,100,91.45,119.22,2777.0,30.37,Positive,0.9145,Low-Risk,Long-Hold
+Carly Shepherd,ELF,Long,2025-05-29,2025-07-24,62,200,114.14,119.22,1016.0,4.45,Positive,2.2828,Low-Risk,Long-Hold
+Carly Shepherd,ACDVF,Long,2025-07-10,2025-07-24,20,1750,16.58,16.05,-927.5,-3.2,Negative,2.9015,Low-Risk,Long-Hold
+Carly Shepherd,LUV,Long,2025-05-28,2025-07-24,63,300,32.75,33.26,153.0,1.56,Positive,0.9825,Low-Risk,Long-Hold
+Carly Shepherd,MSFT,Long,2025-05-28,2025-07-24,63,50,459.34,510.88,2577.0,11.22,Positive,2.2967,Low-Risk,Long-Hold
+Carly Shepherd,AVGO,Long,2025-05-28,2025-07-24,63,75,235.71,288.71,3975.0,22.49,Positive,1.7678,Low-Risk,Long-Hold
+Carly Shepherd,AVGO,Long,2025-06-24,2025-07-24,36,200,262.25,288.71,5292.0,10.09,Positive,5.245,Low-Risk,Long-Hold
+Carly Shepherd,AVGO,Long,2025-07-16,2025-07-24,14,75,277.14,288.71,867.75,4.17,Positive,2.0785,Low-Risk,Long-Hold
+Carly Shepherd,AI,Long,2025-05-28,2025-07-24,63,800,23.38,26.0,2096.0,11.21,Positive,1.8704,Low-Risk,Long-Hold
+Carly Shepherd,RKLB,Long,2025-05-28,2025-07-24,63,300,29.74,48.13,5517.0,61.84,Positive,0.8922,Low-Risk,Long-Hold
+Carly Shepherd,BYON,Long,2025-05-29,2025-07-24,62,3000,6.77,10.79,12060.0,59.38,Positive,2.031,Low-Risk,Long-Hold
+Carly Shepherd,LGL,Long,2025-06-24,2025-07-24,36,5000,6.91,7.75,4200.0,12.16,Positive,3.455,Low-Risk,Long-Hold
+Carly Shepherd,BRVMF,Long,2025-06-24,2025-07-24,36,12500,2.08,2.69,7625.0,29.33,Positive,2.6,Low-Risk,Long-Hold
+Carly Shepherd,MTUM,Long,2025-06-24,2025-07-24,36,160,236.46,239.6,502.4,1.33,Positive,3.7834,Low-Risk,Long-Hold
+Carly Shepherd,DAPP,Long,2025-06-24,2025-07-24,36,200,15.56,18.64,616.0,19.79,Positive,0.3112,Low-Risk,Long-Hold
+Carly Shepherd,WPM,Long,2025-06-24,2025-07-24,36,550,88.7,94.01,2920.5,5.99,Positive,4.8785,Low-Risk,Long-Hold
+Carly Shepherd,TFPM,Long,2025-06-24,2025-07-24,36,1500,24.44,23.61,-1245.0,-3.4,Negative,3.666,Low-Risk,Long-Hold
+Carly Shepherd,MMTM,Long,2025-06-24,2025-07-24,36,110,262.08,271.87,1076.9,3.74,Positive,2.8829,Low-Risk,Long-Hold
+Carly Shepherd,CWH,Long,2025-07-02,2025-07-24,28,1499,18.54,17.98,-839.44,-3.02,Negative,2.7791,Low-Risk,Long-Hold
+Carly Shepherd,UBER,Long,2025-07-02,2025-07-24,28,500,93.54,90.87,-1335.0,-2.85,Negative,4.677,Low-Risk,Long-Hold
+Carly Shepherd,BBW,Long,2025-07-02,2025-07-24,28,1000,51.87,50.85,-1020.0,-1.97,Negative,5.187,Low-Risk,Long-Hold
+Carly Shepherd,VST,Long,2025-07-10,2025-07-24,20,200,196.71,196.24,-94.0,-0.24,Negative,3.9342,Low-Risk,Long-Hold
+Carly Shepherd,BITF,Long,2025-07-11,2025-07-24,19,100000,1.08,1.23,15000.0,13.89,Positive,10.8,High-Risk,Long-Hold
+Carly Shepherd,BITF,Long,2025-07-15,2025-07-24,15,10000,1.04,1.23,1900.0,18.27,Positive,1.04,Low-Risk,Long-Hold
+Carly Shepherd,XFOR,Long,2025-07-11,2025-07-24,19,35000,1.42,1.83,14350.0,28.87,Positive,4.97,Low-Risk,Long-Hold
+Carly Shepherd,TNGX,Long,2025-07-14,2025-07-24,16,5000,6.23,6.75,2600.0,8.35,Positive,3.115,Low-Risk,Long-Hold
+Carly Shepherd,SOFX,Long,2025-07-14,2025-07-24,16,750,27.1,27.83,547.5,2.69,Positive,2.0325,Low-Risk,Long-Hold
+Carly Shepherd,SOFX,Long,2025-07-16,2025-07-24,14,750,27.15,27.83,510.0,2.5,Positive,2.0362,Low-Risk,Long-Hold
+Carly Shepherd,OKUR,Long,2025-07-14,2025-07-24,16,11500,2.57,2.37,-2300.0,-7.78,Negative,2.9555,Low-Risk,Long-Hold
+Carly Shepherd,SSY,Long,2025-07-18,2025-07-24,12,25000,1.17,1.23,1500.0,5.13,Positive,2.925,Low-Risk,Long-Hold
+Carly Shepherd,SSII,Long,2025-07-18,2025-07-24,12,3500,8.12,7.2,-3220.0,-11.33,Negative,2.842,Low-Risk,Long-Hold
+Carly Shepherd,COIN,Long,2025-07-18,2025-07-24,12,60,417.0,396.7,-1218.0,-4.87,Negative,2.502,Low-Risk,Long-Hold
+Carly Shepherd,AMD,Long,2025-07-18,2025-07-24,12,100,157.24,162.12,488.0,3.1,Positive,1.5724,Low-Risk,Long-Hold
+Carly Shepherd,CONL,Long,2025-07-18,2025-07-24,12,300,63.88,57.72,-1848.0,-9.64,Negative,1.9164,Low-Risk,Long-Hold
+Carly Shepherd,OPEN,Long,2025-07-21,2025-07-24,9,9839,3.8,2.42,-13577.82,-36.32,Negative,3.7388,Low-Risk,Long-Hold
+Carly Shepherd,OPEN,Long,2025-07-21,2025-07-24,9,20044,2.92,2.42,-10022.0,-17.12,Negative,5.8528,Low-Risk,Long-Hold
+Carly Shepherd,OPEN,Short,2025-07-21,2025-07-24,9,27161,3.07,2.42,17654.65,21.17,Positive,8.3384,High-Risk,Long-Hold
+Tax Evasion Club JK IRS,BYON,Long,2025-05-09,2025-05-21,12,5700,4.41,6.46,11685.0,46.49,Positive,2.5137,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,BYND,Long,2025-05-09,2025-05-21,12,10325,2.35,2.91,5782.0,23.83,Positive,2.4264,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,WMT,Long,2025-05-09,2025-05-21,12,205,96.86,97.13,55.35,0.28,Positive,1.9856,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,COST,Long,2025-05-09,2025-05-21,12,10,1004.61,1030.94,263.3,2.62,Positive,1.0046,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,DECK,Long,2025-05-09,2025-05-28,19,188,125.43,108.01,-3274.96,-13.89,Negative,2.3581,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,GPCR,Long,2025-05-09,2025-05-28,19,919,26.65,23.89,-2536.44,-10.36,Negative,2.4491,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,CRWD,Long,2025-05-09,2025-06-04,26,58,418.95,454.75,2076.4,8.55,Positive,2.4299,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,AMC,Long,2025-05-09,2025-06-04,26,9690,2.74,3.31,5523.3,20.8,Positive,2.6551,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,RBLX,Long,2025-05-09,2025-06-04,26,348,70.44,89.61,6671.16,27.21,Positive,2.4513,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,DASH,Long,2025-05-09,2025-06-11,33,130,183.19,213.83,3983.2,16.73,Positive,2.3815,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,LCUT,Long,2025-05-21,2025-06-11,21,7500,3.16,4.26,8250.0,34.81,Positive,2.37,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,SHOP,Long,2025-05-09,2025-06-11,33,270,94.47,111.63,4633.2,18.16,Positive,2.5507,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,SEZL,Long,2025-05-21,2025-06-20,30,200,98.0,146.57,9714.0,49.56,Positive,1.96,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,LULU,Long,2025-06-04,2025-06-25,21,90,333.53,234.52,-8910.9,-29.69,Negative,3.0018,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,GOOG,Long,2025-05-09,2025-06-25,47,150,155.59,168.65,1959.0,8.39,Positive,2.3338,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,TGT,Long,2025-05-09,2025-06-25,47,260,97.49,97.5,2.6,0.01,Positive,2.5347,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,DAL,Long,2025-05-09,2025-07-09,61,504,48.83,51.16,1174.32,4.77,Positive,2.461,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,FUN,Long,2025-05-09,2025-07-09,61,700,34.58,31.62,-2072.0,-8.56,Negative,2.4206,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,SEZL,Long,2025-05-21,2025-07-09,49,54,98.0,168.25,3793.5,71.68,Positive,0.5292,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,DG,Long,2025-05-28,2025-07-09,42,379,106.5884,112.5,2240.51,5.55,Positive,4.0397,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,SOUN,Long,2025-05-09,2025-07-16,68,2448,9.72,11.53,4430.88,18.62,Positive,2.3795,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,MDLZ,Long,2025-05-09,2025-07-16,68,337,66.86,66.74,-40.44,-0.18,Negative,2.2532,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,BUD,Long,2025-05-09,2025-07-23,75,347,67.21,69.42,766.87,3.29,Positive,2.3322,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,COOK,Long,2025-06-11,2025-07-23,42,15666,1.9,1.98,1253.28,4.21,Positive,2.9765,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,META,Long,2025-05-09,2025-07-24,82,41,603.55,714.8,4561.25,18.43,Positive,2.4746,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,META,Long,2025-06-25,2025-07-24,35,35,713.32,714.8,51.8,0.21,Positive,2.4966,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,PLTR,Long,2025-05-09,2025-07-24,82,207,119.11,154.86,7400.25,30.01,Positive,2.4656,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,PLTR,Long,2025-05-09,2025-07-24,82,210,119.11,154.86,7507.5,30.01,Positive,2.5013,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,AMZN,Long,2025-05-09,2025-07-24,82,133,193.38,232.23,5167.05,20.09,Positive,2.572,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,CYTK,Long,2025-05-09,2025-07-24,82,800,32.35,37.31,3968.0,15.33,Positive,2.588,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,GOOG,Long,2025-07-23,2025-07-24,7,259,192.36,193.2,217.56,0.44,Positive,4.9821,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,UAL,Long,2025-05-09,2025-07-24,82,292,80.08,89.73,2817.8,12.05,Positive,2.3383,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,GME,Long,2025-05-09,2025-07-24,82,880,26.8,23.53,-2877.6,-12.2,Negative,2.3584,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NVS,Long,2025-05-09,2025-07-24,82,221,109.4,117.46,1781.26,7.37,Positive,2.4177,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,SPCE,Long,2025-05-09,2025-07-24,82,7862,3.17,4.32,9041.3,36.28,Positive,2.4923,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,MSTR,Long,2025-05-09,2025-07-24,82,61,419.71,414.92,-292.19,-1.14,Negative,2.5602,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,WMT,Long,2025-05-09,2025-07-24,82,50,96.86,96.6,-13.0,-0.27,Negative,0.4843,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,TSLA,Long,2025-05-09,2025-07-24,82,88,290.19,305.3,1329.68,5.21,Positive,2.5537,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,BP,Long,2025-05-09,2025-07-24,82,889,29.39,32.13,2435.86,9.32,Positive,2.6128,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,EBAY,Long,2025-05-09,2025-07-24,82,357,70.5,82.45,4266.15,16.95,Positive,2.5168,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NVDA,Long,2025-05-09,2025-07-24,82,227,117.35,173.74,12800.53,48.05,Positive,2.6638,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NVDA,Long,2025-06-11,2025-07-24,49,456,144.61,173.74,13283.28,20.14,Positive,6.5942,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NVDA,Long,2025-07-09,2025-07-24,21,299,161.19,173.74,3752.45,7.79,Positive,4.8196,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,PFE,Long,2025-05-09,2025-07-24,82,1101,22.5,25.35,3137.85,12.67,Positive,2.4772,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,BA,Long,2025-05-09,2025-07-24,82,127,193.6,231.27,4784.09,19.46,Positive,2.4587,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,LMT,Long,2025-05-09,2025-07-24,82,55,476.39,420.55,-3071.2,-11.72,Negative,2.6201,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,HLT,Long,2025-05-09,2025-07-24,82,94,240.76,267.57,2520.14,11.14,Positive,2.2631,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,UBER,Long,2025-05-09,2025-07-24,82,303,82.81,90.87,2442.18,9.73,Positive,2.5091,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,RTX,Long,2025-05-09,2025-07-24,82,191,128.81,155.22,5044.31,20.5,Positive,2.4603,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,MSFT,Long,2025-05-09,2025-07-24,82,58,440.28,510.88,4094.8,16.04,Positive,2.5536,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,COST,Long,2025-05-09,2025-07-24,82,15,1004.61,933.8,-1062.15,-7.05,Negative,1.5069,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,TM,Long,2025-05-09,2025-07-24,82,133,186.59,191.66,674.31,2.72,Positive,2.4816,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NTDOY,Long,2025-05-09,2025-07-24,82,1200,20.47,22.27,2160.0,8.79,Positive,2.4564,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,COLM,Long,2025-05-21,2025-07-24,70,378,65.48,60.44,-1905.12,-7.7,Negative,2.4751,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,LCUT,Long,2025-05-21,2025-07-24,70,418,3.16,4.72,652.08,49.37,Positive,0.1321,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,V,Long,2025-05-28,2025-07-24,63,62,359.51,353.97,-343.48,-1.54,Negative,2.229,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,ELF,Long,2025-05-28,2025-07-24,63,33,91.45,119.22,916.41,30.37,Positive,0.3018,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,HPE,Long,2025-06-04,2025-07-24,56,905,19.17,20.51,1212.7,6.99,Positive,1.7349,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,HPE,Long,2025-06-04,2025-07-24,56,905,19.17,20.51,1212.7,6.99,Positive,1.7349,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,COIN,Long,2025-06-20,2025-07-24,40,95,303.38,396.7,8865.4,30.76,Positive,2.8821,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NOG,Long,2025-06-25,2025-07-24,35,940,29.27,28.74,-498.2,-1.81,Negative,2.7514,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,NVAX,Long,2025-07-09,2025-07-24,21,8503,7.16,7.64,4081.44,6.7,Positive,6.0881,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,SMCI,Long,2025-07-16,2025-07-24,14,599,53.05,52.52,-317.47,-1.0,Negative,3.1777,Low-Risk,Long-Hold
+Tax Evasion Club JK IRS,JPM,Long,2025-07-16,2025-07-24,14,121,288.38,296.55,988.57,2.83,Positive,3.4894,Low-Risk,Long-Hold
 Jared Butler,GME,Short,2025-05-22,2025-05-22,0,15000,28.49,29.35,-12900.0,-3.02,Negative,42.735,High-Risk,Short-Hold
-Jared Butler,RGC,Short,2025-05-22,2025-05-28,6,270,455.0,500.0,-12150.0,-9.89,Negative,12.285,High-Risk,Short-Hold
-Jared Butler,RGTX,Long,2025-05-22,2025-05-28,6,2000,41.47,46.91,10880.0,13.12,Positive,8.294,High-Risk,Short-Hold
+Jared Butler,RGC,Short,2025-05-22,2025-05-28,6,270,455.0,500.0,-12150.0,-9.89,Negative,12.285,High-Risk,Long-Hold
+Jared Butler,RGTX,Long,2025-05-22,2025-05-28,6,2000,41.47,46.91,10880.0,13.12,Positive,8.294,High-Risk,Long-Hold
 Jared Butler,NVDL,Short,2025-05-28,2025-05-29,1,1500,52.72,57.9,-7770.0,-9.83,Negative,7.908,Low-Risk,Short-Hold
 Jared Butler,LTCN,Long,2025-05-22,2025-06-02,11,384906,7.79,6.89,-346415.4,-11.55,Negative,299.8418,High-Risk,Long-Hold
 Jared Butler,INTU,Long,2025-05-23,2025-06-02,10,75,719.67,755.71,2703.0,5.01,Positive,5.3975,Low-Risk,Long-Hold
 Jared Butler,SOFX,Long,2025-05-22,2025-06-02,11,20000,10.9,11.25,7000.0,3.21,Positive,21.8,High-Risk,Long-Hold
-Jared Butler,LTCN,Long,2025-05-22,2025-06-02,11,5,7.79,6.92,-4.35,-11.17,Negative,0.0039,Low-Risk,Long-Hold
 Jared Butler,HIMZ,Long,2025-05-22,2025-06-03,12,2025,36.13,48.02,24077.25,32.91,Positive,7.3163,Low-Risk,Long-Hold
 Jared Butler,QBTX,Short,2025-05-22,2025-06-03,12,600,127.3,103.82,14088.0,18.44,Positive,7.638,Low-Risk,Long-Hold
 Jared Butler,OKLO,Short,2025-05-28,2025-06-16,19,650,53.5,67.01,-8781.5,-25.25,Negative,3.4775,Low-Risk,Long-Hold
@@ -277,9 +825,9 @@ Jared Butler,SHOP,Long,2025-05-22,2025-06-18,27,1000,103.9,106.5,2600.0,2.5,Posi
 Jared Butler,AMDL,Long,2025-05-22,2025-06-18,27,25000,5.49,6.96,36750.0,26.78,Positive,13.725,High-Risk,Long-Hold
 Jared Butler,RGC,Short,2025-06-18,2025-06-23,5,20000,50.066,22.0,561320.02,56.06,Positive,100.132,High-Risk,Short-Hold
 Jared Butler,CRCL,Short,2025-06-20,2025-06-23,3,555,236.79,264.28,-15256.95,-11.61,Negative,13.1418,High-Risk,Short-Hold
-Jared Butler,RGC,Short,2025-06-18,2025-06-24,6,1516,54.1,22.64,47693.36,58.15,Positive,8.2016,High-Risk,Short-Hold
-Jared Butler,BITX,Long,2025-06-20,2025-06-27,7,29529,50.3961,53.23,83681.53,5.62,Positive,148.8147,High-Risk,Short-Hold
-Jared Butler,CONL,Long,2025-06-20,2025-06-27,7,6650,35.4649,49.46,93067.5,39.46,Positive,23.5842,High-Risk,Short-Hold
+Jared Butler,RGC,Short,2025-06-18,2025-06-24,6,1516,54.1,22.64,47693.36,58.15,Positive,8.2016,High-Risk,Long-Hold
+Jared Butler,BITX,Long,2025-06-20,2025-06-27,7,29529,50.3961,53.23,83681.53,5.62,Positive,148.8147,High-Risk,Long-Hold
+Jared Butler,CONL,Long,2025-06-20,2025-06-27,7,6650,35.4649,49.46,93067.5,39.46,Positive,23.5842,High-Risk,Long-Hold
 Jared Butler,PTIR,Short,2025-06-27,2025-06-27,0,800,298.12,302.69,-3656.0,-1.53,Negative,23.8496,High-Risk,Short-Hold
 Jared Butler,SOXL,Long,2025-06-25,2025-06-27,2,8000,24.2825,24.5,1740.0,0.9,Positive,19.426,High-Risk,Short-Hold
 Jared Butler,AMDL,Long,2025-06-20,2025-07-01,11,70000,7.3,8.0,49000.0,9.59,Positive,51.1,High-Risk,Long-Hold
@@ -293,11 +841,11 @@ Jared Butler,RCKT,Short,2025-06-20,2025-07-10,20,13333,2.75,3.18,-5733.19,-15.64
 Jared Butler,XFOR,Short,2025-07-14,2025-07-14,0,100000,1.5811,1.46,12109.6,7.66,Positive,15.811,High-Risk,Short-Hold
 Jared Butler,XFOR,Short,2025-07-14,2025-07-14,0,11110,1.43,1.46,-333.3,-2.1,Negative,1.5887,Low-Risk,Short-Hold
 Jared Butler,RGC,Short,2025-07-07,2025-07-15,8,9550,18.2267,15.0,30815.0,17.7,Positive,17.4065,High-Risk,Long-Hold
-Jared Butler,CC,Long,2025-07-09,2025-07-16,7,10001,13.82,12.93,-8900.89,-6.44,Negative,13.8214,High-Risk,Short-Hold
+Jared Butler,CC,Long,2025-07-09,2025-07-16,7,10001,13.82,12.93,-8900.89,-6.44,Negative,13.8214,High-Risk,Long-Hold
 Jared Butler,RGC,Short,2025-07-16,2025-07-16,0,10000,14.58,15.07,-4900.0,-3.36,Negative,14.58,High-Risk,Short-Hold
 Jared Butler,CRM,Long,2025-07-03,2025-07-21,18,1900,265.4575,263.83,-3092.28,-0.61,Negative,50.4369,High-Risk,Long-Hold
 Jared Butler,BBAI,Long,2025-06-25,2025-07-21,26,8000,5.81,7.52,13680.0,29.43,Positive,4.648,Low-Risk,Long-Hold
-Jared Butler,NOW,Long,2025-07-14,2025-07-21,7,150,956.5533,964.21,1148.5,0.8,Positive,14.3483,High-Risk,Short-Hold
+Jared Butler,NOW,Long,2025-07-14,2025-07-21,7,150,956.5533,964.21,1148.5,0.8,Positive,14.3483,High-Risk,Long-Hold
 Jared Butler,PTIR,Long,2025-06-30,2025-07-21,21,400,298.04,23.92,-109648.0,-91.97,Negative,11.9216,High-Risk,Long-Hold
 Jared Butler,NVDL,Long,2025-07-03,2025-07-21,18,3550,70.3454,83.23,45740.5,18.32,Positive,24.9726,High-Risk,Long-Hold
 Jared Butler,CONL,Long,2025-07-03,2025-07-21,18,5444,46.4391,66.43,108830.32,43.05,Positive,25.2815,High-Risk,Long-Hold
@@ -315,6 +863,63 @@ Jared Butler,OPEN,Short,2025-07-21,2025-07-21,0,1400000,2.86,3.07,-294000.0,-7.3
 Jared Butler,OPEN,Short,2025-07-21,2025-07-21,0,944450,2.88,3.1,-207779.0,-7.64,Negative,272.0016,High-Risk,Short-Hold
 Jared Butler,OPEN,Long,2025-07-21,2025-07-21,0,224215,3.15,3.3,33632.25,4.76,Positive,70.6277,High-Risk,Short-Hold
 Jared Butler,BITX,Long,2025-07-23,2025-07-24,1,120000,64.03,65.5,176400.0,2.3,Positive,768.36,High-Risk,Short-Hold
+Miles Bice,UNH,Short,2025-05-23,2025-05-23,0,154,296.02,296.27,-38.5,-0.08,Negative,4.5587,Low-Risk,Short-Hold
+Miles Bice,URBN,Long,2025-05-23,2025-05-23,0,1030,71.6,72.17,587.1,0.8,Positive,7.3748,Low-Risk,Short-Hold
+Miles Bice,GS,Long,2025-05-23,2025-05-23,0,262,585.0,595.22,2677.64,1.75,Positive,15.327,High-Risk,Short-Hold
+Miles Bice,GOOGL,Long,2025-05-23,2025-05-23,0,1099,169.11,169.12,10.99,0.01,Positive,18.5852,High-Risk,Short-Hold
+Miles Bice,NKE,Long,2025-05-23,2025-05-23,0,1197,59.86,59.93,83.79,0.12,Positive,7.1652,Low-Risk,Short-Hold
+Miles Bice,GBTC,Long,2025-05-23,2025-05-27,4,310,86.6,87.14,167.4,0.62,Positive,2.6846,Low-Risk,Short-Hold
+Miles Bice,NVDA,Long,2025-05-23,2025-05-27,4,403,131.91,134.15,902.72,1.7,Positive,5.316,Low-Risk,Short-Hold
+Miles Bice,AAPL,Long,2025-05-23,2025-05-27,4,30,196.19,198.3,63.3,1.08,Positive,0.5886,Low-Risk,Short-Hold
+Miles Bice,X,Long,2025-05-27,2025-05-28,1,622,52.02,53.25,765.06,2.36,Positive,3.2356,Low-Risk,Short-Hold
+Miles Bice,META,Long,2025-05-23,2025-05-29,6,214,624.08,644.85,4444.78,3.33,Positive,13.3553,High-Risk,Long-Hold
+Miles Bice,INTU,Long,2025-05-27,2025-05-29,2,80,724.51,748.37,1908.8,3.29,Positive,5.7961,Low-Risk,Short-Hold
+Miles Bice,SNOW,Long,2025-05-23,2025-05-29,6,559,198.51,202.41,2180.1,1.96,Positive,11.0967,High-Risk,Long-Hold
+Miles Bice,TSLA,Long,2025-05-23,2025-05-30,7,412,337.52,355.58,7440.72,5.35,Positive,13.9058,High-Risk,Long-Hold
+Miles Bice,AAPL,Short,2025-05-27,2025-05-30,3,360,198.3,198.84,-194.4,-0.27,Negative,7.1388,Low-Risk,Short-Hold
+Miles Bice,HOLO,Long,2025-05-28,2025-06-04,7,3683,10.51,5.36,-18967.45,-49.0,Negative,3.8708,Low-Risk,Long-Hold
+Miles Bice,HOLO,Short,2025-05-30,2025-06-04,5,20044,6.14,5.36,15634.32,12.7,Positive,12.307,High-Risk,Short-Hold
+Miles Bice,ABNB,Long,2025-05-23,2025-06-05,13,1027,125.09,133.5,8637.07,6.72,Positive,12.8467,High-Risk,Long-Hold
+Miles Bice,AMZN,Long,2025-05-23,2025-06-05,13,366,198.9,209.5,3879.6,5.33,Positive,7.2797,Low-Risk,Long-Hold
+Miles Bice,BBY,Long,2025-05-29,2025-06-05,7,981,65.22,69.56,4257.54,6.65,Positive,6.3981,Low-Risk,Long-Hold
+Miles Bice,NVDA,Long,2025-05-29,2025-06-05,7,880,140.48,142.15,1469.6,1.19,Positive,12.3622,High-Risk,Long-Hold
+Miles Bice,CRM,Long,2025-05-29,2025-06-05,7,400,259.81,267.22,2964.0,2.85,Positive,10.3924,High-Risk,Long-Hold
+Miles Bice,HOOD,Long,2025-06-05,2025-06-05,0,1882,76.41,75.84,-1072.74,-0.75,Negative,14.3804,High-Risk,Short-Hold
+Miles Bice,HOOD,Short,2025-06-05,2025-06-05,0,1951,75.76,73.94,3550.82,2.4,Positive,14.7808,High-Risk,Short-Hold
+Miles Bice,CLNN,Long,2025-06-05,2025-06-05,0,31980,4.15,4.19,1279.2,0.96,Positive,13.2717,High-Risk,Short-Hold
+Miles Bice,CRCL,Long,2025-06-05,2025-06-06,1,2538,84.04,111.54,69795.0,32.72,Positive,21.3294,High-Risk,Short-Hold
+Miles Bice,GE,Long,2025-06-05,2025-06-06,1,385,251.81,255.93,1586.2,1.64,Positive,9.6947,High-Risk,Short-Hold
+Miles Bice,LUV,Long,2025-06-06,2025-06-09,3,3033,33.03,33.6,1728.81,1.73,Positive,10.018,High-Risk,Short-Hold
+Miles Bice,BTC,Long,2025-06-06,2025-06-09,3,2711,46.32,47.66,3632.74,2.89,Positive,12.5574,High-Risk,Short-Hold
+Miles Bice,RDFN,Long,2025-06-10,2025-06-11,1,10285,10.22,10.8,5965.3,5.68,Positive,10.5113,High-Risk,Short-Hold
+Miles Bice,AAP,Short,2025-06-10,2025-06-12,2,1467,52.95,51.03,2816.64,3.63,Positive,7.7678,Low-Risk,Short-Hold
+Miles Bice,HOOD,Long,2025-06-12,2025-06-12,0,1981,73.53,75.34,3585.61,2.46,Positive,14.5663,High-Risk,Short-Hold
+Miles Bice,COIN,Long,2025-05-23,2025-06-13,21,942,262.94,237.45,-24011.58,-9.69,Negative,24.7689,High-Risk,Long-Hold
+Miles Bice,KURE,Long,2025-06-12,2025-06-13,1,2954,17.93,17.74,-561.26,-1.06,Negative,5.2965,Low-Risk,Short-Hold
+Miles Bice,PLTR,Long,2025-06-12,2025-06-13,1,1079,136.43,138.94,2708.29,1.84,Positive,14.7208,High-Risk,Short-Hold
+Miles Bice,BA,Short,2025-06-12,2025-06-13,1,587,203.62,201.05,1508.59,1.26,Positive,11.9525,High-Risk,Short-Hold
+Miles Bice,CON,Short,2025-06-13,2025-06-16,3,4935,21.54,21.38,789.6,0.74,Positive,10.63,High-Risk,Short-Hold
+Miles Bice,ARKK,Long,2025-06-10,2025-06-16,6,1559,62.72,64.98,3523.34,3.6,Positive,9.778,High-Risk,Long-Hold
+Miles Bice,RGC,Long,2025-06-16,2025-06-16,0,3320,45.8,46.78,3253.6,2.14,Positive,15.2056,High-Risk,Short-Hold
+Miles Bice,RGC,Long,2025-06-16,2025-06-16,0,3465,48.79,49.11,1108.8,0.66,Positive,16.9057,High-Risk,Short-Hold
+Miles Bice,FLEX,Long,2025-06-16,2025-06-17,1,3669,43.95,45.66,6273.99,3.89,Positive,16.1253,High-Risk,Short-Hold
+Miles Bice,JPM,Long,2025-06-06,2025-06-18,12,904,266.2,274.35,7367.6,3.06,Positive,24.0645,High-Risk,Long-Hold
+Miles Bice,BAC,Long,2025-06-12,2025-06-18,6,2711,44.41,44.79,1030.18,0.86,Positive,12.0396,High-Risk,Long-Hold
+Miles Bice,CHYM,Long,2025-06-25,2025-06-25,0,17208,32.7152,32.86,2491.42,0.44,Positive,56.2963,High-Risk,Short-Hold
+Miles Bice,ANET,Long,2025-06-25,2025-06-26,1,1240,96.06,99.04,3695.2,3.1,Positive,11.9114,High-Risk,Short-Hold
+Miles Bice,BA,Long,2025-06-25,2025-06-26,1,1950,199.8048,203.96,8102.66,2.08,Positive,38.9619,High-Risk,Short-Hold
+Miles Bice,IONQ,Long,2025-05-23,2025-06-30,38,2079,41.91,42.85,1954.26,2.24,Positive,8.7131,High-Risk,Long-Hold
+Miles Bice,DINO,Long,2025-06-26,2025-07-01,5,5813,41.73,41.42,-1802.03,-0.74,Negative,24.2576,High-Risk,Short-Hold
+Miles Bice,HNGE,Short,2025-06-20,2025-07-07,17,14960,41.9045,41.55,5303.68,0.85,Positive,62.6892,High-Risk,Long-Hold
+Miles Bice,RBLX,Long,2025-07-07,2025-07-16,9,1143,107.2,117.81,12127.23,9.9,Positive,12.253,High-Risk,Long-Hold
+Miles Bice,TSLA,Long,2025-07-07,2025-07-16,9,413,294.17,320.16,10733.87,8.84,Positive,12.1492,High-Risk,Long-Hold
+Miles Bice,AAPL,Long,2025-07-07,2025-07-23,16,648,209.46,215.05,3622.32,2.67,Positive,13.573,High-Risk,Long-Hold
+Miles Bice,VZ,Long,2025-07-07,2025-07-23,16,1804,42.89,42.4,-883.96,-1.14,Negative,7.7374,Low-Risk,Long-Hold
+Miles Bice,BAC,Long,2025-07-02,2025-07-24,28,4594,48.24,48.39,689.1,0.31,Positive,22.1615,High-Risk,Long-Hold
+Miles Bice,CELH,Long,2025-07-01,2025-07-24,29,2525,47.04,46.31,-1843.25,-1.55,Negative,11.8776,High-Risk,Long-Hold
+Miles Bice,F,Long,2025-07-02,2025-07-24,28,11217,11.46,11.26,-2243.4,-1.75,Negative,12.8547,High-Risk,Long-Hold
+Miles Bice,MO,Long,2025-07-07,2025-07-24,23,1736,59.77,59.61,-277.76,-0.27,Negative,10.3761,High-Risk,Long-Hold
+Miles Bice,DIS,Long,2025-07-08,2025-07-24,22,822,122.44,121.95,-402.78,-0.4,Negative,10.0646,High-Risk,Long-Hold
 Eat My Stocks,HNGE,Long,2025-05-22,2025-05-22,0,545,38.01,37.88,-70.85,-0.34,Negative,2.0715,Low-Risk,Short-Hold
 Eat My Stocks,HNGE,Short,2025-05-22,2025-05-22,0,539,37.5,37.86,-194.04,-0.96,Negative,2.0213,Low-Risk,Short-Hold
 Eat My Stocks,UNH,Long,2025-05-08,2025-05-29,21,50,390.0,296.88,-4656.0,-23.88,Negative,1.95,Low-Risk,Long-Hold
@@ -330,90 +935,126 @@ Eat My Stocks,RGTI,Long,2025-06-12,2025-06-26,14,2100,12.65,11.24,-2961.0,-11.15
 Eat My Stocks,GIS,Long,2025-05-08,2025-07-17,70,375,54.37,50.34,-1511.25,-7.41,Negative,2.0389,Low-Risk,Long-Hold
 Eat My Stocks,IMNN,Long,2025-06-12,2025-07-17,35,22000,1.66,0.5,-25520.0,-69.88,Negative,3.652,Low-Risk,Long-Hold
 Eat My Stocks,ELF,Long,2025-06-12,2025-07-17,35,160,124.25,108.03,-2595.2,-13.05,Negative,1.988,Low-Risk,Long-Hold
-Eat My Stocks,MAR,Long,2025-05-08,2025-07-24,77,75,255.99,274.0,1350.75,7.04,Positive,1.9199,Low-Risk,Long-Hold
-Eat My Stocks,AAPL,Long,2025-05-08,2025-07-24,77,110,197.74,215.04,1903.0,8.75,Positive,2.1751,Low-Risk,Long-Hold
-Eat My Stocks,LOW,Long,2025-05-08,2025-07-24,77,95,224.45,227.06,247.95,1.16,Positive,2.1323,Low-Risk,Long-Hold
-Eat My Stocks,LOW,Long,2025-05-22,2025-07-24,63,90,227.45,227.06,-35.1,-0.17,Negative,2.0471,Low-Risk,Long-Hold
-Eat My Stocks,IBM,Long,2025-05-08,2025-07-24,77,80,254.99,261.04,484.0,2.37,Positive,2.0399,Low-Risk,Long-Hold
-Eat My Stocks,HD,Long,2025-06-12,2025-07-24,42,30,361.06,374.22,394.8,3.64,Positive,1.0832,Low-Risk,Long-Hold
-Eat My Stocks,DIS,Long,2025-05-08,2025-07-24,77,195,103.97,122.6,3632.85,17.92,Positive,2.0274,Low-Risk,Long-Hold
-Eat My Stocks,META,Long,2025-05-08,2025-07-24,77,35,606.29,716.57,3859.8,18.19,Positive,2.122,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-05-08,2025-07-24,77,185,112.33,154.97,7888.4,37.96,Positive,2.0781,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-05-22,2025-07-24,63,165,121.93,154.97,5451.6,27.1,Positive,2.0118,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-05-29,2025-07-24,56,165,125.41,154.97,4877.4,23.57,Positive,2.0693,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-06-05,2025-07-24,49,230,129.32,154.97,5899.5,19.83,Positive,2.9744,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-06-26,2025-07-24,28,360,144.97,154.97,3600.0,6.9,Positive,5.2189,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-06-26,2025-07-24,28,360,144.97,154.97,3600.0,6.9,Positive,5.2189,Low-Risk,Long-Hold
-Eat My Stocks,PLTR,Long,2025-07-10,2025-07-24,14,350,143.38,154.97,4056.5,8.08,Positive,5.0183,Low-Risk,Long-Hold
-Eat My Stocks,NOC,Long,2025-05-08,2025-07-24,77,40,487.59,572.29,3388.0,17.37,Positive,1.9504,Low-Risk,Long-Hold
-Eat My Stocks,LMT,Long,2025-05-08,2025-07-24,77,43,472.66,424.27,-2080.77,-10.24,Negative,2.0324,Low-Risk,Long-Hold
-Eat My Stocks,LUV,Long,2025-05-08,2025-07-24,77,750,30.73,33.34,1957.5,8.49,Positive,2.3047,Low-Risk,Long-Hold
-Eat My Stocks,LPX,Long,2025-05-08,2025-07-24,77,220,90.49,88.4,-459.8,-2.31,Negative,1.9908,Low-Risk,Long-Hold
-Eat My Stocks,MU,Long,2025-05-08,2025-07-24,77,245,84.25,112.09,6820.8,33.04,Positive,2.0641,Low-Risk,Long-Hold
-Eat My Stocks,NVDA,Long,2025-05-08,2025-07-24,77,170,118.48,173.71,9389.1,46.62,Positive,2.0142,Low-Risk,Long-Hold
-Eat My Stocks,NVDA,Long,2025-05-29,2025-07-24,56,155,142.24,173.71,4877.85,22.12,Positive,2.2047,Low-Risk,Long-Hold
-Eat My Stocks,NVDA,Long,2025-06-05,2025-07-24,49,150,142.15,173.71,4734.0,22.2,Positive,2.1322,Low-Risk,Long-Hold
-Eat My Stocks,NVDA,Long,2025-06-26,2025-07-24,28,475,155.98,173.71,8421.75,11.37,Positive,7.4091,Low-Risk,Long-Hold
-Eat My Stocks,TSLA,Long,2025-05-08,2025-07-24,77,73,279.63,303.14,1716.23,8.41,Positive,2.0413,Low-Risk,Long-Hold
-Eat My Stocks,TSLA,Long,2025-06-26,2025-07-24,28,73,324.61,303.14,-1567.31,-6.61,Negative,2.3697,Low-Risk,Long-Hold
-Eat My Stocks,APP,Long,2025-05-08,2025-07-24,77,65,344.0,362.96,1232.4,5.51,Positive,2.236,Low-Risk,Long-Hold
-Eat My Stocks,WY,Long,2025-05-08,2025-07-24,77,785,25.95,25.49,-361.1,-1.77,Negative,2.0371,Low-Risk,Long-Hold
-Eat My Stocks,CVS,Long,2025-05-08,2025-07-24,77,300,66.98,59.74,-2172.0,-10.81,Negative,2.0094,Low-Risk,Long-Hold
-Eat My Stocks,AVGO,Long,2025-05-08,2025-07-24,77,100,208.0,289.62,8162.0,39.24,Positive,2.08,Low-Risk,Long-Hold
-Eat My Stocks,AVGO,Long,2025-05-22,2025-07-24,63,90,228.34,289.62,5515.2,26.84,Positive,2.0551,Low-Risk,Long-Hold
-Eat My Stocks,GD,Long,2025-05-08,2025-07-24,77,75,270.37,315.83,3409.5,16.81,Positive,2.0278,Low-Risk,Long-Hold
-Eat My Stocks,GD,Long,2025-07-17,2025-07-24,7,20,299.83,315.83,320.0,5.34,Positive,0.5997,Low-Risk,Short-Hold
-Eat My Stocks,MTZ,Long,2025-05-15,2025-07-24,70,320,154.61,182.54,8937.6,18.06,Positive,4.9475,Low-Risk,Long-Hold
-Eat My Stocks,PRIM,Long,2025-05-15,2025-07-24,70,650,76.71,90.65,9061.0,18.17,Positive,4.9861,Low-Risk,Long-Hold
-Eat My Stocks,CVX,Long,2025-05-15,2025-07-24,70,180,140.1,155.62,2793.6,11.08,Positive,2.5218,Low-Risk,Long-Hold
-Eat My Stocks,XOM,Long,2025-05-15,2025-07-24,70,115,106.3,110.66,501.4,4.1,Positive,1.2224,Low-Risk,Long-Hold
-Eat My Stocks,SWK,Long,2025-05-15,2025-07-24,70,350,71.01,72.71,595.0,2.39,Positive,2.4853,Low-Risk,Long-Hold
-Eat My Stocks,AMD,Long,2025-05-15,2025-07-24,70,430,117.02,162.61,19603.7,38.96,Positive,5.0319,Low-Risk,Long-Hold
-Eat My Stocks,AMD,Long,2025-05-29,2025-07-24,56,180,115.39,162.61,8499.6,40.92,Positive,2.077,Low-Risk,Long-Hold
-Eat My Stocks,BA,Long,2025-05-15,2025-07-24,70,240,207.31,233.66,6324.0,12.71,Positive,4.9754,Low-Risk,Long-Hold
-Eat My Stocks,WMT,Long,2025-05-15,2025-07-24,70,515,94.28,96.61,1199.95,2.47,Positive,4.8554,Low-Risk,Long-Hold
-Eat My Stocks,COST,Long,2025-05-15,2025-07-24,70,50,992.65,935.89,-2838.0,-5.72,Negative,4.9633,Low-Risk,Long-Hold
-Eat My Stocks,COST,Long,2025-06-05,2025-07-24,49,20,1050.0,935.89,-2282.2,-10.87,Negative,2.1,Low-Risk,Long-Hold
-Eat My Stocks,DAL,Long,2025-05-15,2025-07-24,70,1000,50.58,55.34,4760.0,9.41,Positive,5.058,Low-Risk,Long-Hold
-Eat My Stocks,DAL,Long,2025-07-17,2025-07-24,7,180,56.3,55.34,-172.8,-1.71,Negative,1.0134,Low-Risk,Short-Hold
-Eat My Stocks,BKNG,Long,2025-05-22,2025-07-24,63,4,5297.49,5710.24,1651.0,7.79,Positive,2.119,Low-Risk,Long-Hold
-Eat My Stocks,CRWV,Long,2025-05-22,2025-07-24,63,185,112.14,122.06,1835.2,8.85,Positive,2.0746,Low-Risk,Long-Hold
-Eat My Stocks,CRWV,Long,2025-06-05,2025-07-24,49,130,155.73,122.06,-4377.1,-21.62,Negative,2.0245,Low-Risk,Long-Hold
-Eat My Stocks,CRWV,Long,2025-06-26,2025-07-24,28,315,164.15,122.06,-13258.35,-25.64,Negative,5.1707,Low-Risk,Long-Hold
-Eat My Stocks,NEE,Long,2025-05-22,2025-07-24,63,280,68.8,71.72,817.6,4.24,Positive,1.9264,Low-Risk,Long-Hold
-Eat My Stocks,PANW,Long,2025-05-22,2025-07-24,63,110,183.01,199.81,1848.0,9.18,Positive,2.0131,Low-Risk,Long-Hold
-Eat My Stocks,JNJ,Long,2025-05-22,2025-07-24,63,130,152.7,169.21,2146.3,10.81,Positive,1.9851,Low-Risk,Long-Hold
-Eat My Stocks,KO,Long,2025-05-22,2025-07-24,63,300,71.78,69.13,-795.0,-3.69,Negative,2.1534,Low-Risk,Long-Hold
-Eat My Stocks,KO,Long,2025-06-05,2025-07-24,49,280,71.38,69.13,-630.0,-3.15,Negative,1.9986,Low-Risk,Long-Hold
-Eat My Stocks,HNGE,Long,2025-05-29,2025-07-24,56,720,41.19,45.9,3391.2,11.43,Positive,2.9657,Low-Risk,Long-Hold
-Eat My Stocks,TDOC,Long,2025-05-29,2025-07-24,56,4400,7.08,8.27,5236.0,16.81,Positive,3.1152,Low-Risk,Long-Hold
-Eat My Stocks,CRM,Long,2025-05-29,2025-07-24,56,110,263.59,266.49,319.0,1.1,Positive,2.8995,Low-Risk,Long-Hold
-Eat My Stocks,NVO,Long,2025-05-29,2025-07-24,56,440,69.16,70.59,629.2,2.07,Positive,3.043,Low-Risk,Long-Hold
-Eat My Stocks,RBLX,Long,2025-05-29,2025-07-24,56,355,85.01,118.79,11991.9,39.74,Positive,3.0179,Low-Risk,Long-Hold
-Eat My Stocks,RBLX,Long,2025-07-10,2025-07-24,14,250,106.87,118.79,2980.0,11.15,Positive,2.6718,Low-Risk,Long-Hold
-Eat My Stocks,RBLX,Long,2025-07-17,2025-07-24,7,199,118.8,118.79,-1.99,-0.01,Negative,2.3641,Low-Risk,Short-Hold
-Eat My Stocks,ORCL,Long,2025-05-29,2025-07-24,56,185,165.25,243.34,14446.65,47.26,Positive,3.0571,Low-Risk,Long-Hold
-Eat My Stocks,ORCL,Long,2025-06-26,2025-07-24,28,200,212.0,243.34,6268.0,14.78,Positive,4.24,Low-Risk,Long-Hold
-Eat My Stocks,U,Long,2025-05-29,2025-07-24,56,1250,24.77,33.61,11050.0,35.69,Positive,3.0962,Low-Risk,Long-Hold
-Eat My Stocks,AMZN,Long,2025-05-29,2025-07-24,56,145,208.07,232.0,3469.85,11.5,Positive,3.017,Low-Risk,Long-Hold
-Eat My Stocks,ACMR,Long,2025-06-05,2025-07-24,49,900,23.15,29.94,6111.0,29.33,Positive,2.0835,Low-Risk,Long-Hold
-Eat My Stocks,ACMR,Long,2025-07-17,2025-07-24,7,250,29.66,29.94,70.0,0.94,Positive,0.7415,Low-Risk,Short-Hold
-Eat My Stocks,VZ,Long,2025-06-05,2025-07-24,49,465,43.32,42.99,-153.45,-0.76,Negative,2.0144,Low-Risk,Long-Hold
-Eat My Stocks,PEP,Long,2025-06-05,2025-07-24,49,230,131.2,144.41,3038.3,10.07,Positive,3.0176,Low-Risk,Long-Hold
-Eat My Stocks,UL,Long,2025-06-05,2025-07-24,49,320,63.31,60.99,-742.4,-3.66,Negative,2.0259,Low-Risk,Long-Hold
-Eat My Stocks,AMDL,Long,2025-06-26,2025-07-24,28,2950,9.02,10.99,5811.5,21.84,Positive,2.6609,Low-Risk,Long-Hold
-Eat My Stocks,SHOP,Long,2025-06-26,2025-07-24,28,440,113.52,122.01,3735.6,7.48,Positive,4.9949,Low-Risk,Long-Hold
-Eat My Stocks,MELI,Long,2025-07-10,2025-07-24,14,15,2438.66,2388.66,-750.0,-2.05,Negative,3.658,Low-Risk,Long-Hold
-Eat My Stocks,ROAD,Long,2025-07-10,2025-07-24,14,350,105.04,103.84,-420.0,-1.14,Negative,3.6764,Low-Risk,Long-Hold
-Eat My Stocks,ROAD,Long,2025-07-17,2025-07-24,7,100,111.08,103.84,-724.0,-6.52,Negative,1.1108,Low-Risk,Short-Hold
-Eat My Stocks,UAL,Long,2025-07-17,2025-07-24,7,120,91.89,90.9,-118.8,-1.08,Negative,1.1027,Low-Risk,Short-Hold
-Eat My Stocks,TOST,Long,2025-07-17,2025-07-24,7,200,46.98,47.98,200.0,2.13,Positive,0.9396,Low-Risk,Short-Hold
-Eat My Stocks,VEEV,Long,2025-07-17,2025-07-24,7,25,281.34,291.29,248.75,3.54,Positive,0.7033,Low-Risk,Short-Hold
-Seventh Sense Investing,COOK,Long,2025-05-09,2025-05-16,7,70652,1.43,1.46,2119.56,2.1,Positive,10.1032,High-Risk,Short-Hold
+Eat My Stocks,MAR,Long,2025-05-08,2025-07-24,83,75,255.99,274.0,1350.75,7.04,Positive,1.9199,Low-Risk,Long-Hold
+Eat My Stocks,AAPL,Long,2025-05-08,2025-07-24,83,110,197.74,215.04,1903.0,8.75,Positive,2.1751,Low-Risk,Long-Hold
+Eat My Stocks,LOW,Long,2025-05-08,2025-07-24,83,95,224.45,227.06,247.95,1.16,Positive,2.1323,Low-Risk,Long-Hold
+Eat My Stocks,LOW,Long,2025-05-22,2025-07-24,69,90,227.45,227.06,-35.1,-0.17,Negative,2.0471,Low-Risk,Long-Hold
+Eat My Stocks,IBM,Long,2025-05-08,2025-07-24,83,80,254.99,261.04,484.0,2.37,Positive,2.0399,Low-Risk,Long-Hold
+Eat My Stocks,HD,Long,2025-06-12,2025-07-24,48,30,361.06,374.22,394.8,3.64,Positive,1.0832,Low-Risk,Long-Hold
+Eat My Stocks,DIS,Long,2025-05-08,2025-07-24,83,195,103.97,122.6,3632.85,17.92,Positive,2.0274,Low-Risk,Long-Hold
+Eat My Stocks,META,Long,2025-05-08,2025-07-24,83,35,606.29,716.57,3859.8,18.19,Positive,2.122,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-05-08,2025-07-24,83,185,112.33,154.97,7888.4,37.96,Positive,2.0781,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-05-22,2025-07-24,69,165,121.93,154.97,5451.6,27.1,Positive,2.0118,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-05-29,2025-07-24,62,165,125.41,154.97,4877.4,23.57,Positive,2.0693,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-06-05,2025-07-24,55,230,129.32,154.97,5899.5,19.83,Positive,2.9744,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-06-26,2025-07-24,34,360,144.97,154.97,3600.0,6.9,Positive,5.2189,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-06-26,2025-07-24,34,360,144.97,154.97,3600.0,6.9,Positive,5.2189,Low-Risk,Long-Hold
+Eat My Stocks,PLTR,Long,2025-07-10,2025-07-24,20,350,143.38,154.97,4056.5,8.08,Positive,5.0183,Low-Risk,Long-Hold
+Eat My Stocks,NOC,Long,2025-05-08,2025-07-24,83,40,487.59,572.29,3388.0,17.37,Positive,1.9504,Low-Risk,Long-Hold
+Eat My Stocks,LMT,Long,2025-05-08,2025-07-24,83,43,472.66,424.27,-2080.77,-10.24,Negative,2.0324,Low-Risk,Long-Hold
+Eat My Stocks,LUV,Long,2025-05-08,2025-07-24,83,750,30.73,33.34,1957.5,8.49,Positive,2.3047,Low-Risk,Long-Hold
+Eat My Stocks,LPX,Long,2025-05-08,2025-07-24,83,220,90.49,88.4,-459.8,-2.31,Negative,1.9908,Low-Risk,Long-Hold
+Eat My Stocks,MU,Long,2025-05-08,2025-07-24,83,245,84.25,112.09,6820.8,33.04,Positive,2.0641,Low-Risk,Long-Hold
+Eat My Stocks,NVDA,Long,2025-05-08,2025-07-24,83,170,118.48,173.71,9389.1,46.62,Positive,2.0142,Low-Risk,Long-Hold
+Eat My Stocks,NVDA,Long,2025-05-29,2025-07-24,62,155,142.24,173.71,4877.85,22.12,Positive,2.2047,Low-Risk,Long-Hold
+Eat My Stocks,NVDA,Long,2025-06-05,2025-07-24,55,150,142.15,173.71,4734.0,22.2,Positive,2.1322,Low-Risk,Long-Hold
+Eat My Stocks,NVDA,Long,2025-06-26,2025-07-24,34,475,155.98,173.71,8421.75,11.37,Positive,7.4091,Low-Risk,Long-Hold
+Eat My Stocks,TSLA,Long,2025-05-08,2025-07-24,83,73,279.63,303.14,1716.23,8.41,Positive,2.0413,Low-Risk,Long-Hold
+Eat My Stocks,TSLA,Long,2025-06-26,2025-07-24,34,73,324.61,303.14,-1567.31,-6.61,Negative,2.3697,Low-Risk,Long-Hold
+Eat My Stocks,APP,Long,2025-05-08,2025-07-24,83,65,344.0,362.96,1232.4,5.51,Positive,2.236,Low-Risk,Long-Hold
+Eat My Stocks,WY,Long,2025-05-08,2025-07-24,83,785,25.95,25.49,-361.1,-1.77,Negative,2.0371,Low-Risk,Long-Hold
+Eat My Stocks,CVS,Long,2025-05-08,2025-07-24,83,300,66.98,59.74,-2172.0,-10.81,Negative,2.0094,Low-Risk,Long-Hold
+Eat My Stocks,AVGO,Long,2025-05-08,2025-07-24,83,100,208.0,289.62,8162.0,39.24,Positive,2.08,Low-Risk,Long-Hold
+Eat My Stocks,AVGO,Long,2025-05-22,2025-07-24,69,90,228.34,289.62,5515.2,26.84,Positive,2.0551,Low-Risk,Long-Hold
+Eat My Stocks,GD,Long,2025-05-08,2025-07-24,83,75,270.37,315.83,3409.5,16.81,Positive,2.0278,Low-Risk,Long-Hold
+Eat My Stocks,GD,Long,2025-07-17,2025-07-24,13,20,299.83,315.83,320.0,5.34,Positive,0.5997,Low-Risk,Long-Hold
+Eat My Stocks,MTZ,Long,2025-05-15,2025-07-24,76,320,154.61,182.54,8937.6,18.06,Positive,4.9475,Low-Risk,Long-Hold
+Eat My Stocks,PRIM,Long,2025-05-15,2025-07-24,76,650,76.71,90.65,9061.0,18.17,Positive,4.9861,Low-Risk,Long-Hold
+Eat My Stocks,CVX,Long,2025-05-15,2025-07-24,76,180,140.1,155.62,2793.6,11.08,Positive,2.5218,Low-Risk,Long-Hold
+Eat My Stocks,XOM,Long,2025-05-15,2025-07-24,76,115,106.3,110.66,501.4,4.1,Positive,1.2224,Low-Risk,Long-Hold
+Eat My Stocks,SWK,Long,2025-05-15,2025-07-24,76,350,71.01,72.71,595.0,2.39,Positive,2.4853,Low-Risk,Long-Hold
+Eat My Stocks,AMD,Long,2025-05-15,2025-07-24,76,430,117.02,162.61,19603.7,38.96,Positive,5.0319,Low-Risk,Long-Hold
+Eat My Stocks,AMD,Long,2025-05-29,2025-07-24,62,180,115.39,162.61,8499.6,40.92,Positive,2.077,Low-Risk,Long-Hold
+Eat My Stocks,BA,Long,2025-05-15,2025-07-24,76,240,207.31,233.66,6324.0,12.71,Positive,4.9754,Low-Risk,Long-Hold
+Eat My Stocks,WMT,Long,2025-05-15,2025-07-24,76,515,94.28,96.61,1199.95,2.47,Positive,4.8554,Low-Risk,Long-Hold
+Eat My Stocks,COST,Long,2025-05-15,2025-07-24,76,50,992.65,935.89,-2838.0,-5.72,Negative,4.9633,Low-Risk,Long-Hold
+Eat My Stocks,COST,Long,2025-06-05,2025-07-24,55,20,1050.0,935.89,-2282.2,-10.87,Negative,2.1,Low-Risk,Long-Hold
+Eat My Stocks,DAL,Long,2025-05-15,2025-07-24,76,1000,50.58,55.34,4760.0,9.41,Positive,5.058,Low-Risk,Long-Hold
+Eat My Stocks,DAL,Long,2025-07-17,2025-07-24,13,180,56.3,55.34,-172.8,-1.71,Negative,1.0134,Low-Risk,Long-Hold
+Eat My Stocks,BKNG,Long,2025-05-22,2025-07-24,69,4,5297.49,5710.24,1651.0,7.79,Positive,2.119,Low-Risk,Long-Hold
+Eat My Stocks,CRWV,Long,2025-05-22,2025-07-24,69,185,112.14,122.06,1835.2,8.85,Positive,2.0746,Low-Risk,Long-Hold
+Eat My Stocks,CRWV,Long,2025-06-05,2025-07-24,55,130,155.73,122.06,-4377.1,-21.62,Negative,2.0245,Low-Risk,Long-Hold
+Eat My Stocks,CRWV,Long,2025-06-26,2025-07-24,34,315,164.15,122.06,-13258.35,-25.64,Negative,5.1707,Low-Risk,Long-Hold
+Eat My Stocks,NEE,Long,2025-05-22,2025-07-24,69,280,68.8,71.72,817.6,4.24,Positive,1.9264,Low-Risk,Long-Hold
+Eat My Stocks,PANW,Long,2025-05-22,2025-07-24,69,110,183.01,199.81,1848.0,9.18,Positive,2.0131,Low-Risk,Long-Hold
+Eat My Stocks,JNJ,Long,2025-05-22,2025-07-24,69,130,152.7,169.21,2146.3,10.81,Positive,1.9851,Low-Risk,Long-Hold
+Eat My Stocks,KO,Long,2025-05-22,2025-07-24,69,300,71.78,69.13,-795.0,-3.69,Negative,2.1534,Low-Risk,Long-Hold
+Eat My Stocks,KO,Long,2025-06-05,2025-07-24,55,280,71.38,69.13,-630.0,-3.15,Negative,1.9986,Low-Risk,Long-Hold
+Eat My Stocks,HNGE,Long,2025-05-29,2025-07-24,62,720,41.19,45.9,3391.2,11.43,Positive,2.9657,Low-Risk,Long-Hold
+Eat My Stocks,TDOC,Long,2025-05-29,2025-07-24,62,4400,7.08,8.27,5236.0,16.81,Positive,3.1152,Low-Risk,Long-Hold
+Eat My Stocks,CRM,Long,2025-05-29,2025-07-24,62,110,263.59,266.49,319.0,1.1,Positive,2.8995,Low-Risk,Long-Hold
+Eat My Stocks,NVO,Long,2025-05-29,2025-07-24,62,440,69.16,70.59,629.2,2.07,Positive,3.043,Low-Risk,Long-Hold
+Eat My Stocks,RBLX,Long,2025-05-29,2025-07-24,62,355,85.01,118.79,11991.9,39.74,Positive,3.0179,Low-Risk,Long-Hold
+Eat My Stocks,RBLX,Long,2025-07-10,2025-07-24,20,250,106.87,118.79,2980.0,11.15,Positive,2.6718,Low-Risk,Long-Hold
+Eat My Stocks,RBLX,Long,2025-07-17,2025-07-24,13,199,118.8,118.79,-1.99,-0.01,Negative,2.3641,Low-Risk,Long-Hold
+Eat My Stocks,ORCL,Long,2025-05-29,2025-07-24,62,185,165.25,243.34,14446.65,47.26,Positive,3.0571,Low-Risk,Long-Hold
+Eat My Stocks,ORCL,Long,2025-06-26,2025-07-24,34,200,212.0,243.34,6268.0,14.78,Positive,4.24,Low-Risk,Long-Hold
+Eat My Stocks,U,Long,2025-05-29,2025-07-24,62,1250,24.77,33.61,11050.0,35.69,Positive,3.0962,Low-Risk,Long-Hold
+Eat My Stocks,AMZN,Long,2025-05-29,2025-07-24,62,145,208.07,232.0,3469.85,11.5,Positive,3.017,Low-Risk,Long-Hold
+Eat My Stocks,ACMR,Long,2025-06-05,2025-07-24,55,900,23.15,29.94,6111.0,29.33,Positive,2.0835,Low-Risk,Long-Hold
+Eat My Stocks,ACMR,Long,2025-07-17,2025-07-24,13,250,29.66,29.94,70.0,0.94,Positive,0.7415,Low-Risk,Long-Hold
+Eat My Stocks,VZ,Long,2025-06-05,2025-07-24,55,465,43.32,42.99,-153.45,-0.76,Negative,2.0144,Low-Risk,Long-Hold
+Eat My Stocks,PEP,Long,2025-06-05,2025-07-24,55,230,131.2,144.41,3038.3,10.07,Positive,3.0176,Low-Risk,Long-Hold
+Eat My Stocks,UL,Long,2025-06-05,2025-07-24,55,320,63.31,60.99,-742.4,-3.66,Negative,2.0259,Low-Risk,Long-Hold
+Eat My Stocks,AMDL,Long,2025-06-26,2025-07-24,34,2950,9.02,10.99,5811.5,21.84,Positive,2.6609,Low-Risk,Long-Hold
+Eat My Stocks,SHOP,Long,2025-06-26,2025-07-24,34,440,113.52,122.01,3735.6,7.48,Positive,4.9949,Low-Risk,Long-Hold
+Eat My Stocks,MELI,Long,2025-07-10,2025-07-24,20,15,2438.66,2388.66,-750.0,-2.05,Negative,3.658,Low-Risk,Long-Hold
+Eat My Stocks,ROAD,Long,2025-07-10,2025-07-24,20,350,105.04,103.84,-420.0,-1.14,Negative,3.6764,Low-Risk,Long-Hold
+Eat My Stocks,ROAD,Long,2025-07-17,2025-07-24,13,100,111.08,103.84,-724.0,-6.52,Negative,1.1108,Low-Risk,Long-Hold
+Eat My Stocks,UAL,Long,2025-07-17,2025-07-24,13,120,91.89,90.9,-118.8,-1.08,Negative,1.1027,Low-Risk,Long-Hold
+Eat My Stocks,TOST,Long,2025-07-17,2025-07-24,13,200,46.98,47.98,200.0,2.13,Positive,0.9396,Low-Risk,Long-Hold
+Eat My Stocks,VEEV,Long,2025-07-17,2025-07-24,13,25,281.34,291.29,248.75,3.54,Positive,0.7033,Low-Risk,Long-Hold
+Brian Smith,COST,Long,2025-05-09,2025-05-13,4,300,1004.61,1012.55,2382.0,0.79,Positive,30.1383,High-Risk,Short-Hold
+Brian Smith,MSTR,Long,2025-05-13,2025-05-13,0,100,406.7,407.82,112.0,0.28,Positive,4.067,Low-Risk,Short-Hold
+Brian Smith,COST,Long,2025-05-09,2025-05-13,4,150,1004.61,1012.26,1147.5,0.76,Positive,15.0692,High-Risk,Short-Hold
+Brian Smith,WMT,Long,2025-05-09,2025-05-13,4,484,96.86,96.56,-145.2,-0.31,Negative,4.688,Low-Risk,Short-Hold
+Brian Smith,MAR,Long,2025-05-13,2025-05-21,8,262,274.3936,263.89,-2751.94,-3.83,Negative,7.1891,Low-Risk,Long-Hold
+Brian Smith,MSTR,Long,2025-05-13,2025-05-21,8,150,406.7,415.92,1383.0,2.27,Positive,6.1005,Low-Risk,Long-Hold
+Brian Smith,AAPL,Long,2025-05-13,2025-05-21,8,573,207.0754,205.12,-1120.44,-0.94,Negative,11.8654,High-Risk,Long-Hold
+Brian Smith,CVX,Long,2025-05-09,2025-05-21,12,312,138.48,136.64,-574.08,-1.33,Negative,4.3206,Low-Risk,Long-Hold
+Brian Smith,SMMT,Long,2025-05-13,2025-05-21,8,2653,24.3479,24.13,-578.13,-0.9,Negative,6.4595,Low-Risk,Long-Hold
+Brian Smith,CVNA,Long,2025-05-13,2025-05-21,8,549,290.4448,294.17,2045.13,1.28,Positive,15.9454,High-Risk,Long-Hold
+Brian Smith,TSLA,Short,2025-06-06,2025-06-11,5,284,298.84,334.4,-10099.04,-11.9,Negative,8.4871,High-Risk,Short-Hold
+Brian Smith,SMMT,Long,2025-05-13,2025-07-02,50,1347,24.34,21.24,-4175.7,-12.74,Negative,3.2786,Low-Risk,Long-Hold
+Brian Smith,MSTR,Long,2025-05-13,2025-07-02,50,100,406.7,383.35,-2335.0,-5.74,Negative,4.067,Low-Risk,Long-Hold
+Brian Smith,TGLS,Long,2025-05-21,2025-07-02,42,519,84.36,76.02,-4328.46,-9.89,Negative,4.3783,Low-Risk,Long-Hold
+Brian Smith,DG,Long,2025-07-02,2025-07-09,7,1379,115.58,112.5,-4247.32,-2.66,Negative,15.9385,High-Risk,Long-Hold
+Brian Smith,AAPL,Long,2025-05-13,2025-07-18,66,127,211.4,210.24,-147.32,-0.55,Negative,2.6848,Low-Risk,Long-Hold
+Brian Smith,ADBE,Long,2025-05-21,2025-07-18,58,78,414.86,365.15,-3877.38,-11.98,Negative,3.2359,Low-Risk,Long-Hold
+Brian Smith,ALB,Long,2025-07-16,2025-07-18,2,6374,70.8204,78.67,50033.24,11.08,Positive,45.1409,High-Risk,Short-Hold
+Brian Smith,BITX,Long,2025-07-09,2025-07-18,9,10658,55.71,64.91,98053.6,16.51,Positive,59.3757,High-Risk,Long-Hold
+Brian Smith,CCL,Long,2025-05-21,2025-07-18,58,1028,22.49,29.49,7196.0,31.12,Positive,2.312,Low-Risk,Long-Hold
+Brian Smith,CVNA,Long,2025-05-13,2025-07-18,66,192,293.79,340.82,9029.76,16.01,Positive,5.6408,Low-Risk,Long-Hold
+Brian Smith,COST,Long,2025-05-09,2025-07-18,70,50,1004.61,956.7,-2395.5,-4.77,Negative,5.023,Low-Risk,Long-Hold
+Brian Smith,CVX,Long,2025-05-09,2025-07-18,70,188,138.48,152.12,2564.32,9.85,Positive,2.6034,Low-Risk,Long-Hold
+Brian Smith,DLTR,Long,2025-07-02,2025-07-18,16,1633,100.91,109.39,13847.84,8.4,Positive,16.4786,High-Risk,Long-Hold
+Brian Smith,JPM,Long,2025-05-13,2025-07-18,66,190,262.6589,290.24,5240.4,10.5,Positive,4.9905,Low-Risk,Long-Hold
+Brian Smith,KO,Long,2025-05-13,2025-07-18,66,723,69.0477,70.66,1165.72,2.34,Positive,4.9921,Low-Risk,Long-Hold
+Brian Smith,TSM,Long,2025-06-04,2025-07-18,44,428,201.38,241.73,17269.8,20.04,Positive,8.6191,High-Risk,Long-Hold
+Brian Smith,RCL,Long,2025-05-21,2025-07-18,58,101,244.5,350.9,10746.4,43.52,Positive,2.4695,Low-Risk,Long-Hold
+Brian Smith,WMT,Long,2025-05-09,2025-07-18,70,516,96.86,95.13,-892.68,-1.79,Negative,4.998,Low-Risk,Long-Hold
+Brian Smith,MAR,Long,2025-05-13,2025-07-18,66,103,274.76,271.89,-295.61,-1.04,Negative,2.83,Low-Risk,Long-Hold
+Brian Smith,LLY,Long,2025-05-21,2025-07-18,58,27,747.07,769.83,614.52,3.05,Positive,2.0171,Low-Risk,Long-Hold
+Brian Smith,META,Long,2025-05-21,2025-07-18,58,100,631.5,694.4,6290.0,9.96,Positive,6.315,Low-Risk,Long-Hold
+Brian Smith,NCLH,Long,2025-07-02,2025-07-18,16,4240,21.04,23.64,11024.0,12.36,Positive,8.921,High-Risk,Long-Hold
+Brian Smith,PEP,Long,2025-05-13,2025-07-18,66,381,130.9112,145.07,5394.49,10.82,Positive,4.9877,Low-Risk,Long-Hold
+Brian Smith,NVDA,Long,2025-05-13,2025-07-18,66,2400,124.7608,172.76,115198.0,38.47,Positive,29.9426,High-Risk,Long-Hold
+Brian Smith,SSD,Long,2025-05-21,2025-07-18,58,106,158.48,158.8,33.92,0.2,Positive,1.6799,Low-Risk,Long-Hold
+Seventh Sense Investing,COOK,Long,2025-05-09,2025-05-16,7,70652,1.43,1.46,2119.56,2.1,Positive,10.1032,High-Risk,Long-Hold
 Seventh Sense Investing,CRCT,Long,2025-05-09,2025-05-23,14,3987,6.31,6.01,-1196.1,-4.75,Negative,2.5158,Low-Risk,Long-Hold
 Seventh Sense Investing,AMC,Long,2025-05-09,2025-05-23,14,17618,2.74,3.16,7399.56,15.33,Positive,4.8273,Low-Risk,Long-Hold
 Seventh Sense Investing,LCID,Long,2025-05-09,2025-05-23,14,13285,2.33,2.61,3719.8,12.02,Positive,3.0954,Low-Risk,Long-Hold
-Seventh Sense Investing,EQT,Long,2025-05-16,2025-05-23,7,500,55.99,55.3,-345.0,-1.23,Negative,2.7995,Low-Risk,Short-Hold
+Seventh Sense Investing,EQT,Long,2025-05-16,2025-05-23,7,500,55.99,55.3,-345.0,-1.23,Negative,2.7995,Low-Risk,Long-Hold
 Seventh Sense Investing,KO,Long,2025-05-09,2025-05-23,14,400,71.05,71.51,184.0,0.65,Positive,2.842,Low-Risk,Long-Hold
 Seventh Sense Investing,HD,Long,2025-05-09,2025-05-30,21,90,363.5,366.36,257.4,0.79,Positive,3.2715,Low-Risk,Long-Hold
 Seventh Sense Investing,DIA,Long,2025-05-09,2025-05-30,21,324,414.44,422.16,2501.28,1.86,Positive,13.4279,High-Risk,Long-Hold
@@ -443,7 +1084,7 @@ Seventh Sense Investing,AZN,Long,2025-05-09,2025-07-18,70,624,67.96,69.59,1017.1
 Seventh Sense Investing,WELL,Long,2025-06-06,2025-07-18,42,415,153.31,157.34,1672.45,2.63,Positive,6.3624,Low-Risk,Long-Hold
 Seventh Sense Investing,RIO,Long,2025-06-27,2025-07-18,21,1699,58.49,60.45,3330.04,3.35,Positive,9.9375,High-Risk,Long-Hold
 Seventh Sense Investing,LMT,Long,2025-05-16,2025-07-18,63,29,465.8,469.5,107.3,0.79,Positive,1.3508,Low-Risk,Long-Hold
-Seventh Sense Investing,KKR,Long,2025-07-11,2025-07-18,7,199,141.0,148.08,1408.92,5.02,Positive,2.8059,Low-Risk,Short-Hold
+Seventh Sense Investing,KKR,Long,2025-07-11,2025-07-18,7,199,141.0,148.08,1408.92,5.02,Positive,2.8059,Low-Risk,Long-Hold
 Seventh Sense Investing,POOL,Long,2025-05-09,2025-07-18,70,102,301.83,301.82,-1.02,-0.0,Negative,3.0787,Low-Risk,Long-Hold
 Seventh Sense Investing,CWH,Long,2025-06-03,2025-07-18,45,3414,16.2807,17.5,4162.74,7.49,Positive,5.5582,Low-Risk,Long-Hold
 Seventh Sense Investing,ADBE,Long,2025-05-09,2025-07-18,70,323,386.18,367.56,-6014.26,-4.82,Negative,12.4736,High-Risk,Long-Hold
@@ -453,7 +1094,7 @@ Seventh Sense Investing,BRK.B,Long,2025-05-16,2025-07-18,63,49,508.49,474.53,-16
 Seventh Sense Investing,LOW,Long,2025-05-09,2025-07-18,70,140,224.29,219.67,-646.8,-2.06,Negative,3.1401,Low-Risk,Long-Hold
 Seventh Sense Investing,WMT,Long,2025-05-09,2025-07-18,70,90,96.86,95.06,-162.0,-1.86,Negative,0.8717,Low-Risk,Long-Hold
 Seventh Sense Investing,HD,Long,2025-05-09,2025-07-18,70,199,363.5,359.49,-797.99,-1.1,Negative,7.2336,Low-Risk,Long-Hold
-Seventh Sense Investing,LYFT,Long,2025-07-11,2025-07-18,7,694,15.18,14.78,-277.6,-2.64,Negative,1.0535,Low-Risk,Short-Hold
+Seventh Sense Investing,LYFT,Long,2025-07-11,2025-07-18,7,694,15.18,14.78,-277.6,-2.64,Negative,1.0535,Low-Risk,Long-Hold
 Seventh Sense Investing,KMI,Long,2025-05-09,2025-07-18,70,733,27.32,27.68,263.88,1.32,Positive,2.0026,Low-Risk,Long-Hold
 Seventh Sense Investing,WPC,Short,2025-06-27,2025-07-18,21,239,62.88,61.34,368.06,2.45,Positive,1.5028,Low-Risk,Long-Hold
 Seventh Sense Investing,OPEN,Long,2025-07-21,2025-07-21,0,453948,3.0279,4.21,536601.6,39.04,Positive,137.4519,High-Risk,Short-Hold
@@ -466,52 +1107,99 @@ Seventh Sense Investing,OPEN,Long,2025-07-21,2025-07-21,0,20000,3.87,3.92,1000.0
 Seventh Sense Investing,OPEN,Short,2025-07-21,2025-07-21,0,30000,3.97,3.92,1500.0,1.26,Positive,11.91,High-Risk,Short-Hold
 Seventh Sense Investing,OPEN,Long,2025-07-21,2025-07-21,0,10000,3.91,3.95,400.0,1.02,Positive,3.91,Low-Risk,Short-Hold
 Seventh Sense Investing,OPEN,Long,2025-07-21,2025-07-21,0,20000,3.88,3.98,2000.0,2.58,Positive,7.76,Low-Risk,Short-Hold
-Seventh Sense Investing,BABA,Long,2025-05-30,2025-07-24,55,1,115.07,121.3,6.23,5.41,Positive,0.0115,Low-Risk,Long-Hold
-Seventh Sense Investing,SBUX,Long,2025-05-09,2025-07-24,76,960,82.41,93.65,10790.4,13.64,Positive,7.9114,Low-Risk,Long-Hold
-Seventh Sense Investing,WEN,Long,2025-05-09,2025-07-24,76,1,12.08,10.91,-1.17,-9.69,Negative,0.0012,Low-Risk,Long-Hold
-Seventh Sense Investing,ADBE,Long,2025-05-09,2025-07-24,76,1,386.18,372.59,-13.59,-3.52,Negative,0.0386,Low-Risk,Long-Hold
-Seventh Sense Investing,KMI,Long,2025-05-09,2025-07-24,76,1,27.32,27.12,-0.2,-0.73,Negative,0.0027,Low-Risk,Long-Hold
-Seventh Sense Investing,PG,Long,2025-05-09,2025-07-24,76,1,158.06,158.68,0.62,0.39,Positive,0.0158,Low-Risk,Long-Hold
-Seventh Sense Investing,GOOGL,Long,2025-05-09,2025-07-24,76,661,154.09,192.91,25660.02,25.19,Positive,10.1853,High-Risk,Long-Hold
-Seventh Sense Investing,MAR,Long,2025-05-09,2025-07-24,76,1,259.11,273.74,14.63,5.65,Positive,0.0259,Low-Risk,Long-Hold
-Seventh Sense Investing,AZN,Long,2025-05-09,2025-07-24,76,1,67.96,73.75,5.79,8.52,Positive,0.0068,Low-Risk,Long-Hold
-Seventh Sense Investing,ABNB,Long,2025-05-09,2025-07-24,76,599,124.96,141.26,9763.7,13.04,Positive,7.4851,Low-Risk,Long-Hold
-Seventh Sense Investing,ZION,Long,2025-05-09,2025-07-24,76,809,46.89,55.78,7192.01,18.96,Positive,3.7934,Low-Risk,Long-Hold
-Seventh Sense Investing,SKYW,Long,2025-05-09,2025-07-24,76,419,100.75,109.78,3783.57,8.96,Positive,4.2214,Low-Risk,Long-Hold
-Seventh Sense Investing,NVDA,Long,2025-05-09,2025-07-24,76,510,117.35,173.39,28580.4,47.75,Positive,5.9848,Low-Risk,Long-Hold
-Seventh Sense Investing,NVDA,Long,2025-06-03,2025-07-24,51,2900,141.33,173.39,92974.0,22.68,Positive,40.9857,High-Risk,Long-Hold
-Seventh Sense Investing,NVDA,Long,2025-07-11,2025-07-24,13,300,163.72,173.39,2901.0,5.91,Positive,4.9116,Low-Risk,Long-Hold
-Seventh Sense Investing,CWH,Long,2025-06-03,2025-07-24,51,1,16.65,18.23,1.58,9.49,Positive,0.0017,Low-Risk,Long-Hold
-Seventh Sense Investing,TGT,Long,2025-05-09,2025-07-24,76,1,97.49,106.05,8.56,8.78,Positive,0.0097,Low-Risk,Long-Hold
-Seventh Sense Investing,POOL,Long,2025-05-09,2025-07-24,76,1,301.83,320.0,18.17,6.02,Positive,0.0302,Low-Risk,Long-Hold
-Seventh Sense Investing,LOW,Long,2025-05-09,2025-07-24,76,1,224.29,227.1,2.81,1.25,Positive,0.0224,Low-Risk,Long-Hold
-Seventh Sense Investing,COST,Long,2025-05-09,2025-07-24,76,1,1004.61,937.49,-67.12,-6.68,Negative,0.1005,Low-Risk,Long-Hold
-Seventh Sense Investing,HD,Long,2025-05-09,2025-07-24,76,1,363.5,373.78,10.28,2.83,Positive,0.0364,Low-Risk,Long-Hold
-Seventh Sense Investing,WMT,Long,2025-05-09,2025-07-24,76,1,96.86,96.67,-0.19,-0.2,Negative,0.0097,Low-Risk,Long-Hold
-Seventh Sense Investing,EXR,Long,2025-05-09,2025-07-24,76,1,147.95,150.72,2.77,1.87,Positive,0.0148,Low-Risk,Long-Hold
-Seventh Sense Investing,AMZN,Long,2025-05-16,2025-07-24,69,1,206.85,232.34,25.49,12.32,Positive,0.0207,Low-Risk,Long-Hold
-Seventh Sense Investing,LMT,Long,2025-05-16,2025-07-24,69,1,465.8,424.12,-41.68,-8.95,Negative,0.0466,Low-Risk,Long-Hold
-Seventh Sense Investing,CRWD,Long,2025-05-16,2025-07-24,69,1,435.03,463.05,28.02,6.44,Positive,0.0435,Low-Risk,Long-Hold
-Seventh Sense Investing,SPOT,Long,2025-05-16,2025-07-24,69,75,648.33,689.39,3079.5,6.33,Positive,4.8625,Low-Risk,Long-Hold
-Seventh Sense Investing,BRK.B,Long,2025-05-16,2025-07-24,69,1,508.49,484.62,-23.87,-4.69,Negative,0.0508,Low-Risk,Long-Hold
-Seventh Sense Investing,DDOG,Long,2025-05-16,2025-07-24,69,300,117.74,145.87,8439.0,23.89,Positive,3.5322,Low-Risk,Long-Hold
-Seventh Sense Investing,LLY,Long,2025-05-23,2025-07-24,62,1,711.45,807.37,95.92,13.48,Positive,0.0711,Low-Risk,Long-Hold
-Seventh Sense Investing,SN,Long,2025-05-30,2025-07-24,55,529,93.38,118.24,13150.94,26.62,Positive,4.9398,Low-Risk,Long-Hold
-Seventh Sense Investing,GAMR,Long,2025-05-30,2025-07-24,55,646,76.12,86.98,7015.56,14.27,Positive,4.9174,Low-Risk,Long-Hold
-Seventh Sense Investing,JPM,Long,2025-06-03,2025-07-24,51,1,263.57,298.89,35.32,13.4,Positive,0.0264,Low-Risk,Long-Hold
-Seventh Sense Investing,WELL,Long,2025-06-06,2025-07-24,48,1,153.31,161.98,8.67,5.66,Positive,0.0153,Low-Risk,Long-Hold
-Seventh Sense Investing,RIO,Long,2025-06-27,2025-07-24,27,1,58.49,63.96,5.47,9.35,Positive,0.0058,Low-Risk,Long-Hold
-Seventh Sense Investing,DHR,Long,2025-06-27,2025-07-24,27,1,203.5,203.7,0.2,0.1,Positive,0.0204,Low-Risk,Long-Hold
-Seventh Sense Investing,LYFT,Long,2025-07-11,2025-07-24,13,1,15.18,14.5,-0.68,-4.48,Negative,0.0015,Low-Risk,Long-Hold
-Seventh Sense Investing,KKR,Long,2025-07-11,2025-07-24,13,1,141.0,151.01,10.01,7.1,Positive,0.0141,Low-Risk,Long-Hold
-Seventh Sense Investing,SMH,Long,2025-07-21,2025-07-24,3,1406,291.69,287.8,-5469.34,-1.33,Negative,41.0116,High-Risk,Short-Hold
-Seventh Sense Investing,XLK,Long,2025-07-21,2025-07-24,3,1551,262.09,261.54,-853.05,-0.21,Negative,40.6502,High-Risk,Short-Hold
-Seventh Sense Investing,XLC,Long,2025-07-21,2025-07-24,3,3701,107.57,109.12,5736.55,1.44,Positive,39.8117,High-Risk,Short-Hold
-Seventh Sense Investing,GLD,Long,2025-07-21,2025-07-24,3,1274,312.9,310.21,-3427.06,-0.86,Negative,39.8635,High-Risk,Short-Hold
-AI Overlord,BRK.B,Long,2025-05-08,2025-05-15,7,14,520.98,502.38,-260.4,-3.57,Negative,0.7294,Low-Risk,Short-Hold
-AI Overlord,PG,Long,2025-05-08,2025-05-15,7,47,158.4,159.59,55.93,0.75,Positive,0.7445,Low-Risk,Short-Hold
-AI Overlord,JNJ,Long,2025-05-08,2025-05-15,7,95,155.79,148.22,-719.15,-4.86,Negative,1.48,Low-Risk,Short-Hold
-AI Overlord,UNH,Long,2025-05-08,2025-05-15,7,75,390.0,274.55,-8658.75,-29.6,Negative,2.925,Low-Risk,Short-Hold
+Seventh Sense Investing,SBUX,Long,2025-05-09,2025-07-24,82,960,82.41,93.65,10790.4,13.64,Positive,7.9114,Low-Risk,Long-Hold
+Seventh Sense Investing,GOOGL,Long,2025-05-09,2025-07-24,82,661,154.09,192.91,25660.02,25.19,Positive,10.1853,High-Risk,Long-Hold
+Seventh Sense Investing,ABNB,Long,2025-05-09,2025-07-24,82,599,124.96,141.26,9763.7,13.04,Positive,7.4851,Low-Risk,Long-Hold
+Seventh Sense Investing,ZION,Long,2025-05-09,2025-07-24,82,809,46.89,55.78,7192.01,18.96,Positive,3.7934,Low-Risk,Long-Hold
+Seventh Sense Investing,SKYW,Long,2025-05-09,2025-07-24,82,419,100.75,109.78,3783.57,8.96,Positive,4.2214,Low-Risk,Long-Hold
+Seventh Sense Investing,NVDA,Long,2025-05-09,2025-07-24,82,510,117.35,173.39,28580.4,47.75,Positive,5.9848,Low-Risk,Long-Hold
+Seventh Sense Investing,NVDA,Long,2025-06-03,2025-07-24,57,2900,141.33,173.39,92974.0,22.68,Positive,40.9857,High-Risk,Long-Hold
+Seventh Sense Investing,NVDA,Long,2025-07-11,2025-07-24,19,300,163.72,173.39,2901.0,5.91,Positive,4.9116,Low-Risk,Long-Hold
+Seventh Sense Investing,COST,Long,2025-05-09,2025-07-24,82,1,1004.61,937.49,-67.12,-6.68,Negative,0.1005,Low-Risk,Long-Hold
+Seventh Sense Investing,SPOT,Long,2025-05-16,2025-07-24,75,75,648.33,689.39,3079.5,6.33,Positive,4.8625,Low-Risk,Long-Hold
+Seventh Sense Investing,DDOG,Long,2025-05-16,2025-07-24,75,300,117.74,145.87,8439.0,23.89,Positive,3.5322,Low-Risk,Long-Hold
+Seventh Sense Investing,SN,Long,2025-05-30,2025-07-24,61,529,93.38,118.24,13150.94,26.62,Positive,4.9398,Low-Risk,Long-Hold
+Seventh Sense Investing,GAMR,Long,2025-05-30,2025-07-24,61,646,76.12,86.98,7015.56,14.27,Positive,4.9174,Low-Risk,Long-Hold
+Seventh Sense Investing,SMH,Long,2025-07-21,2025-07-24,9,1406,291.69,287.8,-5469.34,-1.33,Negative,41.0116,High-Risk,Long-Hold
+Seventh Sense Investing,XLK,Long,2025-07-21,2025-07-24,9,1551,262.09,261.54,-853.05,-0.21,Negative,40.6502,High-Risk,Long-Hold
+Seventh Sense Investing,XLC,Long,2025-07-21,2025-07-24,9,3701,107.57,109.12,5736.55,1.44,Positive,39.8117,High-Risk,Long-Hold
+Seventh Sense Investing,GLD,Long,2025-07-21,2025-07-24,9,1274,312.9,310.21,-3427.06,-0.86,Negative,39.8635,High-Risk,Long-Hold
+Franklin Acosta,GIS,Long,2025-05-13,2025-05-22,9,1000,54.74,53.27,-1470.0,-2.69,Negative,5.474,Low-Risk,Long-Hold
+Franklin Acosta,BABA,Long,2025-05-15,2025-05-29,14,25,126.21,118.99,-180.5,-5.72,Negative,0.3155,Low-Risk,Long-Hold
+Franklin Acosta,DKNG,Long,2025-05-13,2025-05-30,17,313,37.9,35.28,-820.06,-6.91,Negative,1.1863,Low-Risk,Long-Hold
+Franklin Acosta,TSLA,Long,2025-05-13,2025-07-17,65,100,325.065,323.11,-195.5,-0.6,Negative,3.2507,Low-Risk,Long-Hold
+Franklin Acosta,UNH,Short,2025-05-15,2025-07-23,69,50,274.55,287.3,-637.5,-4.64,Negative,1.3727,Low-Risk,Long-Hold
+Franklin Acosta,HIMS,Long,2025-05-15,2025-07-23,69,500,60.42,49.9,-5260.0,-17.41,Negative,3.021,Low-Risk,Long-Hold
+Franklin Acosta,GIS,Long,2025-05-13,2025-07-23,71,100,54.74,51.1,-364.0,-6.65,Negative,0.5474,Low-Risk,Long-Hold
+Franklin Acosta,ADBE,Long,2025-05-30,2025-07-23,54,50,414.14,373.49,-2032.5,-9.82,Negative,2.0707,Low-Risk,Long-Hold
+Franklin Acosta,ADBE,Long,2025-05-30,2025-07-23,54,134,414.14,373.49,-5447.1,-9.82,Negative,5.5495,Low-Risk,Long-Hold
+Franklin Acosta,TOYOF,Long,2025-05-15,2025-07-23,69,1000,20.38,17.8,-2580.0,-12.66,Negative,2.038,Low-Risk,Long-Hold
+Franklin Acosta,COST,Long,2025-05-13,2025-07-24,78,49,1013.72,933.8,-3916.08,-7.88,Negative,4.9672,Low-Risk,Long-Hold
+Franklin Acosta,AAPL,Long,2025-05-13,2025-07-24,78,970,210.43,213.76,3230.1,1.58,Positive,20.4117,High-Risk,Long-Hold
+Franklin Acosta,AAPL,Long,2025-07-17,2025-07-24,13,134,210.63,213.76,419.42,1.49,Positive,2.8224,Low-Risk,Long-Hold
+Franklin Acosta,NFLX,Long,2025-05-13,2025-07-24,78,40,1114.46,1180.76,2652.0,5.95,Positive,4.4578,Low-Risk,Long-Hold
+Franklin Acosta,AMZN,Long,2025-05-13,2025-07-24,78,761,211.08,232.23,16095.15,10.02,Positive,16.0632,High-Risk,Long-Hold
+Franklin Acosta,DIS,Long,2025-05-13,2025-07-24,78,500,110.25,121.95,5850.0,10.61,Positive,5.5125,Low-Risk,Long-Hold
+Franklin Acosta,DIS,Long,2025-07-17,2025-07-24,13,143,119.75,121.95,314.6,1.84,Positive,1.7124,Low-Risk,Long-Hold
+Franklin Acosta,WMT,Long,2025-05-13,2025-07-24,78,150,96.53,96.6,10.5,0.07,Positive,1.4479,Low-Risk,Long-Hold
+Franklin Acosta,NVDA,Long,2025-05-13,2025-07-24,78,500,124.97,173.74,24385.0,39.03,Positive,6.2485,Low-Risk,Long-Hold
+Franklin Acosta,NVDA,Long,2025-05-15,2025-07-24,76,1000,134.3,173.74,39440.0,29.37,Positive,13.43,High-Risk,Long-Hold
+Franklin Acosta,MDLZ,Long,2025-05-13,2025-07-24,78,1436,65.38,70.18,6892.8,7.34,Positive,9.3886,High-Risk,Long-Hold
+Franklin Acosta,TSLA,Long,2025-05-15,2025-07-24,76,325,340.35,305.3,-11391.25,-10.3,Negative,11.0614,High-Risk,Long-Hold
+Franklin Acosta,GIS,Long,2025-05-13,2025-07-24,78,900,54.74,50.95,-3411.0,-6.92,Negative,4.9266,Low-Risk,Long-Hold
+Franklin Acosta,DKNG,Long,2025-05-13,2025-07-24,78,1687,37.9,44.04,10358.18,16.2,Positive,6.3937,Low-Risk,Long-Hold
+Franklin Acosta,BABA,Long,2025-05-15,2025-07-24,76,25,126.21,121.15,-126.5,-4.01,Negative,0.3155,Low-Risk,Long-Hold
+Franklin Acosta,TEM,Long,2025-05-15,2025-07-24,76,700,64.66,63.34,-924.0,-2.04,Negative,4.5262,Low-Risk,Long-Hold
+Franklin Acosta,KO,Long,2025-05-15,2025-07-24,76,1000,69.68,69.1,-580.0,-0.83,Negative,6.968,Low-Risk,Long-Hold
+Franklin Acosta,PG,Long,2025-05-15,2025-07-24,76,50,159.59,158.81,-39.0,-0.49,Negative,0.798,Low-Risk,Long-Hold
+Franklin Acosta,PG,Long,2025-05-29,2025-07-24,62,20,166.74,158.81,-158.6,-4.76,Negative,0.3335,Low-Risk,Long-Hold
+Franklin Acosta,AMD,Long,2025-05-15,2025-07-24,76,50,117.02,162.12,2255.0,38.54,Positive,0.5851,Low-Risk,Long-Hold
+Franklin Acosta,V,Long,2025-05-15,2025-07-24,76,30,356.89,353.97,-87.6,-0.82,Negative,1.0707,Low-Risk,Long-Hold
+Franklin Acosta,MCD,Long,2025-05-15,2025-07-24,76,50,307.8,294.48,-666.0,-4.33,Negative,1.539,Low-Risk,Long-Hold
+Franklin Acosta,JPM,Long,2025-05-15,2025-07-24,76,25,266.97,296.55,739.5,11.08,Positive,0.6674,Low-Risk,Long-Hold
+Franklin Acosta,XOM,Long,2025-05-15,2025-07-24,76,80,106.3,110.79,359.2,4.22,Positive,0.8504,Low-Risk,Long-Hold
+Franklin Acosta,INTC,Long,2025-05-15,2025-07-24,76,1000,21.19,22.63,1440.0,6.8,Positive,2.119,Low-Risk,Long-Hold
+Franklin Acosta,ESLT,Long,2025-05-15,2025-07-24,76,50,384.01,450.29,3314.0,17.26,Positive,1.92,Low-Risk,Long-Hold
+Franklin Acosta,ESLT,Long,2025-05-29,2025-07-24,62,20,399.06,450.29,1024.6,12.84,Positive,0.7981,Low-Risk,Long-Hold
+Franklin Acosta,NEE,Long,2025-05-15,2025-07-24,76,250,73.06,71.97,-272.5,-1.49,Negative,1.8265,Low-Risk,Long-Hold
+Franklin Acosta,BRK.B,Long,2025-05-15,2025-07-24,76,50,502.38,480.6,-1089.0,-4.34,Negative,2.5119,Low-Risk,Long-Hold
+Franklin Acosta,BRK.B,Long,2025-05-29,2025-07-24,62,10,503.5,480.6,-229.0,-4.55,Negative,0.5035,Low-Risk,Long-Hold
+Franklin Acosta,CAT,Long,2025-05-15,2025-07-24,76,75,350.13,429.52,5954.25,22.67,Positive,2.626,Low-Risk,Long-Hold
+Franklin Acosta,GS,Long,2025-05-15,2025-07-24,76,50,610.5,719.18,5434.0,17.8,Positive,3.0525,Low-Risk,Long-Hold
+Franklin Acosta,PEP,Long,2025-05-15,2025-07-24,76,250,129.19,144.51,3830.0,11.86,Positive,3.2298,Low-Risk,Long-Hold
+Franklin Acosta,META,Long,2025-05-15,2025-07-24,76,100,654.3,714.8,6050.0,9.25,Positive,6.543,Low-Risk,Long-Hold
+Franklin Acosta,META,Long,2025-05-22,2025-07-24,69,50,634.03,714.8,4038.5,12.74,Positive,3.1702,Low-Risk,Long-Hold
+Franklin Acosta,NKE,Long,2025-05-15,2025-07-24,76,100,60.64,75.42,1478.0,24.37,Positive,0.6064,Low-Risk,Long-Hold
+Franklin Acosta,MSFT,Long,2025-05-15,2025-07-24,76,100,450.77,510.88,6011.0,13.33,Positive,4.5077,Low-Risk,Long-Hold
+Franklin Acosta,SOFI,Long,2025-05-15,2025-07-24,76,1000,13.85,21.51,7660.0,55.31,Positive,1.385,Low-Risk,Long-Hold
+Franklin Acosta,PLTR,Long,2025-05-15,2025-07-24,76,100,128.43,154.86,2643.0,20.58,Positive,1.2843,Low-Risk,Long-Hold
+Franklin Acosta,PLTR,Long,2025-07-23,2025-07-24,7,50,149.9,154.86,248.0,3.31,Positive,0.7495,Low-Risk,Long-Hold
+Franklin Acosta,JNJ,Long,2025-05-15,2025-07-24,76,100,148.22,169.56,2134.0,14.4,Positive,1.4822,Low-Risk,Long-Hold
+Franklin Acosta,UPS,Long,2025-05-15,2025-07-24,76,100,99.9,102.53,263.0,2.63,Positive,0.999,Low-Risk,Long-Hold
+Franklin Acosta,NSANY,Long,2025-05-15,2025-07-24,76,3000,4.71,4.56,-450.0,-3.18,Negative,1.413,Low-Risk,Long-Hold
+Franklin Acosta,LLYVA,Long,2025-05-22,2025-07-24,69,1000,75.35,82.48,7130.0,9.46,Positive,7.535,Low-Risk,Long-Hold
+Franklin Acosta,DASH,Long,2025-05-29,2025-07-24,62,100,205.07,243.69,3862.0,18.83,Positive,2.0507,Low-Risk,Long-Hold
+Franklin Acosta,ELF,Long,2025-05-30,2025-07-24,61,160,112.0,119.22,1155.2,6.45,Positive,1.792,Low-Risk,Long-Hold
+Franklin Acosta,ELF,Long,2025-07-23,2025-07-24,7,149,117.5,119.22,256.28,1.46,Positive,1.7507,Low-Risk,Long-Hold
+Franklin Acosta,ELF,Long,2025-07-23,2025-07-24,7,253,117.5,119.22,435.16,1.46,Positive,2.9728,Low-Risk,Long-Hold
+Franklin Acosta,ANGO,Long,2025-06-11,2025-07-24,49,91,11.18,9.11,-188.37,-18.52,Negative,0.1017,Low-Risk,Long-Hold
+Franklin Acosta,TXN,Long,2025-06-11,2025-07-24,49,10,203.31,185.69,-176.2,-8.67,Negative,0.2033,Low-Risk,Long-Hold
+Franklin Acosta,ABBV,Long,2025-06-11,2025-07-24,49,10,189.34,190.83,14.9,0.79,Positive,0.1893,Low-Risk,Long-Hold
+Franklin Acosta,MU,Long,2025-06-25,2025-07-24,35,20,126.61,111.73,-297.6,-11.75,Negative,0.2532,Low-Risk,Long-Hold
+Franklin Acosta,FSLR,Long,2025-06-25,2025-07-24,35,20,152.0,180.72,574.4,18.89,Positive,0.304,Low-Risk,Long-Hold
+Franklin Acosta,QCOM,Long,2025-06-25,2025-07-24,35,20,155.99,158.84,57.0,1.83,Positive,0.312,Low-Risk,Long-Hold
+Franklin Acosta,AVGO,Long,2025-06-25,2025-07-24,35,20,266.05,288.71,453.2,8.52,Positive,0.5321,Low-Risk,Long-Hold
+Franklin Acosta,AXP,Long,2025-06-25,2025-07-24,35,15,308.5,308.25,-3.75,-0.08,Negative,0.4627,Low-Risk,Long-Hold
+Franklin Acosta,ELFTX,Long,2025-07-17,2025-07-24,13,14316,9.54,9.53,-143.16,-0.1,Negative,13.6575,High-Risk,Long-Hold
+Franklin Acosta,SXTC,Long,2025-07-23,2025-07-24,7,8544,1.76,1.61,-1281.6,-8.52,Negative,1.5037,Low-Risk,Long-Hold
+Franklin Acosta,SXTC,Long,2025-07-23,2025-07-24,7,4723,1.76,1.61,-708.45,-8.52,Negative,0.8312,Low-Risk,Long-Hold
+Franklin Acosta,BP,Long,2025-07-23,2025-07-24,7,458,32.85,32.13,-329.76,-2.19,Negative,1.5045,Low-Risk,Long-Hold
+Franklin Acosta,TGT,Long,2025-07-23,2025-07-24,7,301,107.48,105.82,-499.66,-1.54,Negative,3.2351,Low-Risk,Long-Hold
+Franklin Acosta,TYIDY,Short,2025-07-17,2025-07-24,13,147,112.4,110.31,307.23,1.86,Positive,1.6523,Low-Risk,Long-Hold
+AI Overlord,BRK.B,Long,2025-05-08,2025-05-15,7,14,520.98,502.38,-260.4,-3.57,Negative,0.7294,Low-Risk,Long-Hold
+AI Overlord,PG,Long,2025-05-08,2025-05-15,7,47,158.4,159.59,55.93,0.75,Positive,0.7445,Low-Risk,Long-Hold
+AI Overlord,JNJ,Long,2025-05-08,2025-05-15,7,95,155.79,148.22,-719.15,-4.86,Negative,1.48,Low-Risk,Long-Hold
+AI Overlord,UNH,Long,2025-05-08,2025-05-15,7,75,390.0,274.55,-8658.75,-29.6,Negative,2.925,Low-Risk,Long-Hold
 AI Overlord,LCID,Short,2025-05-15,2025-05-15,0,2000,2.72,2.73,-20.0,-0.37,Negative,0.544,Low-Risk,Short-Hold
 AI Overlord,ARKK,Short,2025-05-15,2025-05-15,0,20,56.88,56.85,0.6,0.05,Positive,0.1138,Low-Risk,Short-Hold
 AI Overlord,HD,Long,2025-05-08,2025-05-21,13,41,363.64,377.75,578.51,3.88,Positive,1.4909,Low-Risk,Long-Hold
@@ -521,8 +1209,8 @@ AI Overlord,JNJ,Long,2025-05-08,2025-05-28,20,48,155.79,153.28,-120.48,-1.61,Neg
 AI Overlord,HD,Long,2025-05-08,2025-05-28,20,41,363.64,368.75,209.51,1.41,Positive,1.4909,Low-Risk,Long-Hold
 AI Overlord,PLTR,Long,2025-05-21,2025-05-29,8,105,125.16,125.41,26.25,0.2,Positive,1.3142,Low-Risk,Long-Hold
 AI Overlord,SMCI,Long,2025-05-15,2025-05-29,14,200,44.03,43.17,-172.0,-1.95,Negative,0.8806,Low-Risk,Long-Hold
-AI Overlord,ARM,Long,2025-05-29,2025-06-04,6,185,138.17,129.49,-1605.8,-6.28,Negative,2.5561,Low-Risk,Short-Hold
-AI Overlord,ARKK,Short,2025-05-29,2025-06-04,6,1750,57.63,58.15,-910.0,-0.9,Negative,10.0853,High-Risk,Short-Hold
+AI Overlord,ARM,Long,2025-05-29,2025-06-04,6,185,138.17,129.49,-1605.8,-6.28,Negative,2.5561,Low-Risk,Long-Hold
+AI Overlord,ARKK,Short,2025-05-29,2025-06-04,6,1750,57.63,58.15,-910.0,-0.9,Negative,10.0853,High-Risk,Long-Hold
 AI Overlord,SYM,Long,2025-05-29,2025-06-12,14,900,30.1975,28.8,-1257.75,-4.63,Negative,2.7178,Low-Risk,Long-Hold
 AI Overlord,BRK.B,Long,2025-05-08,2025-06-12,35,43,520.98,486.24,-1493.82,-6.67,Negative,2.2402,Low-Risk,Long-Hold
 AI Overlord,LULU,Long,2025-05-21,2025-06-12,22,60,322.11,251.67,-4226.4,-21.87,Negative,1.9327,Low-Risk,Long-Hold
@@ -530,7 +1218,7 @@ AI Overlord,QUBT,Short,2025-06-12,2025-06-12,0,5000,19.69,18.0,8450.0,8.58,Posit
 AI Overlord,CRWV,Long,2025-05-21,2025-06-18,28,100,89.46,173.33,8387.0,93.75,Positive,0.8946,Low-Risk,Long-Hold
 AI Overlord,QUBT,Short,2025-06-16,2025-06-18,2,1500,20.01,20.3,-435.0,-1.45,Negative,3.0015,Low-Risk,Short-Hold
 AI Overlord,PG,Long,2025-05-08,2025-06-18,41,141,158.4,158.55,21.15,0.09,Positive,2.2334,Low-Risk,Long-Hold
-AI Overlord,ARM,Long,2025-06-12,2025-06-18,6,40,137.43,145.0,302.8,5.51,Positive,0.5497,Low-Risk,Short-Hold
+AI Overlord,ARM,Long,2025-06-12,2025-06-18,6,40,137.43,145.0,302.8,5.51,Positive,0.5497,Low-Risk,Long-Hold
 AI Overlord,DIS,Long,2025-05-08,2025-06-18,41,293,103.97,117.92,4087.35,13.42,Positive,3.0463,Low-Risk,Long-Hold
 AI Overlord,QUBT,Short,2025-06-16,2025-06-18,2,9500,20.01,19.32,6555.0,3.45,Positive,19.0095,High-Risk,Short-Hold
 AI Overlord,V,Long,2025-05-08,2025-06-25,48,85,351.97,350.82,-97.75,-0.33,Negative,2.9917,Low-Risk,Long-Hold
@@ -541,6 +1229,72 @@ AI Overlord,TSLA,Long,2025-05-08,2025-07-10,63,85,279.63,300.13,1742.5,7.33,Posi
 AI Overlord,COST,Long,2025-05-15,2025-07-10,56,11,992.65,987.0,-62.15,-0.57,Negative,1.0919,Low-Risk,Long-Hold
 AI Overlord,AMDL,Long,2025-06-25,2025-07-10,15,3105,8.43,8.6,527.85,2.02,Positive,2.6175,Low-Risk,Long-Hold
 AI Overlord,JPM,Long,2025-05-08,2025-07-10,63,70,251.69,283.08,2197.3,12.47,Positive,1.7618,Low-Risk,Long-Hold
+AI Overlord,AAPL,Long,2025-05-08,2025-07-24,83,305,197.74,213.76,4886.1,8.1,Positive,6.0311,Low-Risk,Long-Hold
+AI Overlord,JPM,Long,2025-05-08,2025-07-24,83,50,251.69,296.55,2243.0,17.82,Positive,1.2585,Low-Risk,Long-Hold
+AI Overlord,MSFT,Long,2025-05-08,2025-07-24,83,138,437.93,510.88,10067.1,16.66,Positive,6.0434,Low-Risk,Long-Hold
+AI Overlord,MSFT,Long,2025-05-15,2025-07-24,76,65,450.77,510.88,3907.15,13.33,Positive,2.93,Low-Risk,Long-Hold
+AI Overlord,META,Long,2025-05-08,2025-07-24,83,50,606.29,714.8,5425.5,17.9,Positive,3.0314,Low-Risk,Long-Hold
+AI Overlord,META,Long,2025-05-15,2025-07-24,76,45,654.3,714.8,2722.5,9.25,Positive,2.9443,Low-Risk,Long-Hold
+AI Overlord,META,Long,2025-05-15,2025-07-24,76,46,654.3,714.8,2783.0,9.25,Positive,3.0098,Low-Risk,Long-Hold
+AI Overlord,META,Long,2025-06-12,2025-07-24,48,71,692.89,714.8,1555.61,3.16,Positive,4.9195,Low-Risk,Long-Hold
+AI Overlord,NVDA,Long,2025-05-08,2025-07-24,83,255,118.48,173.74,14091.3,46.64,Positive,3.0212,Low-Risk,Long-Hold
+AI Overlord,NVDA,Long,2025-05-15,2025-07-24,76,370,134.3,173.74,14592.8,29.37,Positive,4.9691,Low-Risk,Long-Hold
+AI Overlord,NVDA,Long,2025-05-28,2025-07-24,63,37,136.05,173.74,1394.53,27.7,Positive,0.5034,Low-Risk,Long-Hold
+AI Overlord,NVDA,Long,2025-06-12,2025-07-24,48,700,141.98,173.74,22232.0,22.37,Positive,9.9386,High-Risk,Long-Hold
+AI Overlord,TSLA,Long,2025-05-08,2025-07-24,83,23,279.63,305.3,590.41,9.18,Positive,0.6431,Low-Risk,Long-Hold
+AI Overlord,TSLA,Long,2025-05-15,2025-07-24,76,145,340.35,305.3,-5082.25,-10.3,Negative,4.9351,Low-Risk,Long-Hold
+AI Overlord,TSLA,Long,2025-06-25,2025-07-24,35,90,342.7,305.3,-3366.0,-10.91,Negative,3.0843,Low-Risk,Long-Hold
+AI Overlord,AMZN,Long,2025-05-08,2025-07-24,83,158,191.48,232.23,6438.5,21.28,Positive,3.0254,Low-Risk,Long-Hold
+AI Overlord,GOOGL,Long,2025-05-08,2025-07-24,83,198,154.74,192.17,7411.14,24.19,Positive,3.0639,Low-Risk,Long-Hold
+AI Overlord,CRWD,Long,2025-05-15,2025-07-24,76,45,423.01,462.03,1755.9,9.22,Positive,1.9035,Low-Risk,Long-Hold
+AI Overlord,CRWD,Long,2025-06-12,2025-07-24,48,105,474.02,462.03,-1258.95,-2.53,Negative,4.9772,Low-Risk,Long-Hold
+AI Overlord,CRWD,Long,2025-07-10,2025-07-24,20,40,513.0,462.03,-2038.8,-9.94,Negative,2.052,Low-Risk,Long-Hold
+AI Overlord,COST,Long,2025-05-15,2025-07-24,76,10,992.65,933.8,-588.5,-5.93,Negative,0.9926,Low-Risk,Long-Hold
+AI Overlord,SMCI,Long,2025-05-15,2025-07-24,76,355,44.03,52.52,3013.95,19.28,Positive,1.5631,Low-Risk,Long-Hold
+AI Overlord,SMCI,Long,2025-05-28,2025-07-24,63,175,41.85,52.52,1867.25,25.5,Positive,0.7324,Low-Risk,Long-Hold
+AI Overlord,SMCI,Long,2025-06-25,2025-07-24,35,700,43.33,52.52,6433.0,21.21,Positive,3.0331,Low-Risk,Long-Hold
+AI Overlord,LLY,Long,2025-05-15,2025-07-24,76,42,726.38,805.43,3320.1,10.88,Positive,3.0508,Low-Risk,Long-Hold
+AI Overlord,AVGO,Long,2025-05-15,2025-07-24,76,110,230.12,288.71,6444.9,25.46,Positive,2.5313,Low-Risk,Long-Hold
+AI Overlord,AVGO,Long,2025-06-12,2025-07-24,48,198,250.17,288.71,7630.92,15.41,Positive,4.9534,Low-Risk,Long-Hold
+AI Overlord,CRWV,Long,2025-05-28,2025-07-24,63,120,123.75,120.0,-450.0,-3.03,Negative,1.485,Low-Risk,Long-Hold
+AI Overlord,CRWV,Long,2025-05-29,2025-07-24,62,135,123.57,120.0,-481.95,-2.89,Negative,1.6682,Low-Risk,Long-Hold
+AI Overlord,CRWV,Long,2025-06-04,2025-07-24,56,400,156.0,120.0,-14400.0,-23.08,Negative,6.24,Low-Risk,Long-Hold
+AI Overlord,NOW,Long,2025-05-21,2025-07-24,70,19,1008.79,996.18,-239.59,-1.25,Negative,1.9167,Low-Risk,Long-Hold
+AI Overlord,SNOW,Long,2025-05-21,2025-07-24,70,110,180.81,215.02,3763.1,18.92,Positive,1.9889,Low-Risk,Long-Hold
+AI Overlord,SNOW,Long,2025-06-12,2025-07-24,48,355,207.01,215.02,2843.55,3.87,Positive,7.3489,Low-Risk,Long-Hold
+AI Overlord,SNOW,Long,2025-06-25,2025-07-24,35,180,223.2,215.02,-1472.4,-3.66,Negative,4.0176,Low-Risk,Long-Hold
+AI Overlord,SHOP,Long,2025-05-21,2025-07-24,70,190,105.0,122.08,3245.2,16.27,Positive,1.995,Low-Risk,Long-Hold
+AI Overlord,SHOP,Long,2025-05-28,2025-07-24,63,70,106.7,122.08,1076.6,14.41,Positive,0.7469,Low-Risk,Long-Hold
+AI Overlord,SHOP,Long,2025-06-04,2025-07-24,56,285,105.44,122.08,4742.4,15.78,Positive,3.005,Low-Risk,Long-Hold
+AI Overlord,SHOP,Long,2025-06-25,2025-07-24,35,350,114.28,122.08,2730.0,6.83,Positive,3.9998,Low-Risk,Long-Hold
+AI Overlord,PLTR,Long,2025-05-21,2025-07-24,70,45,125.16,154.86,1336.5,23.73,Positive,0.5632,Low-Risk,Long-Hold
+AI Overlord,PLTR,Long,2025-05-28,2025-07-24,63,60,124.23,154.86,1837.8,24.66,Positive,0.7454,Low-Risk,Long-Hold
+AI Overlord,PLTR,Long,2025-06-04,2025-07-24,56,340,132.8,154.86,7500.4,16.61,Positive,4.5152,Low-Risk,Long-Hold
+AI Overlord,PLTR,Long,2025-06-25,2025-07-24,35,280,144.52,154.86,2895.2,7.15,Positive,4.0466,Low-Risk,Long-Hold
+AI Overlord,PLTR,Long,2025-07-10,2025-07-24,20,180,143.38,154.86,2066.4,8.01,Positive,2.5808,Low-Risk,Long-Hold
+AI Overlord,AMD,Long,2025-05-21,2025-07-24,70,177,113.85,162.12,8543.79,42.4,Positive,2.0151,Low-Risk,Long-Hold
+AI Overlord,AMD,Long,2025-06-25,2025-07-24,35,360,140.96,162.12,7617.6,15.01,Positive,5.0746,Low-Risk,Long-Hold
+AI Overlord,ASML,Long,2025-05-21,2025-07-24,70,26,749.01,725.08,-622.18,-3.19,Negative,1.9474,Low-Risk,Long-Hold
+AI Overlord,COIN,Long,2025-05-21,2025-07-24,70,76,260.2,396.7,10374.0,52.46,Positive,1.9775,Low-Risk,Long-Hold
+AI Overlord,COIN,Long,2025-06-04,2025-07-24,56,195,257.53,396.7,27138.15,54.04,Positive,5.0218,Low-Risk,Long-Hold
+AI Overlord,COIN,Long,2025-06-25,2025-07-24,35,145,360.6,396.7,5234.5,10.01,Positive,5.2287,Low-Risk,Long-Hold
+AI Overlord,COIN,Long,2025-07-10,2025-07-24,20,80,372.41,396.7,1943.2,6.52,Positive,2.9793,Low-Risk,Long-Hold
+AI Overlord,DDOG,Long,2025-05-21,2025-07-24,70,172,114.93,146.56,5440.36,27.52,Positive,1.9768,Low-Risk,Long-Hold
+AI Overlord,DDOG,Long,2025-05-28,2025-07-24,63,62,117.61,146.56,1794.9,24.62,Positive,0.7292,Low-Risk,Long-Hold
+AI Overlord,DDOG,Long,2025-06-04,2025-07-24,56,340,119.0,146.56,9370.4,23.16,Positive,4.046,Low-Risk,Long-Hold
+AI Overlord,PATH,Long,2025-05-29,2025-07-24,62,850,13.16,12.32,-714.0,-6.38,Negative,1.1186,Low-Risk,Long-Hold
+AI Overlord,ARM,Long,2025-06-12,2025-07-24,48,680,137.43,159.99,15340.8,16.42,Positive,9.3452,High-Risk,Long-Hold
+AI Overlord,SYM,Long,2025-06-04,2025-07-24,56,790,29.68,53.42,18754.6,79.99,Positive,2.3447,Low-Risk,Long-Hold
+AI Overlord,SYM,Long,2025-07-10,2025-07-24,20,650,47.84,53.42,3627.0,11.66,Positive,3.1096,Low-Risk,Long-Hold
+AI Overlord,CELH,Long,2025-06-04,2025-07-24,56,1025,39.64,46.31,6836.75,16.83,Positive,4.0631,Low-Risk,Long-Hold
+AI Overlord,CELH,Long,2025-06-12,2025-07-24,48,600,41.92,46.31,2634.0,10.47,Positive,2.5152,Low-Risk,Long-Hold
+AI Overlord,CELH,Long,2025-06-25,2025-07-24,35,1100,45.46,46.31,935.0,1.87,Positive,5.0006,Low-Risk,Long-Hold
+AI Overlord,CELH,Long,2025-07-10,2025-07-24,20,480,46.39,46.31,-38.4,-0.17,Negative,2.2267,Low-Risk,Long-Hold
+AI Overlord,TOST,Long,2025-06-04,2025-07-24,56,610,41.68,48.07,3897.9,15.33,Positive,2.5425,Low-Risk,Long-Hold
+AI Overlord,UPST,Long,2025-06-12,2025-07-24,48,425,56.94,82.7,10948.0,45.24,Positive,2.42,Low-Risk,Long-Hold
+AI Overlord,UPST,Long,2025-07-10,2025-07-24,20,380,78.53,82.7,1584.6,5.31,Positive,2.9841,Low-Risk,Long-Hold
+AI Overlord,TSM,Long,2025-06-12,2025-07-24,48,235,212.81,241.6,6765.65,13.53,Positive,5.001,Low-Risk,Long-Hold
+AI Overlord,UPST,Short,2025-06-25,2025-07-24,35,230,65.8,82.7,-3887.0,-25.68,Negative,1.5134,Low-Risk,Long-Hold
 Wolverine Wagers,PLTR,Long,2025-05-16,2025-06-06,21,694,128.9384,123.75,-3600.72,-4.02,Negative,8.9483,High-Risk,Long-Hold
 Wolverine Wagers,UNH,Long,2025-05-09,2025-06-06,28,10,385.54,297.47,-880.7,-22.84,Negative,0.3855,Low-Risk,Long-Hold
 Wolverine Wagers,SE,Long,2025-05-16,2025-06-06,21,559,164.896,171.82,3870.49,4.2,Positive,9.2177,High-Risk,Long-Hold
@@ -548,78 +1302,151 @@ Wolverine Wagers,SOFI,Long,2025-05-09,2025-06-06,28,100,13.3,14.0,70.0,5.26,Posi
 Wolverine Wagers,RIVN,Long,2025-05-16,2025-06-06,21,6564,15.3797,13.89,-9778.67,-9.69,Negative,10.0953,High-Risk,Long-Hold
 Wolverine Wagers,HOOD,Long,2025-05-16,2025-06-06,21,1516,60.8703,74.6,20814.24,22.56,Positive,9.2279,High-Risk,Long-Hold
 Wolverine Wagers,XYZ,Long,2025-05-16,2025-06-06,21,2015,57.1832,64.53,14803.83,12.85,Positive,11.5224,High-Risk,Long-Hold
-Wolverine Wagers,BA,Long,2025-05-30,2025-06-06,7,55,204.3591,210.48,336.65,3.0,Positive,1.124,Low-Risk,Short-Hold
-Wolverine Wagers,QDEL,Long,2025-05-30,2025-06-06,7,6023,30.65,30.21,-2650.12,-1.44,Negative,18.4605,High-Risk,Short-Hold
+Wolverine Wagers,BA,Long,2025-05-30,2025-06-06,7,55,204.3591,210.48,336.65,3.0,Positive,1.124,Low-Risk,Long-Hold
+Wolverine Wagers,QDEL,Long,2025-05-30,2025-06-06,7,6023,30.65,30.21,-2650.12,-1.44,Negative,18.4605,High-Risk,Long-Hold
 Wolverine Wagers,COIN,Long,2025-05-16,2025-06-06,21,373,248.4887,250.51,753.93,0.81,Positive,9.2686,High-Risk,Long-Hold
 Wolverine Wagers,MCHP,Long,2025-05-30,2025-06-13,14,4000,58.24,66.54,33200.0,14.25,Positive,23.296,High-Risk,Long-Hold
 Wolverine Wagers,AVGO,Long,2025-05-16,2025-07-18,63,175,231.0023,287.32,9855.6,24.38,Positive,4.0425,Low-Risk,Long-Hold
 Wolverine Wagers,NVDA,Long,2025-05-16,2025-07-18,63,290,135.5983,173.73,11058.2,28.12,Positive,3.9323,Low-Risk,Long-Hold
 Wolverine Wagers,XOM,Long,2025-06-13,2025-07-18,35,723,112.35,110.89,-1055.58,-1.3,Negative,8.1229,High-Risk,Long-Hold
 Wolverine Wagers,AMD,Long,2025-05-16,2025-07-18,63,313,116.9498,159.61,13352.64,36.48,Positive,3.6605,Low-Risk,Long-Hold
-Wolverine Wagers,WMT,Long,2025-05-09,2025-07-24,76,10,96.86,96.62,-2.4,-0.25,Negative,0.0969,Low-Risk,Long-Hold
-Wolverine Wagers,HD,Long,2025-05-09,2025-07-24,76,10,363.5,374.22,107.2,2.95,Positive,0.3635,Low-Risk,Long-Hold
-Wolverine Wagers,LVS,Long,2025-05-09,2025-07-24,76,10,39.86,50.97,111.1,27.87,Positive,0.0399,Low-Risk,Long-Hold
-Wolverine Wagers,LVS,Long,2025-06-13,2025-07-24,41,400,41.2,50.97,3908.0,23.71,Positive,1.648,Low-Risk,Long-Hold
-Wolverine Wagers,AMD,Long,2025-05-16,2025-07-24,69,574,117.93,162.63,25657.8,37.9,Positive,6.7692,Low-Risk,Long-Hold
-Wolverine Wagers,PLTR,Long,2025-06-27,2025-07-24,27,626,144.87,155.08,6391.46,7.05,Positive,9.0689,High-Risk,Long-Hold
-Wolverine Wagers,CRM,Long,2025-05-09,2025-07-24,76,10,281.5,266.53,-149.7,-5.32,Negative,0.2815,Low-Risk,Long-Hold
-Wolverine Wagers,QCOM,Long,2025-05-09,2025-07-24,76,10,145.71,158.34,126.3,8.67,Positive,0.1457,Low-Risk,Long-Hold
-Wolverine Wagers,MRK,Long,2025-05-09,2025-07-24,76,10,77.98,84.01,60.3,7.73,Positive,0.078,Low-Risk,Long-Hold
-Wolverine Wagers,IAU,Long,2025-05-09,2025-07-24,76,1000,62.99,63.48,490.0,0.78,Positive,6.299,Low-Risk,Long-Hold
-Wolverine Wagers,IAU,Long,2025-06-27,2025-07-24,27,2000,61.39,63.48,4180.0,3.4,Positive,12.278,High-Risk,Long-Hold
-Wolverine Wagers,MA,Long,2025-05-09,2025-07-24,76,10,568.5,566.31,-21.9,-0.39,Negative,0.5685,Low-Risk,Long-Hold
-Wolverine Wagers,V,Long,2025-05-09,2025-07-24,76,10,351.94,356.44,45.0,1.28,Positive,0.3519,Low-Risk,Long-Hold
-Wolverine Wagers,OXY,Long,2025-05-09,2025-07-24,76,10,41.95,44.35,24.0,5.72,Positive,0.042,Low-Risk,Long-Hold
-Wolverine Wagers,JPM,Long,2025-05-09,2025-07-24,76,10,254.51,298.81,443.0,17.41,Positive,0.2545,Low-Risk,Long-Hold
-Wolverine Wagers,NVDA,Long,2025-05-16,2025-07-24,69,481,136.25,173.7,18013.45,27.49,Positive,6.5536,Low-Risk,Long-Hold
-Wolverine Wagers,GOOGL,Long,2025-05-09,2025-07-24,76,10,154.09,193.38,392.9,25.5,Positive,0.1541,Low-Risk,Long-Hold
-Wolverine Wagers,GOOGL,Long,2025-05-30,2025-07-24,55,257,171.36,193.38,5659.14,12.85,Positive,4.404,Low-Risk,Long-Hold
-Wolverine Wagers,MSFT,Long,2025-05-09,2025-07-24,76,10,440.28,512.31,720.3,16.36,Positive,0.4403,Low-Risk,Long-Hold
-Wolverine Wagers,AMZN,Long,2025-05-09,2025-07-24,76,10,193.38,231.98,386.0,19.96,Positive,0.1934,Low-Risk,Long-Hold
-Wolverine Wagers,BAC,Long,2025-05-09,2025-07-24,76,10,41.88,48.9,70.2,16.76,Positive,0.0419,Low-Risk,Long-Hold
-Wolverine Wagers,AVGO,Long,2025-05-16,2025-07-24,69,234,232.32,289.7,13426.92,24.7,Positive,5.4363,Low-Risk,Long-Hold
-Wolverine Wagers,JNJ,Long,2025-05-09,2025-07-24,76,10,155.43,169.22,137.9,8.87,Positive,0.1554,Low-Risk,Long-Hold
-Wolverine Wagers,PG,Long,2025-05-09,2025-07-24,76,10,158.06,158.51,4.5,0.28,Positive,0.1581,Low-Risk,Long-Hold
-Wolverine Wagers,PEP,Long,2025-05-09,2025-07-24,76,10,131.35,144.42,130.7,9.95,Positive,0.1313,Low-Risk,Long-Hold
-Wolverine Wagers,META,Long,2025-05-09,2025-07-24,76,10,603.55,716.57,1130.2,18.73,Positive,0.6036,Low-Risk,Long-Hold
-Wolverine Wagers,META,Long,2025-05-30,2025-07-24,55,14,642.5,716.57,1036.98,11.53,Positive,0.8995,Low-Risk,Long-Hold
-Wolverine Wagers,ABT,Long,2025-05-09,2025-07-24,76,10,133.86,125.18,-86.8,-6.48,Negative,0.1339,Low-Risk,Long-Hold
-Wolverine Wagers,ABT,Long,2025-06-13,2025-07-24,41,110,136.64,125.18,-1260.6,-8.39,Negative,1.503,Low-Risk,Long-Hold
-Wolverine Wagers,KO,Long,2025-05-09,2025-07-24,76,10,71.05,69.13,-19.2,-2.7,Negative,0.0711,Low-Risk,Long-Hold
-Wolverine Wagers,AXON,Long,2025-05-09,2025-07-24,76,10,684.01,710.07,260.6,3.81,Positive,0.684,Low-Risk,Long-Hold
-Wolverine Wagers,AXON,Long,2025-05-30,2025-07-24,55,5,731.01,710.07,-104.7,-2.86,Negative,0.3655,Low-Risk,Long-Hold
-Wolverine Wagers,COST,Long,2025-05-09,2025-07-24,76,10,1004.61,935.89,-687.2,-6.84,Negative,1.0046,Low-Risk,Long-Hold
-Wolverine Wagers,NFLX,Long,2025-05-09,2025-07-24,76,10,1147.36,1171.28,239.2,2.08,Positive,1.1474,Low-Risk,Long-Hold
-Wolverine Wagers,ORCL,Long,2025-05-09,2025-07-24,76,10,150.3,243.34,930.4,61.9,Positive,0.1503,Low-Risk,Long-Hold
-Wolverine Wagers,ORCL,Long,2025-05-30,2025-07-24,55,102,163.43,243.34,8150.82,48.9,Positive,1.667,Low-Risk,Long-Hold
-Wolverine Wagers,ORCL,Long,2025-07-11,2025-07-24,13,145,231.39,243.34,1732.75,5.16,Positive,3.3552,Low-Risk,Long-Hold
-Wolverine Wagers,SCI,Long,2025-05-09,2025-07-24,76,10,75.97,75.96,-0.1,-0.01,Negative,0.076,Low-Risk,Long-Hold
-Wolverine Wagers,SCI,Long,2025-06-13,2025-07-24,41,200,79.48,75.96,-704.0,-4.43,Negative,1.5896,Low-Risk,Long-Hold
-Wolverine Wagers,CMI,Long,2025-05-09,2025-07-24,76,10,307.36,363.79,564.3,18.36,Positive,0.3074,Low-Risk,Long-Hold
-Wolverine Wagers,CMI,Long,2025-05-16,2025-07-24,69,293,332.94,363.79,9039.05,9.27,Positive,9.7551,High-Risk,Long-Hold
-Wolverine Wagers,KOS,Long,2025-05-30,2025-07-24,55,8,1.72,2.26,4.32,31.4,Positive,0.0014,Low-Risk,Long-Hold
-Wolverine Wagers,MCHP,Long,2025-05-30,2025-07-24,55,266,58.24,68.25,2662.66,17.19,Positive,1.5492,Low-Risk,Long-Hold
-Wolverine Wagers,FCNCA,Long,2025-05-30,2025-07-24,55,61,1838.98,2144.37,18628.79,16.61,Positive,11.2178,High-Risk,Long-Hold
-Wolverine Wagers,WBS,Long,2025-05-30,2025-07-24,55,873,51.83,61.11,8101.44,17.9,Positive,4.5248,Low-Risk,Long-Hold
-Wolverine Wagers,RNR,Long,2025-05-30,2025-07-24,55,369,245.33,238.45,-2538.72,-2.8,Negative,9.0527,High-Risk,Long-Hold
-Wolverine Wagers,WAL,Long,2025-05-30,2025-07-24,55,759,72.37,83.61,8531.16,15.53,Positive,5.4929,Low-Risk,Long-Hold
-Wolverine Wagers,OTIS,Long,2025-06-06,2025-07-24,48,50,95.67,89.81,-293.0,-6.13,Negative,0.4784,Low-Risk,Long-Hold
-Wolverine Wagers,CAH,Long,2025-06-06,2025-07-24,48,50,153.63,158.45,241.0,3.14,Positive,0.7681,Low-Risk,Long-Hold
-Wolverine Wagers,AAPL,Long,2025-06-06,2025-07-24,48,50,203.0,215.04,602.0,5.93,Positive,1.015,Low-Risk,Long-Hold
-Wolverine Wagers,MCK,Long,2025-06-06,2025-07-24,48,45,702.74,708.88,276.3,0.87,Positive,3.1623,Low-Risk,Long-Hold
-Wolverine Wagers,XOM,Long,2025-06-13,2025-07-24,41,277,112.35,110.65,-470.9,-1.51,Negative,3.1121,Low-Risk,Long-Hold
-Wolverine Wagers,XOM,Long,2025-06-27,2025-07-24,27,1000,110.17,110.65,480.0,0.44,Positive,11.017,High-Risk,Long-Hold
-Wolverine Wagers,BRK.B,Long,2025-06-13,2025-07-24,41,220,486.31,482.01,-946.0,-0.88,Negative,10.6988,High-Risk,Long-Hold
-Wolverine Wagers,TSLA,Long,2025-06-13,2025-07-24,41,150,319.12,303.18,-2391.0,-4.99,Negative,4.7868,Low-Risk,Long-Hold
-Wolverine Wagers,RTX,Long,2025-06-13,2025-07-24,41,200,144.93,155.78,2170.0,7.49,Positive,2.8986,Low-Risk,Long-Hold
-Wolverine Wagers,LHX,Long,2025-06-13,2025-07-24,41,150,255.74,276.11,3055.5,7.97,Positive,3.8361,Low-Risk,Long-Hold
-Wolverine Wagers,LMT,Long,2025-06-13,2025-07-24,41,50,485.57,424.27,-3065.0,-12.62,Negative,2.4279,Low-Risk,Long-Hold
-Wolverine Wagers,MS,Long,2025-06-27,2025-07-24,27,662,140.32,143.64,2197.84,2.37,Positive,9.2892,High-Risk,Long-Hold
-Wolverine Wagers,GS,Long,2025-06-27,2025-07-24,27,103,690.06,723.95,3490.67,4.91,Positive,7.1076,Low-Risk,Long-Hold
-Wolverine Wagers,BTC,Long,2025-06-27,2025-07-24,27,2938,47.32,52.96,16570.32,11.92,Positive,13.9026,High-Risk,Long-Hold
-Wolverine Wagers,BEP,Long,2025-07-11,2025-07-24,13,3514,25.45,27.36,6711.74,7.5,Positive,8.9431,High-Risk,Long-Hold
-Wolverine Wagers,ET,Long,2025-07-11,2025-07-24,13,3432,17.43,17.57,480.48,0.8,Positive,5.982,Low-Risk,Long-Hold
-Wolverine Wagers,HBM,Long,2025-07-24,2025-07-24,0,4927,10.14,10.12,-98.54,-0.2,Negative,4.996,Low-Risk,Short-Hold
-Wolverine Wagers,CVS,Long,2025-07-24,2025-07-24,0,816,61.31,59.77,-1256.64,-2.51,Negative,5.0029,Low-Risk,Short-Hold
-Wolverine Wagers,UHS,Long,2025-07-24,2025-07-24,0,309,162.46,157.64,-1489.38,-2.97,Negative,5.02,Low-Risk,Short-Hold
-Wolverine Wagers,ASB,Long,2025-07-24,2025-07-24,0,1945,25.69,25.71,38.9,0.08,Positive,4.9967,Low-Risk,Short-Hold
+Wolverine Wagers,HD,Long,2025-05-09,2025-07-24,82,10,363.5,374.22,107.2,2.95,Positive,0.3635,Low-Risk,Long-Hold
+Wolverine Wagers,LVS,Long,2025-06-13,2025-07-24,47,400,41.2,50.97,3908.0,23.71,Positive,1.648,Low-Risk,Long-Hold
+Wolverine Wagers,AMD,Long,2025-05-16,2025-07-24,75,574,117.93,162.63,25657.8,37.9,Positive,6.7692,Low-Risk,Long-Hold
+Wolverine Wagers,PLTR,Long,2025-06-27,2025-07-24,33,626,144.87,155.08,6391.46,7.05,Positive,9.0689,High-Risk,Long-Hold
+Wolverine Wagers,CRM,Long,2025-05-09,2025-07-24,82,10,281.5,266.53,-149.7,-5.32,Negative,0.2815,Low-Risk,Long-Hold
+Wolverine Wagers,QCOM,Long,2025-05-09,2025-07-24,82,10,145.71,158.34,126.3,8.67,Positive,0.1457,Low-Risk,Long-Hold
+Wolverine Wagers,IAU,Long,2025-05-09,2025-07-24,82,1000,62.99,63.48,490.0,0.78,Positive,6.299,Low-Risk,Long-Hold
+Wolverine Wagers,IAU,Long,2025-06-27,2025-07-24,33,2000,61.39,63.48,4180.0,3.4,Positive,12.278,High-Risk,Long-Hold
+Wolverine Wagers,MA,Long,2025-05-09,2025-07-24,82,10,568.5,566.31,-21.9,-0.39,Negative,0.5685,Low-Risk,Long-Hold
+Wolverine Wagers,V,Long,2025-05-09,2025-07-24,82,10,351.94,356.44,45.0,1.28,Positive,0.3519,Low-Risk,Long-Hold
+Wolverine Wagers,JPM,Long,2025-05-09,2025-07-24,82,10,254.51,298.81,443.0,17.41,Positive,0.2545,Low-Risk,Long-Hold
+Wolverine Wagers,NVDA,Long,2025-05-16,2025-07-24,75,481,136.25,173.7,18013.45,27.49,Positive,6.5536,Low-Risk,Long-Hold
+Wolverine Wagers,GOOGL,Long,2025-05-09,2025-07-24,82,10,154.09,193.38,392.9,25.5,Positive,0.1541,Low-Risk,Long-Hold
+Wolverine Wagers,GOOGL,Long,2025-05-30,2025-07-24,61,257,171.36,193.38,5659.14,12.85,Positive,4.404,Low-Risk,Long-Hold
+Wolverine Wagers,MSFT,Long,2025-05-09,2025-07-24,82,10,440.28,512.31,720.3,16.36,Positive,0.4403,Low-Risk,Long-Hold
+Wolverine Wagers,AMZN,Long,2025-05-09,2025-07-24,82,10,193.38,231.98,386.0,19.96,Positive,0.1934,Low-Risk,Long-Hold
+Wolverine Wagers,AVGO,Long,2025-05-16,2025-07-24,75,234,232.32,289.7,13426.92,24.7,Positive,5.4363,Low-Risk,Long-Hold
+Wolverine Wagers,JNJ,Long,2025-05-09,2025-07-24,82,10,155.43,169.22,137.9,8.87,Positive,0.1554,Low-Risk,Long-Hold
+Wolverine Wagers,PG,Long,2025-05-09,2025-07-24,82,10,158.06,158.51,4.5,0.28,Positive,0.1581,Low-Risk,Long-Hold
+Wolverine Wagers,PEP,Long,2025-05-09,2025-07-24,82,10,131.35,144.42,130.7,9.95,Positive,0.1313,Low-Risk,Long-Hold
+Wolverine Wagers,META,Long,2025-05-09,2025-07-24,82,10,603.55,716.57,1130.2,18.73,Positive,0.6036,Low-Risk,Long-Hold
+Wolverine Wagers,META,Long,2025-05-30,2025-07-24,61,14,642.5,716.57,1036.98,11.53,Positive,0.8995,Low-Risk,Long-Hold
+Wolverine Wagers,ABT,Long,2025-05-09,2025-07-24,82,10,133.86,125.18,-86.8,-6.48,Negative,0.1339,Low-Risk,Long-Hold
+Wolverine Wagers,ABT,Long,2025-06-13,2025-07-24,47,110,136.64,125.18,-1260.6,-8.39,Negative,1.503,Low-Risk,Long-Hold
+Wolverine Wagers,AXON,Long,2025-05-09,2025-07-24,82,10,684.01,710.07,260.6,3.81,Positive,0.684,Low-Risk,Long-Hold
+Wolverine Wagers,AXON,Long,2025-05-30,2025-07-24,61,5,731.01,710.07,-104.7,-2.86,Negative,0.3655,Low-Risk,Long-Hold
+Wolverine Wagers,COST,Long,2025-05-09,2025-07-24,82,10,1004.61,935.89,-687.2,-6.84,Negative,1.0046,Low-Risk,Long-Hold
+Wolverine Wagers,NFLX,Long,2025-05-09,2025-07-24,82,10,1147.36,1171.28,239.2,2.08,Positive,1.1474,Low-Risk,Long-Hold
+Wolverine Wagers,ORCL,Long,2025-05-09,2025-07-24,82,10,150.3,243.34,930.4,61.9,Positive,0.1503,Low-Risk,Long-Hold
+Wolverine Wagers,ORCL,Long,2025-05-30,2025-07-24,61,102,163.43,243.34,8150.82,48.9,Positive,1.667,Low-Risk,Long-Hold
+Wolverine Wagers,ORCL,Long,2025-07-11,2025-07-24,19,145,231.39,243.34,1732.75,5.16,Positive,3.3552,Low-Risk,Long-Hold
+Wolverine Wagers,SCI,Long,2025-06-13,2025-07-24,47,200,79.48,75.96,-704.0,-4.43,Negative,1.5896,Low-Risk,Long-Hold
+Wolverine Wagers,CMI,Long,2025-05-09,2025-07-24,82,10,307.36,363.79,564.3,18.36,Positive,0.3074,Low-Risk,Long-Hold
+Wolverine Wagers,CMI,Long,2025-05-16,2025-07-24,75,293,332.94,363.79,9039.05,9.27,Positive,9.7551,High-Risk,Long-Hold
+Wolverine Wagers,MCHP,Long,2025-05-30,2025-07-24,61,266,58.24,68.25,2662.66,17.19,Positive,1.5492,Low-Risk,Long-Hold
+Wolverine Wagers,FCNCA,Long,2025-05-30,2025-07-24,61,61,1838.98,2144.37,18628.79,16.61,Positive,11.2178,High-Risk,Long-Hold
+Wolverine Wagers,WBS,Long,2025-05-30,2025-07-24,61,873,51.83,61.11,8101.44,17.9,Positive,4.5248,Low-Risk,Long-Hold
+Wolverine Wagers,RNR,Long,2025-05-30,2025-07-24,61,369,245.33,238.45,-2538.72,-2.8,Negative,9.0527,High-Risk,Long-Hold
+Wolverine Wagers,WAL,Long,2025-05-30,2025-07-24,61,759,72.37,83.61,8531.16,15.53,Positive,5.4929,Low-Risk,Long-Hold
+Wolverine Wagers,OTIS,Long,2025-06-06,2025-07-24,54,50,95.67,89.81,-293.0,-6.13,Negative,0.4784,Low-Risk,Long-Hold
+Wolverine Wagers,CAH,Long,2025-06-06,2025-07-24,54,50,153.63,158.45,241.0,3.14,Positive,0.7681,Low-Risk,Long-Hold
+Wolverine Wagers,AAPL,Long,2025-06-06,2025-07-24,54,50,203.0,215.04,602.0,5.93,Positive,1.015,Low-Risk,Long-Hold
+Wolverine Wagers,MCK,Long,2025-06-06,2025-07-24,54,45,702.74,708.88,276.3,0.87,Positive,3.1623,Low-Risk,Long-Hold
+Wolverine Wagers,XOM,Long,2025-06-13,2025-07-24,47,277,112.35,110.65,-470.9,-1.51,Negative,3.1121,Low-Risk,Long-Hold
+Wolverine Wagers,XOM,Long,2025-06-27,2025-07-24,33,1000,110.17,110.65,480.0,0.44,Positive,11.017,High-Risk,Long-Hold
+Wolverine Wagers,BRK.B,Long,2025-06-13,2025-07-24,47,220,486.31,482.01,-946.0,-0.88,Negative,10.6988,High-Risk,Long-Hold
+Wolverine Wagers,TSLA,Long,2025-06-13,2025-07-24,47,150,319.12,303.18,-2391.0,-4.99,Negative,4.7868,Low-Risk,Long-Hold
+Wolverine Wagers,RTX,Long,2025-06-13,2025-07-24,47,200,144.93,155.78,2170.0,7.49,Positive,2.8986,Low-Risk,Long-Hold
+Wolverine Wagers,LHX,Long,2025-06-13,2025-07-24,47,150,255.74,276.11,3055.5,7.97,Positive,3.8361,Low-Risk,Long-Hold
+Wolverine Wagers,LMT,Long,2025-06-13,2025-07-24,47,50,485.57,424.27,-3065.0,-12.62,Negative,2.4279,Low-Risk,Long-Hold
+Wolverine Wagers,MS,Long,2025-06-27,2025-07-24,33,662,140.32,143.64,2197.84,2.37,Positive,9.2892,High-Risk,Long-Hold
+Wolverine Wagers,GS,Long,2025-06-27,2025-07-24,33,103,690.06,723.95,3490.67,4.91,Positive,7.1076,Low-Risk,Long-Hold
+Wolverine Wagers,BTC,Long,2025-06-27,2025-07-24,33,2938,47.32,52.96,16570.32,11.92,Positive,13.9026,High-Risk,Long-Hold
+Wolverine Wagers,BEP,Long,2025-07-11,2025-07-24,19,3514,25.45,27.36,6711.74,7.5,Positive,8.9431,High-Risk,Long-Hold
+Wolverine Wagers,ET,Long,2025-07-11,2025-07-24,19,3432,17.43,17.57,480.48,0.8,Positive,5.982,Low-Risk,Long-Hold
+Wolverine Wagers,HBM,Long,2025-07-24,2025-07-24,6,4927,10.14,10.12,-98.54,-0.2,Negative,4.996,Low-Risk,Long-Hold
+Wolverine Wagers,CVS,Long,2025-07-24,2025-07-24,6,816,61.31,59.77,-1256.64,-2.51,Negative,5.0029,Low-Risk,Long-Hold
+Wolverine Wagers,UHS,Long,2025-07-24,2025-07-24,6,309,162.46,157.64,-1489.38,-2.97,Negative,5.02,Low-Risk,Long-Hold
+Wolverine Wagers,ASB,Long,2025-07-24,2025-07-24,6,1945,25.69,25.71,38.9,0.08,Positive,4.9967,Low-Risk,Long-Hold
+Alpha Omega,CRM,Long,2025-05-15,2025-05-23,8,40,289.27,278.15,-444.8,-3.84,Negative,1.1571,Low-Risk,Long-Hold
+Alpha Omega,COST,Long,2025-05-15,2025-05-23,8,14,992.65,1012.0,270.9,1.95,Positive,1.3897,Low-Risk,Long-Hold
+Alpha Omega,TSLA,Long,2025-05-15,2025-05-23,8,164,340.35,337.52,-464.12,-0.83,Negative,5.5817,Low-Risk,Long-Hold
+Alpha Omega,GME,Long,2025-05-15,2025-05-30,15,1000,28.5,29.25,750.0,2.63,Positive,2.85,Low-Risk,Long-Hold
+Alpha Omega,PFE,Long,2025-05-23,2025-06-06,14,2042,22.7605,23.25,999.56,2.15,Positive,4.6477,Low-Risk,Long-Hold
+Alpha Omega,NEM,Long,2025-05-15,2025-06-06,22,150,49.0,54.49,823.5,11.2,Positive,0.735,Low-Risk,Long-Hold
+Alpha Omega,LLY,Long,2025-05-15,2025-06-06,22,25,725.668,769.25,1089.55,6.01,Positive,1.8142,Low-Risk,Long-Hold
+Alpha Omega,KO,Long,2025-05-15,2025-06-06,22,160,69.68,71.09,225.6,2.02,Positive,1.1149,Low-Risk,Long-Hold
+Alpha Omega,ZEO,Long,2025-05-15,2025-06-06,22,62633,1.6654,2.78,69812.26,66.93,Positive,10.4307,High-Risk,Long-Hold
+Alpha Omega,EXR,Long,2025-05-15,2025-06-06,22,118,146.78,150.45,433.06,2.5,Positive,1.732,Low-Risk,Long-Hold
+Alpha Omega,ARKK,Long,2025-06-06,2025-06-13,7,355,58.19,60.62,862.65,4.18,Positive,2.0657,Low-Risk,Long-Hold
+Alpha Omega,PLAG,Long,2025-05-15,2025-06-13,29,3000,1.47,2.43,2880.0,65.31,Positive,0.441,Low-Risk,Long-Hold
+Alpha Omega,GME,Long,2025-05-15,2025-06-13,29,450,28.5,22.19,-2839.5,-22.14,Negative,1.2825,Low-Risk,Long-Hold
+Alpha Omega,NVDA,Long,2025-05-15,2025-06-27,43,50,134.3,156.0,1085.0,16.16,Positive,0.6715,Low-Risk,Long-Hold
+Alpha Omega,NFLX,Long,2025-05-15,2025-06-27,43,15,1147.74,1306.3,2378.4,13.81,Positive,1.7216,Low-Risk,Long-Hold
+Alpha Omega,GME,Long,2025-05-15,2025-06-27,43,200,28.5,23.99,-902.0,-15.82,Negative,0.57,Low-Risk,Long-Hold
+Alpha Omega,SURG,Long,2025-05-15,2025-07-11,57,9495,2.56,3.24,6456.6,26.56,Positive,2.4307,Low-Risk,Long-Hold
+Alpha Omega,SPWH,Long,2025-05-15,2025-07-11,57,6444,2.01,3.74,11148.12,86.07,Positive,1.2952,Low-Risk,Long-Hold
+Alpha Omega,SATS,Long,2025-06-06,2025-07-18,42,684,18.99,29.24,7011.0,53.98,Positive,1.2989,Low-Risk,Long-Hold
+Alpha Omega,NVDA,Long,2025-05-15,2025-07-18,64,391,139.868,173.73,13240.05,24.21,Positive,5.4688,Low-Risk,Long-Hold
+Alpha Omega,UPST,Long,2025-06-06,2025-07-18,42,253,53.38,78.5,6355.36,47.06,Positive,1.3505,Low-Risk,Long-Hold
+Alpha Omega,WMT,Long,2025-05-15,2025-07-24,76,167,94.28,96.6,387.44,2.46,Positive,1.5745,Low-Risk,Long-Hold
+Alpha Omega,GME,Long,2025-05-15,2025-07-24,76,1800,28.5,23.53,-8946.0,-17.44,Negative,5.13,Low-Risk,Long-Hold
+Alpha Omega,GME,Long,2025-07-18,2025-07-24,12,2135,23.48,23.53,106.75,0.21,Positive,5.013,Low-Risk,Long-Hold
+Alpha Omega,TWLO,Long,2025-05-15,2025-07-24,76,296,112.38,131.67,5709.84,17.16,Positive,3.3264,Low-Risk,Long-Hold
+Alpha Omega,EXR,Long,2025-05-15,2025-07-24,76,67,146.78,150.51,249.91,2.54,Positive,0.9834,Low-Risk,Long-Hold
+Alpha Omega,SHEL,Long,2025-05-15,2025-07-24,76,129,66.63,72.38,741.75,8.63,Positive,0.8595,Low-Risk,Long-Hold
+Alpha Omega,JPM,Long,2025-05-15,2025-07-24,76,94,266.97,296.55,2780.52,11.08,Positive,2.5095,Low-Risk,Long-Hold
+Alpha Omega,AVGO,Long,2025-05-15,2025-07-24,76,85,230.12,288.71,4980.15,25.46,Positive,1.956,Low-Risk,Long-Hold
+Alpha Omega,AVGO,Long,2025-06-13,2025-07-24,47,25,250.66,288.71,951.25,15.18,Positive,0.6267,Low-Risk,Long-Hold
+Alpha Omega,HD,Long,2025-05-15,2025-07-24,76,66,371.52,373.09,103.62,0.42,Positive,2.452,Low-Risk,Long-Hold
+Alpha Omega,META,Long,2025-05-15,2025-07-24,76,44,654.3,714.8,2662.0,9.25,Positive,2.8789,Low-Risk,Long-Hold
+Alpha Omega,GOOGL,Long,2025-05-15,2025-07-24,76,143,165.84,192.17,3765.19,15.88,Positive,2.3715,Low-Risk,Long-Hold
+Alpha Omega,GOOGL,Long,2025-05-30,2025-07-24,61,50,171.36,192.17,1040.5,12.14,Positive,0.8568,Low-Risk,Long-Hold
+Alpha Omega,OXY,Long,2025-05-15,2025-07-24,76,435,43.01,44.63,704.7,3.77,Positive,1.8709,Low-Risk,Long-Hold
+Alpha Omega,NOW,Long,2025-05-15,2025-07-24,76,22,1031.31,996.18,-772.86,-3.41,Negative,2.2689,Low-Risk,Long-Hold
+Alpha Omega,NOW,Long,2025-07-18,2025-07-24,12,35,958.0,996.18,1336.3,3.99,Positive,3.353,Low-Risk,Long-Hold
+Alpha Omega,NFLX,Long,2025-05-15,2025-07-24,76,17,1147.74,1180.76,561.34,2.88,Positive,1.9512,Low-Risk,Long-Hold
+Alpha Omega,GE,Long,2025-05-15,2025-07-24,76,22324,223.52,268.01,993194.76,19.9,Positive,498.986,High-Risk,Long-Hold
+Alpha Omega,DIS,Long,2025-05-15,2025-07-24,76,310,112.24,121.95,3010.1,8.65,Positive,3.4794,Low-Risk,Long-Hold
+Alpha Omega,DIS,Long,2025-05-23,2025-07-24,68,253,109.61,121.95,3122.02,11.26,Positive,2.7731,Low-Risk,Long-Hold
+Alpha Omega,SONY,Long,2025-05-15,2025-07-24,76,889,25.1,25.38,248.92,1.12,Positive,2.2314,Low-Risk,Long-Hold
+Alpha Omega,AAPL,Long,2025-05-15,2025-07-24,76,141,211.0,213.76,389.16,1.31,Positive,2.9751,Low-Risk,Long-Hold
+Alpha Omega,AAPL,Long,2025-05-30,2025-07-24,61,100,199.41,213.76,1435.0,7.2,Positive,1.9941,Low-Risk,Long-Hold
+Alpha Omega,CRM,Long,2025-05-15,2025-07-24,76,75,289.27,267.7,-1617.75,-7.46,Negative,2.1695,Low-Risk,Long-Hold
+Alpha Omega,CRM,Long,2025-07-18,2025-07-24,12,150,261.07,267.7,994.5,2.54,Positive,3.9161,Low-Risk,Long-Hold
+Alpha Omega,TSLA,Long,2025-06-13,2025-07-24,47,70,314.0,305.3,-609.0,-2.77,Negative,2.198,Low-Risk,Long-Hold
+Alpha Omega,TSLA,Long,2025-06-13,2025-07-24,47,75,314.0,305.3,-652.5,-2.77,Negative,2.355,Low-Risk,Long-Hold
+Alpha Omega,PFE,Long,2025-05-23,2025-07-24,68,615,22.97,25.35,1463.7,10.36,Positive,1.4127,Low-Risk,Long-Hold
+Alpha Omega,PFE,Long,2025-05-30,2025-07-24,61,250,23.51,25.35,460.0,7.83,Positive,0.5877,Low-Risk,Long-Hold
+Alpha Omega,PFE,Long,2025-06-27,2025-07-24,33,50,24.32,25.35,51.5,4.24,Positive,0.1216,Low-Risk,Long-Hold
+Alpha Omega,MSFT,Long,2025-05-15,2025-07-24,76,51,450.77,510.88,3065.61,13.33,Positive,2.2989,Low-Risk,Long-Hold
+Alpha Omega,MSFT,Long,2025-05-30,2025-07-24,61,30,459.72,510.88,1534.8,11.13,Positive,1.3792,Low-Risk,Long-Hold
+Alpha Omega,BAC,Long,2025-05-15,2025-07-24,76,668,44.61,48.39,2525.04,8.47,Positive,2.9799,Low-Risk,Long-Hold
+Alpha Omega,BAC,Long,2025-06-27,2025-07-24,33,200,47.26,48.39,226.0,2.39,Positive,0.9452,Low-Risk,Long-Hold
+Alpha Omega,BABA,Long,2025-05-15,2025-07-24,76,84,126.21,121.15,-425.04,-4.01,Negative,1.0602,Low-Risk,Long-Hold
+Alpha Omega,BABA,Long,2025-06-27,2025-07-24,33,100,114.37,121.15,678.0,5.93,Positive,1.1437,Low-Risk,Long-Hold
+Alpha Omega,COST,Long,2025-05-15,2025-07-24,76,9,992.65,933.8,-529.65,-5.93,Negative,0.8934,Low-Risk,Long-Hold
+Alpha Omega,COST,Long,2025-05-16,2025-07-24,75,581,1012.0,933.8,-45434.2,-7.73,Negative,58.7972,High-Risk,Long-Hold
+Alpha Omega,COST,Long,2025-05-30,2025-07-24,61,7,1002.55,933.8,-481.25,-6.86,Negative,0.7018,Low-Risk,Long-Hold
+Alpha Omega,COST,Long,2025-07-18,2025-07-24,12,27,958.14,933.8,-657.18,-2.54,Negative,2.587,Low-Risk,Long-Hold
+Alpha Omega,SBUX,Long,2025-05-15,2025-07-24,76,269,86.54,93.7,1926.04,8.27,Positive,2.3279,Low-Risk,Long-Hold
+Alpha Omega,F,Long,2025-05-15,2025-07-24,76,3339,10.59,11.26,2237.13,6.33,Positive,3.536,Low-Risk,Long-Hold
+Alpha Omega,F,Long,2025-06-27,2025-07-24,33,300,10.69,11.26,171.0,5.33,Positive,0.3207,Low-Risk,Long-Hold
+Alpha Omega,PFGC,Long,2025-05-15,2025-07-24,76,303,86.73,97.99,3411.78,12.98,Positive,2.6279,Low-Risk,Long-Hold
+Alpha Omega,GM,Long,2025-05-16,2025-07-24,75,100,50.11,52.34,223.0,4.45,Positive,0.5011,Low-Risk,Long-Hold
+Alpha Omega,EBAY,Long,2025-05-16,2025-07-24,75,50,70.9,82.45,577.5,16.29,Positive,0.3545,Low-Risk,Long-Hold
+Alpha Omega,AMZN,Long,2025-05-30,2025-07-24,61,40,204.78,232.23,1098.0,13.4,Positive,0.8191,Low-Risk,Long-Hold
+Alpha Omega,CVNA,Long,2025-06-06,2025-07-24,54,29,347.8,326.09,-629.59,-6.24,Negative,1.0086,Low-Risk,Long-Hold
+Alpha Omega,CVNA,Long,2025-07-11,2025-07-24,19,14,344.16,326.09,-252.98,-5.25,Negative,0.4818,Low-Risk,Long-Hold
+Alpha Omega,SMCI,Long,2025-06-06,2025-07-24,54,40,42.0,52.52,420.8,25.05,Positive,0.168,Low-Risk,Long-Hold
+Alpha Omega,ENPH,Long,2025-06-06,2025-07-24,54,242,41.68,35.52,-1490.72,-14.78,Negative,1.0087,Low-Risk,Long-Hold
+Alpha Omega,ASML,Long,2025-06-13,2025-07-24,47,10,766.89,725.08,-418.1,-5.45,Negative,0.7669,Low-Risk,Long-Hold
+Alpha Omega,FTNT,Long,2025-06-13,2025-07-24,47,100,100.78,104.77,399.0,3.96,Positive,1.0078,Low-Risk,Long-Hold
+Alpha Omega,ONON,Long,2025-06-13,2025-07-24,47,300,54.19,49.95,-1272.0,-7.82,Negative,1.6257,Low-Risk,Long-Hold
+Alpha Omega,VRTX,Long,2025-06-13,2025-07-24,47,50,455.39,472.27,844.0,3.71,Positive,2.277,Low-Risk,Long-Hold
+Alpha Omega,TSM,Long,2025-06-13,2025-07-24,47,100,210.11,241.6,3149.0,14.99,Positive,2.1011,Low-Risk,Long-Hold
+Alpha Omega,TSM,Long,2025-07-11,2025-07-24,19,43,231.0,241.6,455.8,4.59,Positive,0.9933,Low-Risk,Long-Hold
+Alpha Omega,XOM,Long,2025-07-11,2025-07-24,19,88,114.82,110.79,-354.64,-3.51,Negative,1.0104,Low-Risk,Long-Hold
+Alpha Omega,KMI,Long,2025-07-11,2025-07-24,19,421,27.77,27.42,-147.35,-1.26,Negative,1.1691,Low-Risk,Long-Hold
+Alpha Omega,DAL,Long,2025-07-11,2025-07-24,19,127,56.35,54.71,-208.28,-2.91,Negative,0.7156,Low-Risk,Long-Hold
