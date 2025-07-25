@@ -254,9 +254,14 @@ def create_framework_chart(df, log_hold_threshold):
     
     # Update layout
     fig.update_layout(
-        title='Risk Appetite vs Holding Period Analysis',
-        width=800,
-        height=600
+        title=dict(
+            text='Risk Appetite vs Holding Period Analysis',
+            x=0.45,  # Center the title over the plot area (accounting for right margin)
+            xanchor='center'
+        ),
+        width=1000,  # Increased width to accommodate external legend
+        height=600,
+        margin=dict(r=200)  # Add right margin to provide space for external legend
     )
     
             
@@ -290,7 +295,7 @@ def create_framework_chart(df, log_hold_threshold):
     # Customize layout
     fig.update_layout(
         xaxis=dict(
-            title='Holding Period (Days)',
+            title='',  # Remove default title, we'll add custom annotation
             showgrid=True,
             gridwidth=1,
             gridcolor='lightgray',
@@ -340,17 +345,27 @@ def create_framework_chart(df, log_hold_threshold):
     
     # Add dividing lines at threshold values
     fig.add_hline(y=log_risk_threshold, line_dash="dash", line_color="black", opacity=0.7, 
-                  annotation_text="8% Portfolio Threshold", annotation_position="right")
+                  annotation_text="8% Portfolio", annotation_position="right")
     fig.add_vline(x=even_spaced_threshold, line_dash="dash", line_color="black", opacity=0.7,
                   annotation_text="6 Day Threshold", annotation_position="top")
     
-    # Add explanatory text annotations for legend in top-right corner
+    # Add custom x-axis title positioned to the right
     fig.add_annotation(
-        x=0.98, y=0.98, xref="paper", yref="paper",
+        x=0.53, y=-0.05, xref="paper", yref="paper",
+        text="Holding Period (Days)",
+        showarrow=False,
+        xanchor="center",
+        yanchor="top",
+        font=dict(size=12)
+    )
+    
+    # Add explanatory text annotations for legend outside the plot area
+    fig.add_annotation(
+        x=1.05, y=0.98, xref="paper", yref="paper",
         text="<b>Color:</b><br>🟢 Green = Gain<br>🔴 Red = Loss<br><br><b>Opacity:</b><br>Bright = Seventh Sense<br>Faded = Other Teams<br><br><b>Size:</b><br>Larger = Higher P/L",
         showarrow=False,
         align="left",
-        xanchor="right",
+        xanchor="left",
         yanchor="top",
         bgcolor="rgba(255,255,255,0.9)",
         bordercolor="gray",
