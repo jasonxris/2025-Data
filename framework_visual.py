@@ -77,9 +77,9 @@ def load_trades_data():
     np.random.seed(42)  # For reproducible results
     df['holding_days_jittered'] = df['holding_days'].astype(float).copy()
     
-    # For same-day trades (0 days), add jitter between 0-1 to spread them out
+    # For same-day trades (0 days), add jitter between 0.05-0.95 to spread them out in the 0-1 range
     same_day_mask = df['holding_days'] == 0
-    jitter_amount = np.random.uniform(0.1, 0.9, size=same_day_mask.sum())
+    jitter_amount = np.random.uniform(0.05, 0.95, size=same_day_mask.sum())
     df.loc[same_day_mask, 'holding_days_jittered'] = jitter_amount
     
     df['log_holding_days'] = np.log10(df['holding_days_jittered'] + 1)
@@ -154,6 +154,27 @@ def load_trades_data():
     
     df['pl_size'] = df['abs_pl'].apply(scale_bubble_size)
     
+    # Create evenly spaced x-axis mapping for better visual balance
+    x_tick_positions = [0, 1, 2, 3, 4, 5, 6, 7, 8]  # Evenly spaced positions (added 0 for same-day)
+    actual_log_values = [np.log10(0.1+1), np.log10(1+1), np.log10(2+1), np.log10(4+1), log_hold_threshold, np.log10(16+1), np.log10(30+1), np.log10(60+1), np.log10(120+1)]
+    
+    # Create a mapping function to transform log values to evenly spaced positions
+    def map_to_even_spacing(log_val):
+        # Find which segment the log value falls into and interpolate to even spacing
+        for i in range(len(actual_log_values) - 1):
+            if actual_log_values[i] <= log_val <= actual_log_values[i + 1]:
+                ratio = (log_val - actual_log_values[i]) / (actual_log_values[i + 1] - actual_log_values[i])
+                return x_tick_positions[i] + ratio * (x_tick_positions[i + 1] - x_tick_positions[i])
+        # Handle edge cases
+        if log_val <= actual_log_values[0]:
+            return x_tick_positions[0]
+        elif log_val >= actual_log_values[-1]:
+            return x_tick_positions[-1]
+        return log_val  # Fallback
+    
+    # Apply the mapping to transform the log holding days to evenly spaced values
+    df['even_spaced_holding'] = df['log_holding_days'].apply(map_to_even_spacing)
+    
     return df, log_hold_threshold
 
 
@@ -166,7 +187,7 @@ def create_framework_chart(df, log_hold_threshold):
     # Create scatter plot using px.scatter with profit/loss colors
     fig = px.scatter(
         df,
-        x='log_holding_days',
+        x='even_spaced_holding',
         y='log_pct_portfolio',
         size='pl_size',
         color='profit_color',
@@ -222,8 +243,8 @@ def create_framework_chart(df, log_hold_threshold):
     # Get axis ranges
     y_log_min = df['log_pct_portfolio'].min()
     y_log_max = df['log_pct_portfolio'].max()
-    x_log_min = df['log_holding_days'].min()
-    x_log_max = df['log_holding_days'].max()
+    x_log_min = df['even_spaced_holding'].min()
+    x_log_max = df['even_spaced_holding'].max()
     
     # Create evenly spaced y-axis ticks that represent the correct percentage values
     y_percentages = [0, 1, 2, 4, 8, 16, 50, 100, 200, 300]
@@ -236,13 +257,14 @@ def create_framework_chart(df, log_hold_threshold):
     # 8% is at index 4 in the y_percentages list [0, 1, 2, 4, 8, 16, 50, 100, 200, 300]
     log_risk_threshold = 4
     
-    # Create x-axis tick positions and labels (holding days) - using +1 for log transform consistency
-    x_tick_values = [np.log10(1+1), np.log10(2+1), np.log10(4+1), log_hold_threshold, np.log10(16+1), np.log10(30+1), np.log10(60+1), np.log10(120+1)]
-    x_tick_labels = ['1', '2', '4', '6', '16', '30', '60', '120']
+    # Set up evenly spaced x-axis tick labels and positions
+    x_tick_positions = [0, 1, 2, 3, 4, 5, 6, 7, 8]  # Evenly spaced positions
+    x_tick_labels = ['0', '1', '2', '4', '6', '16', '30', '60', '120']  # Meaningful day values
+    even_spaced_threshold = x_tick_positions[4]  # Position for 6 days (index 4)
     
     # Filter x-axis ticks to reasonable ranges
-    valid_x_ticks = [(val, label) for val, label in zip(x_tick_values, x_tick_labels) 
-                     if x_log_min <= val <= x_log_max]
+    valid_x_ticks = [(pos, label) for pos, label in zip(x_tick_positions, x_tick_labels) 
+                     if x_log_min <= pos <= x_log_max]
     
     # Customize layout
     fig.update_layout(
@@ -274,8 +296,8 @@ def create_framework_chart(df, log_hold_threshold):
     )
     
     # Calculate midpoints for quadrant labels - use padding areas for y-positioning
-    x_log_mid_short = (x_log_min + log_hold_threshold) / 2  # Midpoint of 0-8 days range
-    x_log_mid_long = (log_hold_threshold + x_log_max) / 2   # Midpoint of 8+ days range
+    x_log_mid_short = (x_log_min + even_spaced_threshold) / 2  # Midpoint of 0-6 days range
+    x_log_mid_long = (even_spaced_threshold + x_log_max) / 2   # Midpoint of 6+ days range
     
     # Position labels higher up to leave space below them for statistics
     y_label_bottom = -0.5   # Bottom padding area for titles (leave space below for stats)
@@ -298,7 +320,7 @@ def create_framework_chart(df, log_hold_threshold):
     # Add dividing lines at threshold values
     fig.add_hline(y=log_risk_threshold, line_dash="dash", line_color="black", opacity=0.7, 
                   annotation_text="8% Portfolio Threshold", annotation_position="right")
-    fig.add_vline(x=log_hold_threshold, line_dash="dash", line_color="black", opacity=0.7,
+    fig.add_vline(x=even_spaced_threshold, line_dash="dash", line_color="black", opacity=0.7,
                   annotation_text="6 Day Threshold", annotation_position="top")
     
     # Add explanatory text annotations for legend in top-right corner
