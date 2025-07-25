@@ -113,9 +113,46 @@ def load_trades_data():
     # Sort so target team dots are drawn last (on top)
     df = df.sort_values('is_target_team', ascending=True)  # False first, True last
     
-    # Absolute P/L for bubble sizing with much larger minimum size
+    # Better bubble sizing with proper scaling
     df['abs_pl'] = df['total_pl_usd'].abs()
-    df['pl_size'] = df['abs_pl'] + 40000  # 4x larger minimum size for better visibility
+    
+    # Define size range for bubbles - much wider range for better differentiation
+    min_bubble_size = 5000   # Very small for tiny trades
+    max_bubble_size = 300000  # Large for big trades
+    
+    # Get the actual P/L range in your data
+    min_pl = df['abs_pl'].min()
+    max_pl = df['abs_pl'].max()
+    
+    print(f"P/L range: ${min_pl:,.0f} to ${max_pl:,.0f}")
+    
+    # Much more aggressive scaling with multiple breakpoints
+    def scale_bubble_size(pl_value):
+        if max_pl == min_pl:  # Avoid division by zero
+            return min_bubble_size
+        
+        # Create breakpoints for different scaling behavior
+        if pl_value <= 1000:  # Very small trades
+            # Map $0-$1000 to size 5000-15000
+            ratio = pl_value / 1000
+            return 5000 + 10000 * ratio
+            
+        elif pl_value <= 25000:  # Small-medium trades  
+            # Map $1000-$25000 to size 15000-80000 (big jump here)
+            ratio = (pl_value - 1000) / (25000 - 1000)
+            return 15000 + 65000 * ratio
+            
+        elif pl_value <= 100000:  # Medium-large trades
+            # Map $25000-$100000 to size 80000-150000
+            ratio = (pl_value - 25000) / (100000 - 25000)
+            return 80000 + 70000 * ratio
+            
+        else:  # Very large trades
+            # Map $100000+ to size 150000-300000
+            ratio = min(1.0, (pl_value - 100000) / (max_pl - 100000))
+            return 150000 + 150000 * ratio
+    
+    df['pl_size'] = df['abs_pl'].apply(scale_bubble_size)
     
     return df, log_hold_threshold
 
