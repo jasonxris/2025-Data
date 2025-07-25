@@ -31,7 +31,8 @@ from pathlib import Path
 # -----------------------------------------------------------------
 DATA_FILE = Path(__file__).resolve().parent / "output" / "processed_trades.csv"
 TARGET_TEAM = "Seventh Sense Investing"  # Team to highlight in color
-OUTPUT_FILE = Path(__file__).resolve().parent / "output" / "framework_visual.html"
+OUTPUT_FILE = Path(__file__).resolve().parent / "index.html"  # Root level for easy GitHub Pages hosting
+BACKUP_OUTPUT_FILE = Path(__file__).resolve().parent / "output" / "framework_visual.html"  # Keep backup in output folder
 
 
 
@@ -467,9 +468,15 @@ def main():
         # Create visualization
         fig = create_framework_chart(df, log_hold_threshold)
         
-        # Save interactive HTML
+        # Save interactive HTML in root for GitHub Pages and backup in output folder
         fig.write_html(OUTPUT_FILE)
+        fig.write_html(BACKUP_OUTPUT_FILE)
         print(f"Framework visualization saved to: {OUTPUT_FILE}")
+        print(f"Backup saved to: {BACKUP_OUTPUT_FILE}")
+        print(f"\nTo host on GitHub Pages:")
+        print(f"1. Commit and push index.html to your repository")
+        print(f"2. Enable GitHub Pages in repository settings")
+        print(f"3. Your visualization will be available at: https://yourusername.github.io/yourreponame/")
         
         # Show in browser (optional - comment out if not desired)
         fig.show()
